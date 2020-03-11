@@ -1,0 +1,18 @@
+te::wsk:[cls=B,as=None,vc=[-ps,-cs]]:ወሰ፟ከ
+te::kd`:[cls=A,as=None,vc=[-cs,-ps]]:ከድዐ
+te::qds:[cls=B,as=None,vc=[-ps,-cs]]:ቀደ፟ሰ
+te::Sw`:[cls=B,as=None,vc=[-ps,-cs]]:ጸውዐ
+te::`lb:[cls=B,as=None,vc=[-ps,-cs]]:አለ፟በ
+te::kst:[cls=A,as=None,vc=[-ps,-cs]]:ከስተ
+te::lgd:[cls=A,as=None,vc=[-cs,-ps]]:ለግደ
+te::sbk:[cls=A,as=None,vc=[-ps,-cs]]:ሰብከ
+ kone??
+
+ks::lbs:[cls=A,as=None,vc=[-cs,-ps]]:ለበ፟ሶ
+ks::gbh:[cls=A,as=smp,vc=[-cs,-ps]]:ገባ፟ው
+ks::brgg:[cls=E,+dup,as=None,vc=[-ps,-cs]]:ብረገ፟ጎ
+ks::Cwt:[cls=C,as=None,vc=[-cs,+ps]]:ተጫወ፟ቶ
+ks::hrs:[cls=A,as=None,vc=[-cs,-ps]]:አረ፟ሶ
+ks::ngh:[cls=A,as=None,vc=[-ps,-cs]]:ነጋ፟ው
+ks::qTh:[cls=A,as=None,vc=[-ps,-cs]]:ቀጣ፟ው;;
+am::gWdl:[as=smp,vc=smp]:ጐደ፟ለ

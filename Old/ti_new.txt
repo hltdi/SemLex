@@ -1,0 +1,54 @@
+ሓዝአ;Hz':'[as=smp,vc=smp]';;reserve_v;retain_v;book_v
+ሓገገ;Hg_g:'[as=smp,vc=smp]';;decree_v;make_v law
+መለቘ;mlqW:'[as=smp,vc=smp]';;escape_v
+መስነወ;msnw:'[as=smp,vc=smp]';;irrigate_v
+መጸጸ;mSS:'[as=smp,vc=smp]';;become_v sour
+ማእረረ;m'rr:'[as=smp,vc=smp]';;browse_v
+መለቘ;mlqW:'[as=smp,vc=smp]';;escape_v from
+ረቕሐ;rqH:'[as=smp,vc=smp]';;mention_v
+ረረወ;rrw:'[as=smp,vc=smp]';;rock_v;swing_v;sway_v
+ሰውአ;sw_':'[as=smp,vc=smp]';;sacrifice_v
+ቀይሐ;qy_H:'[as=smp,vc=smp]';;redden_v
+ተሰወአ;sw_':'[as=smp,vc=ps]';;sacrifice_v
+ተተስፈወ;tsfw:'[as=smp,vc=ps]';;hope_v for
+ጸወረ;Sw_r:'[as=smp,vc=smp]';;carry_v;bear_v
+ተፈንጠረ;fnTr:'[as=smp,vc=ps]';;be_v trapped;trap_v[ps]
+ፈንጠረ;fnTr:'[as=smp,vc=smp]';;trap_v;trick_v
+ተኣደበ;'d_b:'[as=smp,vc=ps]';;behave_v oneself;be_v calm;be_v patient
+ኣደበ;'d_b:'[as=smp,vc=smp]';;correct_v;educate_v;train_v;discipline_v
+ነቕሐ;nqH:'[as=smp,vc=smp]';;be_v awake;be_v aware;be_v enlightened;enlighten_v[ps]
+ነተጐ;ntWg:'[as=smp,vc=smp]';;burst_v;explode_v
+ኣሰፍሐ;sf_H:'[as=smp,vc=tr]';;expand_v
+ኣንበልበለ;n|blbl:'[as=smp,vc=tr]';;flourish_v;flourish_v;flicker_v
+ኣኸበረ;kb_r:'[as=smp,vc=tr]';;respect_v
+ኣኸበበ;kb_b:'[as=smp,vc=tr]';;surround_v
+ኣለለየ;ll_y:'[as=smp,vc=tr]';;distinguish_v;recognize_v
+ሓረተ;Hr_t:'[as=smp,vc=smp]';;get_v burned
+ኣሕሸኹሸዀ;H|xkWxkW:'[as=smp,vc=tr]';;whisper_v
+ኣመሰለ;ms_l:'[as=smp,vc=tr]';;assert_v;affirm_v;maintain_v;intend_v
+ተንበርከኸ;n|brkk:'[as=smp,vc=ps]';;kneel_v down
+ኣመጐሰ;mWg_s:'[as=smp,vc=tr]';;appreciate_v
+መጐሰ;mWg_s:'[as=smp,vc=smp]';;praise_v;applaud_v
+ኣረከበ;rk_b:'[as=smp,vc=tr]';;deliver_v;hand_v in
+ኣርበሐ;rbH:'[as=smp,vc=tr]';;multiply_v
+ረብሐ;rbH:'[as=smp,vc=smp]';;be_v multiplied;multiply_v[ps];be_v advantaged;advantage_v[ps];benefit_v;profit_v
+ኣረከበ;rk_b:'[as=smp,vc=tr]';;hand_v over;entrust_v;transfer_v
+ኣቶመመ;tWmm:'[as=smp,vc=tr]';;put_v out of shape;deform_v
+ቶመመ;tWmm:'[as=smp,vc=smp]';;be_v deformed;deform_v[ps];be_v twisted;twist_v[ps];have_v a crooked mouth
+ተኸኸ;tkk:'[as=smp,vc=ps]';;make_v smoke;get_v angry;be_v annoyed;annoy_v[ps]
+ኣንሰሓበ;n|sHaby:'[as=smp,vc=tr]';;withdraw_v;draw_v;step_v back
+ኣንወሐ;nwH:'[as=smp,vc=tr]';;lengthen_v;extend_v
+ነውሐ;nwH:'[as=smp,vc=smp]';;be_v tall;be_v extended;extend_v[ps]
+ኣንጸሐ;nSH:'[as=smp,vc=tr]';;purify_v
+ነጽሐ;nSH:'[as=smp,vc=smp]';;be_v pure;be_v clean
+ኣዓገበ;`gb:'[as=smp,vc=tr]';;satisfy_v
+ዓገበ;`gb:'[as=smp,vc=smp]';;be_v satisfied;satisfy_v[ps];be_v pleased;please_v[ps]
+ዓገበ;`g_b:'[as=smp,vc=smp]';;make_v a mistake
+ኣድነቐ;dnq:'[as=smp,vc=tr]';;admire_v
+ኣዕለቕለቐ;`|lqlq:'[as=smp,vc=tr]';;inundate_v;flood_v;swamp_v
+ቀምቀመ;qmqm:'[as=smp,vc=smp]';;trim_v;cut_v
+ከፍአ;kf':'[as=smp,vc=smp]';;be_v ugly;become_v worse
+ተዓቝበ;`qWb:'[as=smp,vc=ps]';;take_v shelter;seek_v refuge
+ኣዕቆበ;`qWb:'[as=smp,vc=tr]';;shelter_v;host_v
+ዘወረ;zw_r:'[as=smp,vc=smp]';;drive_v;conduct_v
+ጸወረ;Sw_r:'[as=smp,vc=smp]';;keep_v up;maintain_v

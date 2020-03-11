@@ -1,0 +1,893 @@
+ሃለወ;hl_w:[as=smp,vc=smp];;exist_v;live_v
+ሃረመ;hrm:[as=smp,vc=smp];;knock_v;beat_v
+ሃቀነ;hq_n:[as=smp,vc=smp];;aim_v
+ሃበ;whb:[as=smp,vc=smp];;give_v;supply_v;provide_v;offer_v;reward_v
+ሃብተመ;hbtm:[as=smp,vc=smp];;become_v rich
+ሃነጸ;hnS:[as=smp,vc=smp];;construct_v;build_v
+ሃወኸ;hw_k:[as=smp,vc=smp];;bother_v;disturb_v
+ሃደመ;hdm:[as=smp,vc=smp];;flee_v;avoid_v;shun_v
+ሃደነ;hdn:[as=smp,vc=smp];;hunt_v;dispel_v;chase_v
+ሃደደ;hd_d:[as=smp,vc=smp];;threaten_v
+ሃድአ;hd':[as=smp,vc=smp];;calm_v;pacify_v;soothe_v
+ለመመ;lmm:[as=smp,vc=smp];;crawl_v
+ለመነ;lm_n:[as=smp,vc=smp];;beg_v
+ለመደ;lmd:[as=smp,vc=smp];;get_v used to
+ለመጸ;lmS:[as=smp,vc=smp];;varnish_v
+ለሓሰ;lHs:[as=smp,vc=smp];;lick_v
+ለቐቐ;lqq:[as=smp,vc=smp];;release_v;free_v
+ለበሰ;lbs:[as=smp,vc=smp];;wear_v;dress_v
+ለኣኸ;l'k:[as=smp,vc=smp];;send_v
+ለወሰ;lw_s:[as=smp,vc=smp];;knead_v
+ለወየ;lwy:[as=smp,vc=smp];;bend_v down;stoop_v
+ለወጠ;lw_T:[as=smp,vc=smp];;change_v;switch_v
+ለዋወጠ;lw_T:[as=it,vc=smp];;exchange_v
+ለዓለ;l`l:[as=smp,vc=smp];;raise_v
+ለዘበ;lzb:[as=smp,vc=smp];;soften_v
+ለገሰ;lgs:[as=smp,vc=smp];;grant_v
+ለገበ;lg_b:[as=smp,vc=smp];;patch_v
+ለገበ;lg_b:[as=smp,vc=smp];;be_v attached;attach_v[ps];bond_v
+ለጠፈ;lT_f:[as=smp,vc=smp];;stick_v;glue_v
+ላጸየ;laSy:[as=smp,vc=smp];;shave_v
+ሓብአ;Hb':[as=smp,vc=smp];;hide_v
+ሓለመ;Hlm:[as=smp,vc=smp];;dream_v
+ሓለፈ;Hlf:[as=smp,vc=smp];;pass_v;get_v around;cross_v
+ሓመመ;Hmm:[as=smp,vc=smp,ob=[+xpl]];;be_v sick
+ሓምሸሸ;Hmxx:[as=smp,vc=smp];;crush_v
+ሓምበሰ;Hmbs:[as=smp,vc=smp];;swim_v
+ሓረሰ;Hrs:[as=smp,vc=smp];;plough_v
+ሓረሰት;Hrs:[as=smp,vc=smp];;give_v birth
+ሓረየ;Hry:[as=smp,vc=smp];;pick_v;choose_v
+ሓረደ;Hrd:[as=smp,vc=smp];;cut_v;slaughter_v
+ሓርሓረ;HrHr:[as=smp,vc=smp];;saw_v off
+ሓሰበ;Hsb:[as=smp,vc=smp];;think_v;consider_v
+ሓሰወ;Hs_w:[as=smp,vc=smp];;lie_v
+ሓሸሸ;Hx_x:[as=smp,vc=smp];;spend_v
+ሓቐቐ;Hqq:[as=smp,vc=smp];;melt_v;dissolve_v
+ሓቖነ;HqWn:[as=smp,vc=smp];;shake_v
+ሓበረ;Hbr:[as=smp,vc=smp];;suggest_v;direct_v
+ሓብአ;Hb':[as=smp,vc=smp];;hide_v;conceal_v
+ሓተመ;Htm:[as=smp,vc=smp];;print_v
+ሓተተ;Htt:[as=smp,vc=smp];;demand_v;apply_v;ask_v
+ሓንፈጠ;HnfT:[as=smp,vc=smp];;scratch_v
+ሓከመ;Hk_m:[as=smp,vc=smp];;treat_v;look_v after
+ሓኸኸ;Hkk:[as=smp,vc=smp];;scrape_v
+ሓኾረ;HkWr:[as=smp,vc=smp];;climb_v
+ሓወሰ;Hw_s:[as=smp,vc=smp];;mix_v
+ሓወየ;Hw_y:[as=smp,vc=smp];;cure_v
+ሓዋወሰ;Hw_s:[as=it,vc=smp];;mix_v
+ሓዘ;tHz:[as=smp,vc=smp];;hold_v;handle_v;keep_v;occupy_v
+ሓደገ;Hdg:[as=smp,vc=smp];;let_v
+ሓገዘ;Hg_z:[as=smp,vc=smp];;assist_v;help_v
+ሓግሓገ;HgHg:[as=smp,vc=smp];;rake_v;search_v
+ሓጨጨ;HC_C:[as=smp,vc=smp];;tease_v;mock_v
+ሓጥአ;HT':[as=smp,vc=smp];;sin_v
+ሓጸበ;HSb:[as=smp,vc=smp];;wash_v
+ሓፈሰ;Hfs:[as=smp,vc=smp];;harvest_v;be_v thick
+ሓጸየ;HSy:[as=smp,vc=smp];;nominate_v
+መሃረ;mhr:[as=smp,vc=smp];;educate_v;teach_v
+መሃዘ;mhz:[as=smp,vc=smp];;create_v;invent_v
+መለሰ;ml_s:[as=smp,vc=smp];;return_v;restore_v;give_v back;take_v back
+መለሰ;ml_s:[as=smp,vc=smp];;answer_v;reply_v
+መለአ;ml':[as=smp,vc=smp];;supply_v;add_v
+መልአ;ml':[as=smp,vc=smp];;fill_v up
+መሓለ;mHl:[as=smp,vc=smp];;swear_v;vow_v
+መሓረ;mHr:[as=smp,vc=smp];;excuse_v;forgive_v
+መመየ;mmy:[as=smp,vc=smp];;sort_v
+መረቐ;mr_q:[as=smp,vc=smp];;bless_v
+መረጸ;mrS:[as=smp,vc=smp];;choose_v;pick_v;select_v;prefer_v;elect_v
+መርሐ;mrH:[as=smp,vc=smp];;lead_v;direct_v
+መርመረ;mrmr:[as=smp,vc=smp];;examine_v;scrutinize_v
+መስረተ;msrt:[as=smp,vc=smp];;establish_v
+መሰለ;msl:[as=smp,vc=smp];;seem_v
+መሰለ;msl:[as=smp,vc=smp];;use_v proverb;use_v allegory
+መስከረ;mskr:[as=smp,vc=smp];;testify_v;give_v evidence
+መሽመሸ;mxmx:[as=smp,vc=smp];;rot_v;spoil_v
+መቐለ;mql:[as=smp,vc=smp];;divide_v up;share_v
+መኸረ;mkr:[as=smp,vc=smp];;advise_v
+መኸኸ;mkk:[as=smp,vc=smp];;melt_v;dissolve_v
+መዘነ;mzn:[as=smp,vc=smp];;weigh_v;consider_v;estimate_v;assess_v
+መዘዘ;mz_z:[as=smp,vc=smp];;assign_v
+መዘዘ;mz_z:[as=smp,vc=smp];;pull_v out;take_v out;draw_v out
+መደበ;md_b:[as=smp,vc=smp];;decide_v
+መገበ;mg_b:[as=smp,vc=smp];;serve_v
+መጠጠ;mTT:[as=smp,vc=smp];;stretch_v
+መጸ;mS':[as=smp,vc=smp];;come_v
+መጽአ;mS':[as=smp,vc=smp];;come_v
+መጸየ;mSy:[as=smp,vc=smp];;suck_v
+መሓወ;mHw:[as=smp,vc=smp];;tear_v out;uproot_v;pull_v up
+ማረኸ;mark:[as=smp,vc=smp];;attract_v
+ማሰየ;masy:[as=smp,vc=smp];;make_v fun of;tease_v
+ሞተ;mwt:[as=smp,vc=smp];;perish_v;decease_v;die_v
+ረሃጸ;rhS:[as=smp,vc=smp];;perspire_v;sweat_v
+ረሓቐ;rHq:[as=smp,vc=smp];;go_v away;move_v away
+ረሰዐ;rs_`:[as=smp,vc=smp];;forget_v
+ረስዐ;rs_`:[as=smp,vc=smp];;forget_v
+ረበበ;rbb:[as=smp,vc=smp];;align_v
+ረብረበ;rbrb:[as=smp,vc=smp];;water_v;wet_v;spray_v
+ረኣየ;r'y:[as=smp,vc=smp];;see_v
+ረኸበ;rkb:[as=smp,vc=smp];;find_v;get_v;discover_v
+ረድአ;rd_':[as=smp,vc=smp];;help_v;assist_v;aid_v
+ረገመ;rgm:[as=smp,vc=smp];;curse_v
+ረጐደ;rgWd:[as=smp,vc=smp];;enlarge_v
+ረጥረጠ;rTrT:[as=smp,vc=smp];;abandon_v
+ሰለመ;sl_m:[as=smp,vc=smp];;decorate_v
+ሰልከየ;slky:[as=smp,vc=smp];;be_v bored;bore_v[ps]
+ሰሓለ;sHl:[as=smp,vc=smp];;sharpen_v
+ሰሓቐ;sHq:[as=smp,vc=smp];;laugh_v
+ሰሓበ;sHb:[as=smp,vc=smp];;pull_v
+ሰሓተ;sHt:[as=smp,vc=smp];;miss_v a target;err_v;make_v a mistake
+ሰመረ;smr:[as=smp,vc=smp];;grant_v;fulfill_v;unite_v;combine_v
+ሰመረ;smr:[as=smp,vc=smp];;fasten_v;nail_v;attach_v with;draw_v a line
+ሰምዐ;sm`:[as=smp,vc=smp];;listen_v
+ሰረቐ;srq:[as=smp,vc=smp];;steal_v;burgle_v
+ሰረተ;sr_t:[as=smp,vc=smp];;fund_v;found_v
+ሰረጸ;srS:[as=smp,vc=smp];;penetrate_v
+ሰርሐ;srH:[as=smp,vc=smp];;manufacture_v;build_v
+ሰርዐ;sr`:[as=smp,vc=smp];;organize_v;arrange_v;set_v up
+ሰቐለ;sql:[as=smp,vc=smp];;collide_v with;engage_v
+ሰበረ;sbr:[as=smp,vc=smp];;break_v;break_v up
+ሰበኸ;sbk:[as=smp,vc=smp];;preach_v
+ሰተረ;str:[as=smp,vc=smp];;conceal_v;hide_v;cover_v
+ሰተረ;str:[as=smp,vc=smp];;untangle_v hair;straighten_v up hair;comb_v
+ሰተየ;sty:[as=smp,vc=smp];;drink_v
+ሰንደወ;sndw:[as=smp,vc=smp];;throw_v
+ሰንጠቐ;snTq:[as=smp,vc=smp];;pierce_v;penetrate_v
+ሰኣለ;s'l:[as=smp,vc=smp];;paint_v;photograph_v;draw_v;design_v
+ሰኹለለ;skWll:[as=smp,vc=smp];;squander_v
+ሰዓለ;s`l:[as=smp,vc=smp];;cough_v
+ሰዓመ;s`m:[as=smp,vc=smp];;kiss_v
+ሰዓረ;s`r:[as=smp,vc=smp];;rise_v above;win_v;defeat_v;beat_v;overcome_v;outdo_v
+ሰዓበ;s`b:[as=smp,vc=smp];;join_v;follow_v;come_v after
+ሰደደ;sdd:[as=smp,vc=smp];;release_v;loosen_v;slacken_v;let_v go of;dispatch_v;send_v
+ሰደደ;sdd:[as=smp,vc=smp];;misbehave_v;be_v mischievous
+ሰገረ;sgr:[as=smp,vc=smp];;cross_v;pass_v
+ሰጥሐ;sTH:[as=smp,vc=smp];;spread_v;lay_v
+ሰፈየ;sfy:[as=smp,vc=smp];;sew_v;stitch_v
+ሰፈፈ;sff:[as=smp,vc=smp];;navigate_v
+ሰጐመ;sgW_m:[as=smp,vc=smp];;walk_v
+ሳዕሰዐ;s`s`:[as=smp,vc=smp];;dance_v
+ሸተተ;xt_t:[as=smp,vc=smp];;smell_v
+ሸጠ;xyT:[as=smp,vc=smp];;sell_v
+ሸፈነ;xf_n:[as=smp,vc=smp];;cover_v
+ሾመ;xwm:[as=smp,vc=smp];;appoint_v
+ቀሃመ;qhm:[as=smp,vc=smp];;fade_v
+ቀለጠ;qlT:[as=smp,vc=smp];;peel_v
+ቀልዐ;ql`:[as=smp,vc=smp];;reveal_v;disclose_v;make_v widely known;show_v
+ቀልጠፈ;qlTf:[as=smp,vc=smp];;rush_v;hurry_v up
+ቀረመ;qr_m:[as=smp,vc=smp];;glean_v
+ቀረበ;qrb:[as=smp,vc=smp];;furnish_v;prepare_v;bring_v close;approach_v
+ቀረበ;qrb:[as=smp,vc=smp];;furnish_v;prepare_v
+ቀረጸ;qrS:[as=smp,vc=smp];;sculpt_v;carve_v;form_v;shape_v;make_v;engrave_v
+ቀሰመ;qsm:[as=smp,vc=smp];;taste_v;lean_v;develop_v;experience_v
+ቀብአ;qb':[as=smp,vc=smp];;paint_v;varnish_v
+ቀተለ;qtl:[as=smp,vc=smp];;kill_v;murder_v;assassinate_v
+ቀንዐ;qn`:[as=smp,vc=smp];;stand_v up again;draw_v oneself up
+ቀንጠጠ;qnTT:[as=smp,vc=smp];;strip_v
+ቀውዐ;qw_`:[as=smp,vc=smp];;harvest_v;gather_v
+ቀየረ;qy_r:[as=smp,vc=smp];;change_v;exchange_v;transform_v;convert_v
+ቀደመ;qd_m:[as=smp,vc=smp];;pass_v;go_v beyond;exceed_v
+ቀደደ;qdd:[as=smp,vc=smp];;tear_v up;rip_v up
+ቀድሐ;qdH:[as=smp,vc=smp];;imitate_v;pour_v out
+ቀጸለ;qS_l:[as=smp,vc=smp];;continue_v;continue_v with
+ቀጽዐ;qS`:[as=smp,vc=smp];;punish_v
+ቃነየ;qany:[as=smp,vc=smp];;tune_v
+ቆረሰ;qWrs:[as=smp,vc=smp];;breakfast_v
+ቆጠበ;qWT_b:[as=smp,vc=smp];;save_v up;economize_v
+ቆጥቆጠ;qWTqWT:[as=smp,vc=smp];;reclaim_v
+ቆጸረ;qWSr:[as=smp,vc=smp];;count_v;value_v;expect_v;hire_v
+ቀልጠፈ;qlTf:[as=smp,vc=smp];;advance_v;hasten_v
+ቀቐወ;qqw:[as=smp,vc=smp];;chuckle_v
+ቀድሐ;qdH:[as=smp,vc=smp];;copy_v;pour_v out
+ቀጽዐ;qS`:[as=smp,vc=smp];;punish_v
+በለ;bhl:[as=smp,vc=smp];;say_v
+በልዐ;bl`:[as=smp,vc=smp];;eat_v
+በረረ;brr:[as=smp,vc=smp];;fly_v
+በቖለ;bqWl:[as=smp,vc=smp];;germinate_v;sprout_v;develop_v
+በተነ;bt_n:[as=smp,vc=smp];;strew_v;disperse_v
+በኸየ;bky:[as=smp,vc=smp];;cry_v
+በጽሐ;bSH:[as=smp,vc=smp];;achieve_v;reach_v;overtake_v;arrive_v;inspect_v
+ባእበአ;b'b':[as=smp,vc=smp];;stammer_v
+በኹዐ;bkW`:[as=smp,vc=smp];;ferment_v
+በዀረ;bkWr:[as=smp,vc=smp];;be_v absent;be_v away
+ተላመደ;lmd:[as=rc,vc=ps];;practise_v
+ተላበወ;lbw:[as=rc,vc=ps];;recommend_v
+ተመልሰ;mls:[as=smp,vc=ps];;turn_v;return_v
+ተመለሰ;ml_s:[as=smp,vc=ps];;be_v answered;answer_v[ps];be_v resolved;resolve_v[ps]
+ተመልከተ;mlkt:[as=smp,vc=ps];;look_v
+ተመባጽዓ;mbaS`:[as=smp,vc=ps,ob=[+xpl]];;promise_v
+ተመነየ;mn_y:[as=smp,vc=ps];;desire_v
+ተረተ;tr_t:[as=smp,vc=smp];;relate_v
+ተሰምዖ;sm`:[as=smp,vc=ps,ob=[+xpl]];;feel_v
+ተሰወረ;sw_r:[as=smp,vc=ps];;disappear_v
+ተሰማምዖ;sm`:[as=it,vc=ps,ob=[+xpl]];;suit_v
+ተሳገረ;sgr:[as=rc,vc=ps];;cross_v
+ተንስአ;tns':[as=smp,vc=smp];;rise_v
+ተገንዘበ;gnzb:[as=smp,vc=ps];;realize_v
+ተኣወደ;'w_d:[as=smp,vc=ps];;owe_v
+ተኻፈለ;kfl:[as=rc,vc=ps];;involve_v;attend_v
+ተኻትዐ;kt`:[as=rc,vc=ps];;argue_v
+ተኸላኸለ;klkl:[as=rc,vc=ps];;protect_v oneself
+ተወጥሐ;wT_H:[as=smp,vc=ps];;ride_v
+ተዛረበ;zrb:[as=rc,vc=ps];;speak_v
+ተዛተየ;zt_y:[as=rc,vc=ps];;discuss_v
+ተደነቐ;dn_q:[as=smp,vc=ps];;wonder_v
+ተገደሰ;gd_s:[as=smp,vc=ps];;care_v
+ተጋደመ;gadm:[as=smp,vc=ps];;lie_v
+ተጋጠመ;gTm:[as=rc,vc=ps];;fit_v
+ተጸግዐ;Sg_`:[as=smp,vc=ps];;rely_v
+ተፈላለየ;fly:[as=it,vc=ps];;vary_v
+ተኰሰ;tkW_s:[as=smp,vc=smp];;shoot_v
+ተሃንጠየ;hnTy:[as=smp,vc=ps];;get_v impatient
+ተሃወኸ;hw_k:[as=smp,vc=ps];;rush_v;hurry_v up
+ተለቀሐ;lq_H:[as=smp,vc=ps];;borrow_v
+ተለዋወጠ;lw_T:[as=it,vc=ps];;exchange_v
+ተለዓለ;l`l:[as=smp,vc=ps];;come_v from
+ተላዘበ;lzb:[as=rc,vc=ps];;discuss_v
+ተላገጸ;lagS:[as=smp,vc=ps];;make_v fun of;laugh_v at
+ተሓበረ;Hb_r:[as=smp,vc=ps];;get_v one’s bearings
+ተሓጎሰ;HgW_s:[as=smp,vc=ps];;be_v delighted;delight_v[ps]
+ተሓጸበ;HSb:[as=smp,vc=ps];;wash_v one’s self;bathe_v
+ተሓጸየ;HSy:[as=smp,vc=ps];;get_v engaged to
+ተመልሰ;mls:[as=smp,vc=ps];;return_v;go_v back
+ተመርኰሰ;mrkWs:[as=smp,vc=ps];;depend_v on
+ተመርዓወ;mr`w:[as=smp,vc=ps];;get_v married
+ተመሻጠረ;mxTr:[as=rc,vc=ps];;intrigue_v
+ተመባጽዐ;mbaS`:[as=smp,vc=ps];;promise_v
+ተመያየጠ;myT:[as=it,vc=ps];;consult_v;talk_v to each other
+ተመገበ;mg_b:[as=smp,vc=ps];;feed_v
+ተማህረ;mhr:[as=smp,vc=ps];;learn_v
+ተማልአ;ml':[as=rc,vc=ps];;take_v
+ተማሕጸነ;mHSn:[as=smp,vc=ps];;beg_v;plead_v
+ተምበርከኸ;m|brkk:[as=smp,vc=ps];;kneel_v
+ተረከሰ;rk_s:[as=smp,vc=ps];;risk_v
+ተረድአ;rd_':[as=smp,vc=ps];;understand_v;comprehend_v
+ተረፈ;trf:[as=smp,vc=smp];;be_v left;leave_v[ps];remain_v;stay_v
+ተራእየ;r'y:[as=smp,vc=ps];;appear_v;manifest_v
+ተራኸበ;rkb:[as=rc,vc=ps];;deal_v;encounter_v;correspond_v;communicate_v;meet_v;contact_v
+ተርጐመ;trgWm:[as=smp,vc=smp];;translate_v
+ተሰማምዐ;sm`:[as=it,vc=ps];;agree_v
+ተሰርዐ;sr`:[as=smp,vc=ps];;parade_v;line_v up
+ተሰከመ;sk_m:[as=smp,vc=ps];;carry_v
+ተሳቐየ;saqy:[as=smp,vc=ps];;be_v in pain;suffer_v
+ተሳተፈ;stf:[as=rc,vc=ps];;participate_v
+ተሳዓረ;s`r:[as=rc,vc=ps];;lose_v
+ተሸከመ;xk_m:[as=smp,vc=ps];;transport_v;carry_v
+ተሻቐለ;xql:[as=rc,vc=ps];;worry_v about;have_v anxiety
+ተቐልቀለ;qlql:[as=smp,vc=ps];;appear_v suddenly
+ተቐመጠ;qm_T:[as=smp,vc=ps];;stay_v;remain_v
+ተቐበለ;qb_l:[as=smp,vc=ps];;greet_v;welcome_v;accept_v;agree_v;receive_v
+ተቓለሰ;qals:[as=smp,vc=ps];;fight_v;struggle_v
+ተቓረነ;qr_n:[as=rc,vc=ps];;contradict_v
+ተቓወመ;qwm:[as=rc,vc=ps];;resist_v
+ተቓጸለ;qS_l:[as=rc,vc=ps];;blaze_v
+ተቖጻጸረ;qWSr:[as=it,vc=ps];;dominate_v
+ተበራበረ;brabr:[as=smp,vc=ps];;revive_v;wake_v up
+ተባርዐ;bar`:[as=smp,vc=ps];;blow_v up;explode_v
+ተተምነየ;tmny:[as=smp,vc=ps];;wish_v for
+ተተስፈየ;tsfy:[as=smp,vc=ps];;hope_v for
+ተተንበየ;tnby:[as=smp,vc=ps];;foresee_v
+ተናጎጸ;ngWS:[as=rc,vc=ps];;clash_v
+ተናጠረ;nTr:[as=rc,vc=ps];;cross_v
+ተንሰአ;tns':[as=smp,vc=smp];;get_v up
+ተንሳፈፈ;n|saff:[as=smp,vc=ps];;float_v
+ተንቀሳቐሰ;n|qsaqs:[as=smp,vc=ps];;move_v;circulate_v
+ተንከፈ;tnkf:[as=smp,vc=smp];;touch_v
+ተኣመነ;'mn:[as=smp,vc=ps];;admit_v;confess_v
+ተኣነነ;'n_n:[as=smp,vc=ps];;groan_v
+ተኣከበ;'k_b:[as=smp,vc=ps];;meet_v
+ተኣዘዘ;'z_z:[as=smp,vc=ps];;obey_v
+ተክአ;tk_':[as=smp,vc=smp];;replace_v
+ተኸለ;tkl:[as=smp,vc=smp];;plant_v;erect_v;put_v up
+ተኸላኸለ;klkl:[as=rc,vc=ps];;defend_v;protect_v
+ተኸተለ;kt_l:[as=smp,vc=ps];;follow_v;take_v
+ተኸታተለ;kt_l:[as=it,vc=ps];;succeed_v
+ተኸናኸነ;knakn:[as=smp,vc=ps];;look_v after;take_v care of
+ተኹተኸ;tkWtk:[as=smp,vc=smp];;provoke_v
+ተኻረየ;kry:[as=rc,vc=ps];;rent_v
+ተኻተዐ;kt`:[as=rc,vc=ps];;discuss_v;debate_v
+ተኾርነፈ;kWrnf:[as=smp,vc=ps];;give_v the cold shoulder
+ተወለደ;wld:[as=smp,vc=ps];;be_v born;bear_v[ps]
+ተወንጨፈ;wnCf:[as=smp,vc=ps];;throw_v oneself;rush_v
+ተወጠሐ;wT_H:[as=smp,vc=ps];;perch_v
+ተዋሕሰ;wHs:[as=smp,vc=ps];;guarantee_v
+ተዋነየ;wany:[as=smp,vc=ps];;represent_v;perform_v
+ተዋግአ;wg':[as=rc,vc=ps];;fight_v
+ተዓወተ;`w_t:[as=smp,vc=ps];;win_v;make_v a success
+ተዓዘበ;`z_b:[as=smp,vc=ps];;keep_v watch over;watch_v;supervise_v;observe_v
+ተዘርገሐ;zrgH:[as=smp,vc=ps];;take_v place
+ተዘናገዐ;zng`:[as=rc,vc=ps];;have_v a good time;have_v fun
+ተዛረበ;zrb:[as=rc,vc=ps];;express_v;speak_v;talk_v
+ተዛወረ;zwr:[as=rc,vc=ps];;walk_v;go_v for a walk
+ተደረረ;dr_r:[as=smp,vc=ps];;dine_v
+ተደርገመ;drgm:[as=smp,vc=ps];;plunge_v;burst_v
+ደርገመ;drgm:[as=smp,vc=smp];;plunge_v;burst_v
+ተደገፈ;dg_f:[as=smp,vc=ps];;lean_v on
+ደገፈ;dg_f:[as=smp,vc=smp];;support_v;help_v
+ተገረመ;gr_m:[as=smp,vc=ps];;be_v astonished;astonish_v[ps];be_v surprised;surprise_v[ps]
+ገረመ;gr_m:[as=smp,vc=smp];;astonish_v;surprise_v
+ተገበአ;gb_':[as=smp,vc=ps];;deserve_v
+ተጎልበበ;gWlbb:[as=smp,vc=ps];;be_v covered;cover_v[ps];cover_v oneself up
+ጐልበበ;gWlbb:[as=smp,vc=smp];;cover_v
+ተጎድአ;gWd':[as=smp,vc=ps];;injure_v oneself;hurt_v oneself
+ጐድአ;gWd':[as=smp,vc=smp];;hurt_v;pound_v;harm_v
+ተጓዕዘ;gW`z:[as=smp,vc=ps];;travel_v through
+ተጠራጠረ;TrTr:[as=rc,vc=ps];;doubt_v;hesitate_v
+ተጠቐመ;Tqm:[as=smp,vc=ps];;use_v
+ጠቐመ;Tqm:[as=smp,vc=smp];;be_v useful;be_v advantageous
+ተጣረዐ;Tr`:[as=rc,vc=ps];;be_v afraid;panic_v;lose_v courage
+ጠርዐ;Tr`:[as=smp,vc=smp];;complain_v;protest_v
+ተጣዓሰ;T`s:[as=rc,vc=ps];;repent_v;be_v sorry
+ተጨነቐ;Cn_q:[as=smp,vc=ps];;worry_v
+ተጸበየ;Sb_y:[as=smp,vc=ps];;expect_v;wait_v
+ተጻረረ;Srr:[as=rc,vc=ps];;oppose_v
+ተጻወረ;Swr:[as=rc,vc=ps];;support_v;sustain_v;withstand_v;resist_v
+ተጻወተ;Swt:[as=rc,vc=ps];;play_v
+ተፈንጠለ;fnTl:[as=smp,vc=ps];;split_v;crack_v;break_v
+ነቀወ;nq_w:[as=smp,vc=smp];;coo_v
+ነቐለ;nql:[as=smp,vc=smp];;loosen_v
+ነቑሐ;nqWH:[as=smp,vc=smp];;hatch_v
+ነቐፈ;nqf:[as=smp,vc=smp];;criticize_v
+ነቕነቐ;nqnq:[as=smp,vc=smp];;shake_v
+ነበረ;nbr:[as=smp,vc=smp];;exist_v;live_v;be_v alive;survive_v
+ነበበ;nbb:[as=smp,vc=smp];;read_v
+ነብሐ;nbH:[as=smp,vc=smp];;bark_v
+ነከየ;nk_y:[as=smp,vc=smp];;reduce_v
+ነኸሰ;nks:[as=smp,vc=smp];;prick_v;sting_v;bite_v
+ነዓቐ;n`q:[as=smp,vc=smp];;despise_v
+ነዝሐ;nzH:[as=smp,vc=smp];;spread_v
+ነደደ;ndd:[as=smp,vc=smp];;burn_v
+ነደፈ;ndf:[as=smp,vc=smp];;write_v;draw_v up
+ነድሐ;ndH:[as=smp,vc=smp];;kick_v
+ነገረ;ngr:[as=smp,vc=smp];;inform_v;tell_v;tell_v about
+ነገፈ;ngf:[as=smp,vc=smp];;scrub_v
+ነጐደ;ngWd:[as=smp,vc=smp];;thunder_v
+ነጠረ;nTr:[as=smp,vc=smp];;jump_v;leap_v
+ነጠበ;nTb:[as=smp,vc=smp];;drop_v
+ነጸገ;nSg:[as=smp,vc=smp];;refuse_v;decline_v;reject_v
+ነጽነጸ;nSnS:[as=smp,vc=smp];;shake_v
+ነፈረ;nfr:[as=smp,vc=smp];;fly_v away;take_v off
+ነፈሰ;nfs:[as=smp,vc=smp];;blow_v
+ነፍሐ;nfH:[as=smp,vc=smp];;blow_v up
+ናበየ;naby:[as=smp,vc=smp];;maintain_v
+ኣመስገነ;msgn:[as=smp,vc=tr];;appreciate_v
+ኣመልከተ;mlkt:[as=smp,vc=tr];;indicate_v;point_v
+ኣመሓየሸ;mHayx:[as=smp,vc=tr];;improve_v
+ኣመሓደረ;mHdr:[as=rc,vc=tr];;manage_v
+ኣመዛዘነ;mzn:[as=it,vc=tr];;compare_v
+ኣማዕበለ;m`bl:[as=smp,vc=tr];;promote_v
+ኣረድአ;rd_':[as=smp,vc=tr];;teach_v;make_v understand
+ረድአ;rd_':[as=smp,vc=smp];;help_v;support_v
+ኣርኣየ;r'y:[as=smp,vc=tr];;show_v
+ኣለቅሐ;lq_H:[as=smp,vc=tr];;lend_v
+ኣሰንበተ;snbt:[as=smp,vc=tr];;dismiss_v
+ኣሰንበተ;snbt:[as=smp,vc=tr];;spend_v Sunday
+ሰፍሐ;sfH:[as=smp,vc=smp];;become_v wide
+ኣቐበለ;qb_l:[as=smp,vc=tr];;hand_v
+ኣበየ;'by:[as=smp,vc=smp];;refuse_v
+ኣብልዐ;bl`:[as=smp,vc=tr];;feed_v
+ኣበርከተ;brkt:[as=smp,vc=tr];;contribute_v
+ኣብጽሐ;bSH:[as=smp,vc=tr];;deliver_v
+ኣባኸነ;bakn:[as=smp,vc=tr];;waste_v
+ኣጥቅዐ;Tq`:[as=smp,vc=tr];;attack_v
+ኣንቀሳቐሰ;n|qsaqs:[as=smp,vc=tr];;move_v
+ኣንደደ;ndd:[as=smp,vc=tr];;burn_v
+ኣናደየ;nady:[as=smp,vc=tr];;seek_v
+ኣኣንገደ;'ngd:[as=smp,vc=tr];;treat_v
+ኣካፈለ;kfl:[as=rc,vc=tr];;share_v
+ከፈለ;kfl:[as=smp,vc=smp];;pay_v;divide_v
+ኣውጽአ;wS':[as=smp,vc=tr];;issue_v
+ኣዕረፈ;`rf:[as=smp,vc=tr];;rest_v
+ዓረፈ;`rf:[as=smp,vc=smp];;die_v;pass_v out
+ኣዕረፈ;`rf:[as=smp,vc=tr];;retire_v
+ኣዘከረ;zk_r:[as=smp,vc=tr];;remind_v
+ዘከረ;zk_r:[as=smp,vc=smp];;remember_v
+ኣደፋፈረ;dfr:[as=it,vc=tr];;encourage_v
+ደፈረ;dfr:[as=smp,vc=smp];;disrespect_v;become_v courageous;be_v brave;be_v emboldened;embolden_v[ps]
+ኣዳለወ;dlw:[as=rc,vc=tr];;arrange_v;organize_v;prepare_v
+ኣድለየ;dly:[as=smp,vc=tr];;be_v required;require_v[ps];be_v wanted;want_v[ps]
+ደለየ;dly:[as=smp,vc=smp];;search_v;want_v;desire_v
+ኣገልገለ;glgl:[as=smp,vc=tr];;serve_v
+ኣግበረ;gbr:[as=smp,vc=tr];;cause_v
+ገበረ;gbr:[as=smp,vc=smp];;do_v;make_v
+ኣጠንቀቐ;Tnqq:[as=smp,vc=tr];;warn_v
+ኣጣመረ;Tmr:[as=rc,vc=tr];;combine_v;help_v to tie
+ጠመረ;Tmr:[as=smp,vc=smp];;tie_v;bundle_v
+ኣጣበቐ;Tbq:[as=rc,vc=tr];;stick_v;attach_v
+ጠበቐ;Tbq:[as=smp,vc=smp];;be_v attached;attach_v[ps]
+ኣጥረየ;Try:[as=smp,vc=tr];;own_v;possess_v
+ኣጥበቐ;Tbq:[as=smp,vc=tr];;fasten_v;stick_v;glue_v
+ጠበቐ;Tbq:[as=smp,vc=smp];;stick_v;glue_v
+ኣጥፍአ;Tf':[as=smp,vc=tr];;cause_v to lose;make_v disappear
+ጠፍአ;Tf':[as=smp,vc=smp];;disappear_v;vanish_v
+ኣፈራርሐ;frH:[as=it,vc=tr];;threaten_v
+ፈርሐ;frH:[as=smp,vc=smp];;be_v frighted;scare_v
+ኣፍለጠ;flT:[as=smp,vc=tr];;inform_v;cause_v to know
+ፈለጠ;flT:[as=smp,vc=smp];;know_v
+ኣፍረየ;fry:[as=smp,vc=tr];;produce_v;cause_v to bear fruit
+ፈረየ;fry:[as=smp,vc=smp];;bear_v fruit;produce_v
+ኣቘመ;qwm:[as=smp,vc=tr];;cause_v to stop
+ቆመ;qwm:[as=smp,vc=smp];;stand_v up;halt_v
+ኣጕደለ;gWdl:[as=smp,vc=tr];;reduce_v;minimize_v
+ጐደለ;gWdl:[as=smp,vc=smp];;be_v reduced;reduce_v[ps]
+ኣህደአ;hd':[as=smp,vc=tr];;make_v calm;quiet_v down
+ሃድአ;hd':[as=smp,vc=smp];;be_v calm;calm_v down
+ኣለመ;'lm:[as=smp,vc=smp];;knit_v;weave_v
+ኣለቀሐ;lq_H:[as=smp,vc=tr];;lend_v;loan_v
+ኣለዓዓለ;l`l:[as=it,vc=tr];;excite_v
+ልዓለ;l`l:[as=smp,vc=smp];;be_v high;be_v elevated;elevate_v[ps]
+ኣልዓለ;l`l:[as=smp,vc=tr];;elevate_v;make_v high
+ኣለየ;lly:[as=smp,vc=tr];;divert_v
+ለለየ;lly:[as=smp,vc=smp];;distinguish_v
+ኣላለየ;'ly:[as=it,vc=smp];;present_v;introduce_v
+ኣላገበ;lg_b:[as=rc,vc=tr];;assemble_v;gather_v;connect_v
+ለገበ;lg_b:[as=smp,vc=smp];;be_v attached;attach_v[ps];stick_v
+ለገበ;lg_b:[as=smp,vc=smp];;patch_v;sew_v;mend_v
+ኣልመደ;lmd:[as=smp,vc=tr];;accustom_v;make_v used to;make_v accustomed to
+ለመደ;lmd:[as=smp,vc=smp];;adapt_v;adjust_v;familiarize_v
+ኣልበሰ;lbs:[as=smp,vc=tr];;dress_v;clothe_v
+ለበሰ;lbs:[as=smp,vc=smp];;dress_v one self;put_v cloth on oneself
+ኣልዓለ;l`l:[as=smp,vc=tr];;lift_v;raise_v
+ኣልገሰ;lgs:[as=smp,vc=tr];;remove_v;take_v away
+ለገሰ;lgs:[as=smp,vc=smp];;be_v removed;remove_v[ps];vanish_v;leave_v
+ለገሰ;lgs:[as=smp,vc=smp];;donate_v;give_v kindly;offer_v
+ኣሓንቀቐ;Hnqq:[as=smp,vc=tr];;cherish_v;pamper_v
+ሓንቀቐ;Hnqq:[as=smp,vc=smp];;be_v spoiled;spoil_v[ps];be_v pampered;pamper_v[ps]
+ኣሓደሰ;Hd_s:[as=smp,vc=tr];;renew_v
+ሓደሰ;Hd_s:[as=smp,vc=smp];;become_v new
+ኣሕለኽለኸ;H|lklk:[as=smp,vc=tr];;complicate_v
+ኣሕረረ;Hrr:[as=smp,vc=tr];;burn_v
+ኣሕረቐ;Hrq:[as=smp,vc=tr];;offend_v;offend_v against;take_v offence
+ኣሕረቐ;Hrq:[as=smp,vc=tr];;irritate_v;annoy_v
+ኣሕጸረ;HSr:[as=smp,vc=tr];;shorten_v;cut_v short
+ሓጸረ;HSr:[as=smp,vc=smp];;become_v short
+ሓጸረ;HSr:[as=smp,vc=smp];;put_v fence off;enclose_v
+ኣመሓላለፈ;mHalf:[as=it,vc=tr];;transmit_v;pass_v on
+ሓለፈ;Hlf:[as=smp,vc=smp];;pass_v;go_v by
+ኣሕለፈ;Hlf:[as=smp,vc=tr];;give_v a way;make_v pass
+ኣመርዓወ;mr`w:[as=smp,vc=tr];;marry_v off
+ተመርዓወ;mr`w:[as=smp,vc=ps];;marry_v;get_v married
+ኣመስገነ;msgn:[as=smp,vc=tr];;thank_v
+ኣመነ;'mn:[as=smp,vc=smp];;trust_v;believe_v
+ኣማኸረ;mkr:[as=rc,vc=tr];;consult_v
+መኸረ;mkr:[as=smp,vc=smp];;give_v advise
+ኣመዓራረየ;m`ry:[as=it,vc=tr];;arrange_v;make_v even
+ማዕረየ;m`ry:[as=smp,vc=smp];;become_v equal;become_v even
+ኣምለኸ;mlk:[as=smp,vc=tr];;adore_v
+መለኸ;mlk:[as=smp,vc=smp];;dominate_v;control_v
+ኣመሓደረ;mHdr:[as=rc,vc=tr];;administer_v;manage_v
+ኣምረሐ;mrH:[as=smp,vc=tr];;lead_v to a direction;go_v to
+መርሐ;mrH:[as=smp,vc=smp];;lead_v;govern_v
+ኣምበርከኸ;m|brkk:[as=smp,vc=tr];;put_v down
+ኣምጸአ;mS':[as=smp,vc=tr];;bring_v
+መጽአ;mS':[as=smp,vc=smp];;come_v;arrive_v
+ረኸበ;rkb:[as=smp,vc=smp];;find_v
+ኣረየ;'ry:[as=smp,vc=smp];;gather_v;pick_v
+ኣረድአ;rd_':[as=smp,vc=tr];;expect_v
+ረድአ;rd_':[as=smp,vc=smp];;assist_v;help_v
+ኣረገ;'rg:[as=smp,vc=smp];;age_v;grow_v old
+ኣረጋገጸ;rgS:[as=it,vc=tr];;prove_v;ensure_v;assert_v;confirm_v
+ኣርገጸ;rgS:[as=smp,vc=tr];;convince_v;persuade_v
+ረገጸ;rgS:[as=smp,vc=smp];;stand_v on;step_v;smash_v with foot;stand_v firm
+ኣራገፈ;rgf:[as=rc,vc=tr];;unload_v
+ረገፈ;rgf:[as=smp,vc=smp];;drop_v;fall_v down
+ኣርሰሐ;rsH:[as=smp,vc=tr];;soil_v;sully_v
+ረስሐ;rsH:[as=smp,vc=smp];;be_v dirt
+ኣርኣየ;r'y:[as=smp,vc=tr];;display_v;demonstrate_v;show_v;indicate_v;point_v out
+ኣርከበ;rkb:[as=smp,vc=tr];;reach_v;meet_v;rejoin_v
+ኣርከአ;rk':[as=smp,vc=tr];;appease_v;calm_v;soothe_v
+ኣሰረ;'sr:[as=smp,vc=smp];;strap_v;brace_v;tie_v;arrest_v;fasten_v
+ኣሰነየ;sn_y:[as=smp,vc=tr];;accompany_v
+ኣሰናበተ;snbt:[as=rc,vc=tr];;dismiss_v;discharge_v
+ኣሰንበደ;snbd:[as=smp,vc=tr];;scare_v
+ኣስሓቐ;sHq:[as=smp,vc=tr];;amuse_v;entertain_v
+ኣስመረ;smr:[as=smp,vc=tr];;unite_v or combine
+ኣስረሐ;srH:[as=smp,vc=tr];;employ_v;use_v;spend_v
+ኣስተንፈሰ;s|tnfs:[as=smp,vc=tr];;breathe_v in and out
+ኣስዓበ;s`b:[as=smp,vc=tr];;make_v follow
+ሰዓበ;s`b:[as=smp,vc=smp];;follow_v
+ኣቃለለ;qll:[as=rc,vc=tr];;simplify_v;undermine_v
+ቀለለ;qll:[as=smp,vc=smp];;be_v easy;be_v simple
+ኣቋረጸ;qWrS:[as=rc,vc=tr];;stop_v;end_v;interrupt_v;break_v
+ቈረጸ;qWrS:[as=smp,vc=smp];;cut_v;mutilate_v
+ኣቈናጸበ;qWnSb:[as=rc,vc=tr];;humiliate_v
+ቈንጸበ;qWnSb:[as=smp,vc=smp];;be_v small;be_v tiny
+ኣቐመጠ;qm_T:[as=smp,vc=tr];;set_v;place_v;put_v;lay_v
+ተቐመጠ;qm_T:[as=smp,vc=ps];;sit_v down;settle_v
+ኣቐበለ;qb_l:[as=smp,vc=tr];;hand_v off;go_v;pass_v by
+ተቐበለ;qb_l:[as=smp,vc=ps];;receive_v
+ኣቐየመ;qy_m:[as=smp,vc=tr];;offend_v
+ተቐየመ;qy_m:[as=smp,vc=ps];;be_v offended;offend_v[ps];hold_v grudge
+ኣቑሰለ;qWsl:[as=smp,vc=tr];;injure_v;wound_v;hurt_v;offend_v
+ቆሰለ;qWsl:[as=smp,vc=smp];;be_v wounded;wound_v[ps]
+ኣቕለለ;qll:[as=smp,vc=tr];;facilitate_v;make_v simple
+ኣቕረበ;qrb:[as=smp,vc=tr];;offer_v;display_v
+ኣቕነዐ;qn`:[as=smp,vc=tr];;set_v up again;set_v right
+ኣቖመ;qwm:[as=smp,vc=tr];;appoint_v;set_v up
+ኣበርከተ;brkt:[as=smp,vc=tr];;contribute_v
+በርከተ;brkt:[as=smp,vc=smp];;multiply_v;flourish_v;prosper_v
+ኣባደመ;badm:[as=smp,vc=tr];;deforest_v
+ባደመ;badm:[as=smp,vc=smp];;become_v deserted
+ኣበላሸወ;blaxw:[as=smp,vc=tr];;spoil_v;damage_v;ruin_v
+ኣብረሀ;brh:[as=smp,vc=tr];;light_v;illuminate_v
+ኣብሰለ;bsl:[as=smp,vc=tr];;cook_v
+ኣብዓለ;b`l:[as=smp,vc=tr];;celebrate_v
+ኣብዓጠ;b`T:[as=smp,vc=tr];;knead_v
+ኣተባብዐ;tb`:[as=it,vc=tr];;encourage_v;cheer_v up
+ኣተንፈሰ;tnfs:[as=smp,vc=tr];;breathe_v
+ኣተኣማመነ;'mn:[as=it,vc=tr];;reassure_v
+ኣተኻኸለ;tkl:[as=it,vc=tr];;correct_v;put_v right
+ኣተወ;'tw:[as=smp,vc=smp];;come_v in;enter_v
+ኣታለለ;tall:[as=smp,vc=tr];;cheat_v
+ኣትሓተ;tHt:[as=smp,vc=tr];;lower_v;reduce_v
+ተሓተ;Htt:[as=smp,vc=ps];;become_v low;be_v lowered;lower_v[ps];be_v humble
+ኣትከለ;tkl:[as=smp,vc=tr];;set_v up;focus_v;aim_v;help_v be established
+ተኸለ;tkl:[as=smp,vc=smp];;plan_v
+ኣትከኸ;tkk:[as=smp,vc=tr];;cause_v to make smoke;hassle_v;annoy_v
+ኣነጻጸረ;nS_r:[as=it,vc=tr];;compare_v
+ነጸረ;nS_r:[as=smp,vc=smp];;be_v clear;be_v visible
+ኣናሸወ;nx_w:[as=rc,vc=tr];;humiliate_v;humble_v
+ኣናውሐ;nwH:[as=rc,vc=tr];;extend_v
+ኣናፈሰ;nfs:[as=rc,vc=tr];;air_v;give_v an airing
+ነፈሰ;nfs:[as=smp,vc=smp];;blow_v;let_v blow
+ሰሓበ;sHb:[as=smp,vc=smp];;pull_v;advance_v;drag_v
+ኣንሳፈፈ;n|saff:[as=smp,vc=tr];;float_v
+ሰፈፈ;sff:[as=smp,vc=smp];;be_v floated;float_v[ps]
+ኣንሻተተ;n|xatt:[as=smp,vc=tr];;skate_v;slip_v;slide_v
+ኣንቀሳቐሰ;n|qsaqs:[as=smp,vc=tr];;move_v
+ተንቀሳቐሰ;n|qsaqs:[as=smp,vc=ps];;move_v around
+ኣንቀጥቀጠ;n|qTqT:[as=smp,vc=tr];;shiver_v;tremble_v;shake_v
+ኣንቀጸ;nqS:[as=smp,vc=tr];;make_v dry;wipe_v
+ነቐጸ;nqS:[as=smp,vc=smp];;be_v dry;wither_v
+ኣንበረ;nbr:[as=smp,vc=tr];;place_v;put_v;set_v;seat_v
+ነበረ;nbr:[as=smp,vc=smp];;be_v;sit_v down
+ኣንበበ;nbb:[as=smp,vc=tr];;read_v
+ኣንኣሰ;n's:[as=smp,vc=tr];;decrease_v
+ኣንኮለ;nkWl:[as=smp,vc=tr];;make_v a hole
+ነዀለ;nkWl:[as=smp,vc=smp];;be_v punctured;puncture_v[ps]
+ኣንጠልጠለ;n|TlTl:[as=smp,vc=tr];;hang_v on;hang_v up
+ኣንጨብጨበ;n|CbCb:[as=smp,vc=tr];;applaud_v;clap_v
+ኣንጸባረቐ;n|Sbarq:[as=smp,vc=tr];;shine_v;glisten_v;sparkle_v;gleam_v
+ኣንፈጥፈጠ;n|fTfT:[as=smp,vc=tr];;shudder_v
+ኣእመነ;'mn:[as=smp,vc=tr];;persuade_v;convince_v;prove_v
+ኣመነ;'mn:[as=smp,vc=smp];;believe_v;trust_v
+ኣእረገ;'rg:[as=smp,vc=tr];;use_v up;cause_v be old
+ኣረገ;'rg:[as=smp,vc=smp];;get_v old;be_v old
+ኣከበ;'k_b:[as=smp,vc=smp];;combine_v;gather_v;collect_v
+ኣካረየ;kry:[as=rc,vc=tr];;rent_v
+ኣካየደ;kyd:[as=rc,vc=tr];;last_v
+ኣኮማሰዐ;kWms`:[as=rc,vc=tr];;ruminate_v
+ኣኸለ;'kl:[as=smp,vc=smp];;be_v enough;be_v sufficient;suffice_v
+ኣኽበረ;kbr:[as=smp,vc=tr];;honour_v;respect_v
+ኣኽበበ;kbb:[as=smp,vc=tr];;round_v;surround_v;encircle_v;enable_v
+ከበበ;kbb:[as=smp,vc=smp];;surround_v;encircle_v
+ኣወጀ;'w_j:[as=smp,vc=smp];;declare_v;proclaim_v;announce_v
+ኣውዓየ;w`y:[as=smp,vc=tr];;heat_v;warm_v;heat_v
+ወዓየ;w`y:[as=smp,vc=smp];;be_v hot;make_v hot;be_v warm
+ኣውጸአ;wS':[as=smp,vc=tr];;extract_v;pull_v
+ወጽአ;wS':[as=smp,vc=smp];;go_v out;emerge_v;leave_v
+ኣዓረየ;`r_y:[as=smp,vc=tr];;make_v repair;make_v fix;cause_v to put right
+ዓረየ;`r_y:[as=smp,vc=smp];;mend_v;repair_v;fix_v
+ኣዕለለ;`ll:[as=smp,vc=tr];;gossip_v;chatter_v;talk_v
+ኣዕበየ;`by:[as=smp,vc=tr];;make_v bigger;increase_v;enlarge_v
+ዓበየ;`by:[as=smp,vc=smp];;grow_v;increase_v
+ኣዕነወ;`nw:[as=smp,vc=tr];;wreck_v;destroy_v
+ዓነወ;`nw:[as=smp,vc=smp];;be_v wrecked;wreck_v[ps];be_v destroyed;destroy_v[ps]
+ኣዕዘምዘመ;`|zmzm:[as=smp,vc=tr];;murmur_v;whisper_v;babble_v;growl_v;complain_v
+ኣዕጠቐ;`Tq:[as=smp,vc=tr];;cause_v to arm
+ዓጠቐ;`Tq:[as=smp,vc=smp];;arm_v oneself;equip_v oneself
+ኣዘናገዐ;zng`:[as=rc,vc=tr];;amuse_v;entertain_v;cheer_v up
+ዘንገዐ;zng`:[as=smp,vc=smp];;be_v distrusted;distrust_v[ps];be_v unfocused
+ኣዘንተወ;zntw:[as=smp,vc=tr];;tell_v
+ኣዘውተረ;zwtr:[as=smp,vc=tr];;frequent_v
+ኣዘዘ;'z_z:[as=smp,vc=smp];;put_v in order;command_v;order_v
+ኣዛዘወ;zzw:[as=rc,vc=tr];;favour_v;promote_v
+ዘዘወ;zzw:[as=smp,vc=smp];;lean_v;be_v inclined;incline_v[ps]
+ኣደቀሰ;dq_s:[as=smp,vc=tr];;send_v to sleep
+ደቀሰ;dq_s:[as=smp,vc=smp];;sleep_v
+ኣደነቐ;dn_q:[as=smp,vc=tr];;impress_v;amaze_v
+ኣደናገረ;dnagr:[as=smp,vc=tr];;confuse_v;mix_v up
+ኣደንጎየ;dngWy:[as=smp,vc=tr];;delay_v;defer_v
+ኣዳቐለ;dql:[as=rc,vc=tr];;graft_v
+ደቐለ;dql:[as=smp,vc=smp];;breed_v illegally;have_v off spring out of wedlock;cross_v breed
+ኣድሓነ;dHn:[as=smp,vc=tr];;save_v;rescue_v
+ደሓነ;dHn:[as=smp,vc=smp];;be_v saved;save_v[ps]
+ኣድመቐ;dmq:[as=smp,vc=tr];;emboss_v;batter_v
+ደመቐ;dmq:[as=smp,vc=smp];;be_v bright;flow_v
+ኣድመጸ;dmS:[as=smp,vc=tr];;listen_v to;vote_v;vote_v for;pronounce_v;pass_v
+ኣድከመ;dkm:[as=smp,vc=tr];;weaken_v;tire_v;exhaust_v
+ደኸመ;dkm:[as=smp,vc=smp];;be_v tired;tire_v[ps];be_v exhausted;exhaust_v[ps]
+ኣገልገለ;glgl:[as=smp,vc=tr];;use_v;serve_v;function_v;work_v
+ኣገረሀ;gr_h:[as=smp,vc=tr];;surprise_v;astonish_v
+ኣገረመ;gr_m:[as=smp,vc=tr];;astonish_v;amaze_v
+ኣገደ;'g_d:[as=smp,vc=smp];;prohibit_v;forbid_v
+ኣገደሰ;gd_s:[as=smp,vc=tr];;concern_v;matter_v
+ኣገደደ;gd_d:[as=smp,vc=tr];;cause_v to be forced
+ገደደ;gd_d:[as=smp,vc=smp];;oblige_v;force_v
+ኣጉረምረመ;gW|rmrm:[as=smp,vc=tr];;grumble_v
+ኣጉደለ;gWdl:[as=smp,vc=tr];;take_v away;reduce_v;minimize_v
+ጐደለ;gWdl:[as=smp,vc=smp];;be_v reduced;reduce_v[ps];become_v less
+ኣጋነነ;gnn:[as=rc,vc=tr];;exaggerate_v;make_v popular
+ገነነ;gnn:[as=smp,vc=smp];;be_v come popular;come_v[ps]
+ኣግሃደ;ghd:[as=smp,vc=tr];;show_v;manifest_v
+ኣግዓዘ;g`z:[as=smp,vc=tr];;evacuate_v;transport_v
+ገዓዘ;g`z:[as=smp,vc=smp];;immigrate_v;move_v out
+ኣግፈሐ;gfH:[as=smp,vc=tr];;widen_v
+ገፍሐ;gfH:[as=smp,vc=smp];;be_v wide
+ኣጓየየ;gWyy:[as=rc,vc=tr];;chase_v;make_v run
+ጐየየ;gWyy:[as=smp,vc=smp];;run_v
+ኣጥለለ;Tll:[as=smp,vc=tr];;wet_v;soak_v;water_v;dampen_v;moisten_v
+ጠለለ;Tll:[as=smp,vc=smp];;be_v wet;wet_v[ps]
+ኣጥቅዐ;Tq`:[as=smp,vc=tr];;attack_v
+ኣጥፈአ;Tf':[as=smp,vc=tr];;put_v out;suppress_v;abolish_v;stop_v
+ጠፍአ;Tf':[as=smp,vc=smp];;disappear_v;be_v extinguished;extinguish_v[ps]
+ኣጨብጨበ;CbCb:[as=smp,vc=tr];;acclaim_v;hail_v;applaud_v;cheer_v
+ኣጨነቐ;Cn_q:[as=smp,vc=tr];;clutter_v up;bother_v;put_v in an awkward position
+ኣጸናንዐ;Sn`:[as=it,vc=tr];;comfort_v;fortify_v
+ጸንዐ;Sn`:[as=smp,vc=smp];;be_v firm;come_v strong
+ኣጸወዐ;Sw_`:[as=smp,vc=tr];;summon_v to law
+ጸወዐ;Sw_`:[as=smp,vc=smp];;call_v;name_v
+ኣጻረየ;Sry:[as=rc,vc=tr];;verify_v;confirm_v;filter_v
+ጸረየ;Sry:[as=smp,vc=smp];;be_v clean;be_v purified;purify_v[ps]
+ኣጽረየ;Sry:[as=smp,vc=tr];;clean_v;clear_v;clear_v away
+ኣጽንዐ;Sn`:[as=smp,vc=tr];;study_v;investigate_v
+ኣጽደቐ;Sdq:[as=smp,vc=tr];;approve_v of;consent_v to;confirm_v
+ጸደቐ;Sdq:[as=smp,vc=smp];;become_v holy
+ኣጽፈሐ;SfH:[as=smp,vc=tr];;flatten_v;crush_v;level_v;smooth_v away
+ጸፍሐ;SfH:[as=smp,vc=smp];;be_v flat
+ኣፋኾሰ;fkWs:[as=rc,vc=tr];;relieve_v
+ፈዀሰ;fkWs:[as=smp,vc=smp];;be_v light
+ኣፍለጠ;flT:[as=smp,vc=tr];;inform_v;advise_v;announce_v;foretell_v;warn_v;notify_v
+ኣፍረሐ;frH:[as=smp,vc=tr];;scare_v;terrify_v
+ኣፍረሰ;frs:[as=smp,vc=tr];;demolish_v
+ፈረሰ;frs:[as=smp,vc=smp];;be_v demolished;demolish_v[ps]
+ኣፍቀረ;fqr:[as=smp,vc=tr];;love_v
+ኣፍቀደ;fqd:[as=smp,vc=tr];;permit_v;allow_v;make_v possible;authorize_v;grant_v;ask_v permission
+ፈቐደ;fqd:[as=smp,vc=smp];;count_v;permit_v
+ከምከመ;kmkm:[as=smp,vc=smp];;cut_v out
+ከሰሰ;kss:[as=smp,vc=smp];;pursue_v;accuse_v
+ከሸነ;kx_n:[as=smp,vc=smp];;cook_v
+ከዓወ;k`w:[as=smp,vc=smp];;pour_v
+ከዘነ;kzn:[as=smp,vc=smp];;stock_v
+ከደ;kyd:[as=smp,vc=smp];;walk_v;leave_v;go_v;travel_v
+ከደነ;kdn:[as=smp,vc=smp];;cover_v
+ከድዐ;kd`:[as=smp,vc=smp];;deceive_v;betray_v
+ከፈለ;kfl:[as=smp,vc=smp];;pay_v
+ከፈተ;kft:[as=smp,vc=smp];;open_v
+ኰረየ;kWr_y:[as=smp,vc=smp];;get_v annoyed
+ኮርመጀ;kWrmj:[as=smp,vc=smp];;whip_v;flog_v
+ኮስኮሰ;kWskWs:[as=smp,vc=smp];;cultivate_v
+ኮነ;kwn:[as=smp,vc=smp];;turn_v up;produce_v;happen_v;become_v
+ኮነነ;kWn_n:[as=smp,vc=smp];;sentence_v;give_v up;condemn_v
+ወለዐ;wl_`:[as=smp,vc=smp];;light_v up;switch_v on
+ወልወለ;wlwl:[as=smp,vc=smp];;polish_v;wax_v;rub_v
+ወሓዘ;wHz:[as=smp,vc=smp];;run_v;flow_v
+ወሓጠ;wHT:[as=smp,vc=smp];;swallow_v;devour_v
+ወረረ;wrr:[as=smp,vc=smp];;invade_v;overcome_v;overwhelm_v;conquer_v
+ወረበ;wr_b:[as=smp,vc=smp];;compose_v
+ወረደ;wrd:[as=smp,vc=smp];;descend_v
+ወሰነ;ws_n:[as=smp,vc=smp];;decide_v;limit_v;fix_v
+ወሰኸ;ws_k:[as=smp,vc=smp];;increase_v;rise_v;add_v
+ወሰደ;wsd:[as=smp,vc=smp];;take_v away;take_v
+ወቐሰ;wqs:[as=smp,vc=smp];;reproach_v;accuse_v
+ወቕዐ;wq`:[as=smp,vc=smp];;hit_v;strike_v
+ወተፈ;wt_f:[as=smp,vc=smp];;block_v
+ወነነ;wn_n:[as=smp,vc=smp];;have_v;possess_v
+ወከለ;wk_l:[as=smp,vc=smp];;represent_v
+ወደቐ;wdq:[as=smp,vc=smp];;drop_v;fall_v
+ወደአ;wd_':[as=smp,vc=smp];;finish_v;conclude_v
+ወገዘ;wg_z:[as=smp,vc=smp];;sentence_v;condemn_v
+ወገደ;wg_d:[as=smp,vc=smp];;ban_v;forbid_v;abolish_v;get_v rid of;avoid_v
+ወግአ;wg':[as=smp,vc=smp];;sting_v;prick_v
+ወጠጠ;wT_T:[as=smp,vc=smp];;draw_v;pull_v
+ወጸ;wS':[as=smp,vc=smp];;come_v out;go_v out;leave_v
+ወፈየ;wf_y:[as=smp,vc=smp];;offer_v;dedicate_v
+ዓለመ;`l_m:[as=smp,vc=smp];;bring_v;put_v up
+ዓለበ;`lb:[as=smp,vc=smp];;land_v;arrive_v
+ዓለበ;`lb:[as=smp,vc=smp];;make_v a fabric;weave_v a fabric
+ዓምበበ;`mbb:[as=smp,vc=smp];;open_v up;flower_v;bloom_v
+ዓረፈ;`rf:[as=smp,vc=smp];;land_v
+ዓቀበ;`q_b:[as=smp,vc=smp];;keep_v;maintain_v;uphold_v;save_v;protect_v;shelter_v
+ዓቀበ;`q_b:[as=smp,vc=smp];;preserve_v;document_v
+ዓቀነ;`q_n:[as=smp,vc=smp];;measure_v
+ዓበየ;`by:[as=smp,vc=smp];;develop_v;grow_v
+ዓብለለ;`bll:[as=smp,vc=smp];;dominate_v
+ዓነወ;`nw:[as=smp,vc=smp];;collapse_v
+ዓንቀጸ;`nqS:[as=smp,vc=smp];;be_v in the way
+ዓንቀፈ;`nqf:[as=smp,vc=smp];;prevent_v
+ዓንደረ;`ndr:[as=smp,vc=smp];;frolic_v
+ዓደለ;`d_l:[as=smp,vc=smp];;distribute_v;deliver_v
+ዓደመ;`d_m:[as=smp,vc=smp];;invite_v
+ዓደገ;`d_g:[as=smp,vc=smp];;buy_v
+ዓገተ;`gt:[as=smp,vc=smp];;restrict_v;prevent_v;warn_v
+ዓጸወ;`Sw:[as=smp,vc=smp];;close_v;shut_v;lock_v up
+ዓጸደ;`Sd:[as=smp,vc=smp];;mow_v down
+ዓጸፈ;`Sf:[as=smp,vc=smp];;fold_v;bend_v
+ዘለለ;zll:[as=smp,vc=smp];;jump_v
+ዘሓለ;zHl:[as=smp,vc=smp];;get_v colder
+ዘመረ;zm_r:[as=smp,vc=smp];;sing_v
+ዘመተ;zmt:[as=smp,vc=smp];;steal_v;rob_v
+ዘርአ;zr':[as=smp,vc=smp];;sow_v;spread_v
+ዘርገሐ;zrgH:[as=smp,vc=smp];;unroll_v;unwind_v;exhibit_v
+ዘበጠ;zbT:[as=smp,vc=smp];;beat_v;strike_v
+ዘነበ;znb:[as=smp,vc=smp];;rain_v
+ዘከረ;zk_r:[as=smp,vc=smp];;remember_v
+ዞረ;zwr:[as=smp,vc=smp];;turn_v;stir_v;toss_v
+ደለየ;dly:[as=smp,vc=smp];;need_v;want_v;desire_v
+ደሓረ;dHr:[as=smp,vc=smp];;back_v away;fall_v back
+ደሓነ;dHn:[as=smp,vc=smp];;survive_v
+ደመረ;dm_r:[as=smp,vc=smp];;add_v
+ደመየ;dmy:[as=smp,vc=smp];;bleed_v
+ደምሰሰ;dmss:[as=smp,vc=smp];;undo_v;take_v down;devastate_v
+ደምደመ;dmdm:[as=smp,vc=smp];;conclude_v
+ደረቐ;drq:[as=smp,vc=smp];;dry_v
+ደረበ;dr_b:[as=smp,vc=smp];;double_v
+ደረኸ;dr_k:[as=smp,vc=smp];;force_v
+ደረዘ;drz:[as=smp,vc=smp];;caress_v;cherish_v
+ደረፈ;drf:[as=smp,vc=smp];;sing_v
+ደቀሰ;dq_s:[as=smp,vc=smp];;sleep_v;fall_v asleep;go_v to bed
+ደበሰ;db_s:[as=smp,vc=smp];;console_v;comfort_v
+ደብደበ;dbdb:[as=smp,vc=smp];;bomb_v;bombard_v
+ደነነ;dnn:[as=smp,vc=smp];;lean_v out;bend_v down
+ደንገጸ;dngS:[as=smp,vc=smp];;be_v moved;move_v[ps];be_v touched;touch_v[ps];feel_v sorry
+ደንጎየ;dngWy:[as=smp,vc=smp];;delay_v;hold_v up
+ደወለ;dw_l:[as=smp,vc=smp];;ring_v;phone_v;telephone_v
+ደየበ;dy_b:[as=smp,vc=smp];;climb_v
+ደገመ;dgm:[as=smp,vc=smp];;repeat_v;say_v again
+ደገፈ;dg_f:[as=smp,vc=smp];;support_v
+ደጉሐ;dgWH:[as=smp,vc=smp];;dazzle_v
+ደፈረ;dfr:[as=smp,vc=smp];;dare_v to do
+ደፋፍአ;df':[as=it,vc=smp];;rush_v
+ደፍአ;df':[as=smp,vc=smp];;push_v
+ዳህሰሰ;dhss:[as=smp,vc=smp];;explore_v;reveal_v
+ዳነየ;dany:[as=smp,vc=smp];;judge_v
+ጀለበ;jl_b:[as=smp,vc=smp];;row_v
+ጀመረ;jm_r:[as=smp,vc=smp];;begin_v;start_v
+ጀርበበ;jrbb:[as=smp,vc=smp];;overflow_v
+ገሃጸ;ghS:[as=smp,vc=smp];;gnaw_v;eat_v into
+ገለለ;gl_l:[as=smp,vc=smp];;draw_v water
+ገለጸ;glS:[as=smp,vc=smp];;describe_v;express_v;voice_v;explain_v
+ገመተ;gm_t:[as=smp,vc=smp];;guess_v
+ገሸ;gyx:[as=smp,vc=smp];;travel_v
+ገበረ;gbr:[as=smp,vc=smp];;make_v;do_v;perform_v;act_v;behave_v
+ገንጸለ;gnSl:[as=smp,vc=smp];;unroll_v;unfold_v
+ገዝአ;gz':[as=smp,vc=smp];;rule_v;control_v;reign_v
+ገዓረ;g`r:[as=smp,vc=smp];;howl_v;roar_v;bawl_v
+ገዓዘ;g`z:[as=smp,vc=smp];;move_v everything out;remove_v
+ገደፈ;gdf:[as=smp,vc=smp];;leave_v;abandon_v
+ገፈፈ;gff:[as=smp,vc=smp];;fish_v for
+ገመተ;gm_t:[as=smp,vc=smp];;estimate_v
+ጎልበበ;gWlbb:[as=smp,vc=smp];;cover_v up;conceal_v
+ጎበጠ;gWbT:[as=smp,vc=smp];;yield_v;be_v stooped;stoop_v[ps]
+ጎበጠ;gWbT:[as=smp,vc=smp];;attack_v;assault_v
+ጐነጸ;gWn_S:[as=smp,vc=smp];;knock_v
+ጎዘየ;gWz_y:[as=smp,vc=smp];;carve_v;cut_v up
+ጎየየ;gWyy:[as=smp,vc=smp];;run_v;race_v;flow_v
+ጎደለ;gWdl:[as=smp,vc=smp];;be_v absent
+ጎድአ;gWd':[as=smp,vc=smp];;injure_v;wound_v;hurt_v;offend_v;grind_v
+ጎጀለ;gWj_l:[as=smp,vc=smp];;group_v;gather_v;cluster_v
+ጠለበ;Tlb:[as=smp,vc=smp];;request_v;require_v
+ጠለፈ;Tlf:[as=smp,vc=smp];;embroider_v
+ጠሓለ;THl:[as=smp,vc=smp];;sink_v;drown_v
+ጠሓነ;THn:[as=smp,vc=smp];;grind_v
+ጠመረ;Tmr:[as=smp,vc=smp];;tie_v;bind_v
+ጠመተ;Tm_t:[as=smp,vc=smp];;see_v;observe_v;look_v at;watch_v
+ጠረሸ;Trx:[as=smp,vc=smp];;terminate_v;end_v;finish_v;complete_v
+ጠርዐ;Tr`:[as=smp,vc=smp];;complain_v
+ጠርነፈ;Trnf:[as=smp,vc=smp];;gather_v;pick_v up
+ጠርጠረ;TrTr:[as=smp,vc=smp];;suspect_v
+ጠቐመ;Tqm:[as=smp,vc=smp];;profit_v
+ጠቐሰ;Tqs:[as=smp,vc=smp];;refer_v
+ጠበቐ;Tbq:[as=smp,vc=smp];;cling_v to
+ጠብሐ;TbH:[as=smp,vc=smp];;operate_v;do_v
+ጠወየ;Tw_y:[as=smp,vc=smp];;turn_v;twist_v
+ጠዓመ;T`m:[as=smp,vc=smp];;taste_v
+ጠዓየ;T`y:[as=smp,vc=smp];;recover_v;be_v restored;restore_v[ps];return_v
+ጠጠዐ;TT_`:[as=smp,vc=smp];;push_v;shove_v;jostle_v
+ጠፍአ;Tf':[as=smp,vc=smp];;disappear_v;vanish_v
+ጨመተ;Cm_t:[as=smp,vc=smp];;aim_v at
+ጨረሰ;Cr_s:[as=smp,vc=smp];;finish_v
+ጨነወ;Cnw:[as=smp,vc=smp];;smell_v
+ጨፍለቐ;Cflq:[as=smp,vc=smp];;press_v;crush_v
+ጸለየ;Sl_y:[as=smp,vc=smp];;pray_v to
+ጸልመተ;Slmt:[as=smp,vc=smp];;darken_v
+ጸልአ;Sl':[as=smp,vc=smp];;hate_v;detest_v;loathe_v
+ጸሓፈ;SHf:[as=smp,vc=smp];;write_v
+ጸመደ;Smd:[as=smp,vc=smp];;harness_v
+ጸሞቐ;SmWq:[as=smp,vc=smp];;press_v;squeeze_v
+ጸረፈ;Srf:[as=smp,vc=smp];;insult_v;abuse_v
+ጸቐጠ;SqT:[as=smp,vc=smp];;crush_v;press_v;squeeze_v
+ጸብጸበ;SbSb:[as=smp,vc=smp];;calculate_v
+ጸንሐ;SnH:[as=smp,vc=smp];;last_v
+ጸንቀቐ;Snqq:[as=smp,vc=smp];;drain_v;empty_v
+ጸንዐ;Sn`:[as=smp,vc=smp];;persist_v in;persevere_v
+ጸወዐ;Sw_`:[as=smp,vc=smp];;call_v;summon_v
+ጸዓረ;S`r:[as=smp,vc=smp];;do_v one's best;try_v hard
+ጸዓነ;S`n:[as=smp,vc=smp];;load_v
+ጸገመ;Sg_m:[as=smp,vc=smp];;bother_v;inconvenience_v
+ጸገበ;Sg_b:[as=smp,vc=smp];;satiate_v;fill_v
+ጸገነ;Sg_n:[as=smp,vc=smp];;mend_v;repair_v;fix_v
+ጻዕደወ;S`dw:[as=smp,vc=smp];;go_v pale;fade_v
+ጸለወ;Slw:[as=smp,vc=smp];;affect_v
+ጸሓፈ;SHf:[as=smp,vc=smp];;write_v
+ጸንሐ;SnH:[as=smp,vc=smp];;remain_v
+ፈለየ;fly:[as=smp,vc=smp];;isolate_v;separate_v
+ፈለጠ;flT:[as=smp,vc=smp];;know_v;know_v how to
+ፈላለየ;fly:[as=it,vc=smp];;separate_v
+ፈሓረ;fHr:[as=smp,vc=smp];;dig_v
+ፈረደ;frd:[as=smp,vc=smp];;rule_v;judge_v
+ፈርሐ;frH:[as=smp,vc=smp];;fear_v;be_v afraid
+ፈሰሰ;fss:[as=smp,vc=smp];;flow_v
+ፈሸለ;fxl:[as=smp,vc=smp];;fail_v;fail_v
+ፈቐደ;fqd:[as=smp,vc=smp];;allow_v;count_v;grant_v
+ፈትሐ;ftH:[as=smp,vc=smp];;release_v;undo_v;solve_v;resolve_v
+ፈነወ;fn_w:[as=smp,vc=smp];;loosen_v;slacken_v
+ፈከረ;fk_r:[as=smp,vc=smp];;boast_v
+ፈደየ;fdy:[as=smp,vc=smp];;repay_v
+ፈጠረ;fTr:[as=smp,vc=smp];;create_v
+ፈጸመ;fS_m:[as=smp,vc=smp];;commit_v;conclude_v
+ፋሕፈሐ;fHfH:[as=smp,vc=smp];;rub_v;scour_v;scrape_v
+ፋነነ;fann:[as=smp,vc=smp];;triumph_v
+ፋጸየ;faSy:[as=smp,vc=smp];;whistle_v;hiss_v;sizzle_v
+ኰነ;kwn:[as=smp,vc=smp];;become_v;happen_v;occur_v
+ኰዓተ;kW`t:[as=smp,vc=smp];;dig_v
+ቈለበ;qWlb:[as=smp,vc=smp];;catch_v
+ቈረጸ;qWrS:[as=smp,vc=smp];;cut_v
+ቈጸረ;qWSr:[as=smp,vc=smp];;count_v
+ጐደለ;gWdl:[as=smp,vc=smp];;decline_v
+ጐድአ;gWd':[as=smp,vc=smp];;hurt_v
+ጐየየ;gWyy:[as=smp,vc=smp];;run_v
+ጓሰየ;gWasy:[as=smp,vc=smp];;keep_v;preserve_v;mind_v;look_v after
+ሓዝአ;Hz':[as=smp,vc=smp];;reserve_v;retain_v;book_v
+ሓገገ;Hg_g:[as=smp,vc=smp];;decree_v;make_v law
+መለቘ;mlqW:[as=smp,vc=smp];;escape_v
+መስነወ;msnw:[as=smp,vc=smp];;irrigate_v
+መጸጸ;mSS:[as=smp,vc=smp];;become_v sour
+ማእረረ;m'rr:[as=smp,vc=smp];;browse_v
+መለቘ;mlqW:[as=smp,vc=smp];;escape_v from
+ረቕሐ;rqH:[as=smp,vc=smp];;mention_v
+ረረወ;rrw:[as=smp,vc=smp];;rock_v;swing_v;sway_v
+ሰውአ;sw_':[as=smp,vc=smp];;sacrifice_v
+ቀይሐ;qy_H:[as=smp,vc=smp];;redden_v
+ተሰወአ;sw_':[as=smp,vc=ps];;sacrifice_v
+ተተስፈወ;tsfw:[as=smp,vc=ps];;hope_v for
+ጸወረ;Sw_r:[as=smp,vc=smp];;carry_v;bear_v
+ተፈንጠረ;fnTr:[as=smp,vc=ps];;be_v trapped;trap_v[ps]
+ፈንጠረ;fnTr:[as=smp,vc=smp];;trap_v;trick_v
+ተኣደበ;'d_b:[as=smp,vc=ps];;behave_v oneself;be_v calm;be_v patient
+ኣደበ;'d_b:[as=smp,vc=smp];;correct_v;educate_v;train_v;discipline_v
+ነቕሐ;nqH:[as=smp,vc=smp];;be_v awake;be_v aware;be_v enlightened;enlighten_v[ps]
+ነተጐ;ntWg:[as=smp,vc=smp];;burst_v;explode_v
+ኣሰፍሐ;sf_H:[as=smp,vc=tr];;expand_v
+ኣንበልበለ;m|blbl:[as=smp,vc=tr];;flourish_v;flourish_v;flicker_v
+ኣኸበረ;kb_r:[as=smp,vc=tr];;respect_v
+ኣኸበበ;kb_b:[as=smp,vc=tr];;surround_v
+ኣለለየ;ll_y:[as=smp,vc=tr];;distinguish_v;recognize_v
+ሓረተ;Hr_t:[as=smp,vc=smp];;get_v burned
+ኣሕሸኹሸዀ;H|xkWxkW:[as=smp,vc=tr];;whisper_v
+ኣመሰለ;ms_l:[as=smp,vc=tr];;assert_v;affirm_v;maintain_v;intend_v
+ተንበርከኸ;m|brkk:[as=smp,vc=ps];;kneel_v down
+ኣመጐሰ;mWg_s:[as=smp,vc=tr];;appreciate_v
+መጐሰ;mWg_s:[as=smp,vc=smp];;praise_v;applaud_v
+ኣረከበ;rk_b:[as=smp,vc=tr];;deliver_v;hand_v in
+ኣርበሐ;rbH:[as=smp,vc=tr];;multiply_v
+ረብሐ;rbH:[as=smp,vc=smp];;be_v multiplied;multiply_v[ps];be_v advantaged;advantage_v[ps];benefit_v;profit_v
+ኣረከበ;rk_b:[as=smp,vc=tr];;hand_v over;entrust_v;transfer_v
+ኣቶመመ;tWmm:[as=smp,vc=tr];;put_v out of shape;deform_v
+ቶመመ;tWmm:[as=smp,vc=smp];;be_v deformed;deform_v[ps];be_v twisted;twist_v[ps];have_v a crooked mouth
+ተኸኸ;tkk:[as=smp,vc=ps];;make_v smoke;get_v angry;be_v annoyed;annoy_v[ps]
+ኣንሰሓበ;n|sHb:[as=smp,vc=tr];;withdraw_v;draw_v;step_v back
+ኣንወሐ;nwH:[as=smp,vc=tr];;lengthen_v;extend_v
+ነውሐ;nwH:[as=smp,vc=smp];;be_v tall;be_v extended;extend_v[ps]
+ኣንጸሐ;nSH:[as=smp,vc=tr];;purify_v
+ነጽሐ;nSH:[as=smp,vc=smp];;be_v pure;be_v clean
+ኣዓገበ;`gb:[as=smp,vc=tr];;satisfy_v
+ዓገበ;`gb:[as=smp,vc=smp];;be_v satisfied;satisfy_v[ps];be_v pleased;please_v[ps]
+ዓገበ;`g_b:[as=smp,vc=smp];;make_v a mistake
+ኣድነቐ;dnq:[as=smp,vc=tr];;admire_v
+ኣዕለቕለቐ;`|lqlq:[as=smp,vc=tr];;inundate_v;flood_v;swamp_v
+ቀምቀመ;qmqm:[as=smp,vc=smp];;trim_v;cut_v
+ከፍአ;kf':[as=smp,vc=smp];;be_v ugly;become_v worse
+ተዓቝበ;`qWb:[as=smp,vc=ps];;take_v shelter;seek_v refuge
+ኣዕቆበ;`qWb:[as=smp,vc=tr];;shelter_v;host_v
+ዘወረ;zw_r:[as=smp,vc=smp];;drive_v;conduct_v
+ጸወረ;Sw_r:[as=smp,vc=smp];;keep_v up;maintain_v

@@ -1,0 +1,1795 @@
+develop_v cause to flourish::አለማ፟ው
+cause_v to lick::አለሶ
+be_v finished::አለ፟ቆ
+finish_v[ps]::አለ፟ቆ
+be_v ended::አለ፟ቆ
+end_v[ps]::አለ፟ቆ
+die_v::አለ፟ቆ
+pass_v away::አለ፟ቆ
+help_v bring up a young one::አለቆ
+help_v someone to dress up::አለበ፟ሶ
+cover_v something::አለበ፟ሶ
+milk_v::አለ፟ቦ
+tan_v::አለፋ፟ው
+soften_v::አለፋ፟ው
+exhaust_v someone for nothing::አለፋ፟ው
+go_v::አለ፟ፎ
+appear_v::አሊዮ፟
+circumcise_v::አሊገ፟ሶ
+steal_v stealthily::አሊገ፟ሶ
+loosen_v::አላላ፟ው
+soften_v::አልሰለ፟ሶ
+plough_v land repeatedly and make it ready for sowing::አልሰለ፟ሶ
+pant_v::አልከለ፟ኮ
+escape_v::አመለ፟ጦ
+be_v safe::አመለ፟ጦ
+miss_v an opportunity::አመለ፟ጦ
+miss_v something beneficial::አመለ፟ጦ
+be_v late in the evening::አመሾ፟
+strain_v in defecating::አመጦ
+be_v unwilling to cooperate::አመጦ
+bring_v::አመጣ፟ው
+produce_v::አመጣ፟ው
+make_v the sign of cross::አማተ፟ቦ
+become_v sullen::አማከ፟ሮ
+become_v sulky::አማከ፟ሮ
+apply_v::አምለከ፟ቶ
+explain_v::አምለከ፟ቶ
+report_v::አምለከ፟ቶ
+crawl_v::አምባቾ፟
+creep_v::አምባቾ፟
+be_v slippery::አምብላጮ፟
+slide_v::አምብላጮ፟
+emaciate_v::አምነመ፟ኖ
+pat_v::አምነመ፟ኖ
+cause_v to clear shrub::አምነጠ፟ሮ
+wound_v::አምዘዮ፟
+cause_v to decay::አምጠመ፟ጦ
+rot_v::አምጠመ፟ጦ
+bring_v now and then::አምጣጣ፟ው
+be_v offended::አሞሾ፟
+offend_v[ps]::አሞሾ፟
+resent_v::አሞሾ፟
+glorify_v::አሞገ፟ሶ
+praise_v::አሞገ፟ሶ
+steal_v stealthily::አሞጦ
+build_v::አረሾ፟
+make_v::አረሾ፟
+raise_v::አረባ፟ው
+breed_v animals::አረባ፟ው
+tell_v bad news::አረዳ፟ው
+let_v fall::አረገ፟ፎ
+drop_v::አረገ፟ፎ
+cut_v::አረ፟ጦ
+decide_v::አረ፟ጦ
+rest_v::አረ፟ፎ
+cause_v to be defiled::አርማመ፟ጦ
+cause_v to be futile::አርማመ፟ጦ
+train_v::አሮሾ፟
+acquaint_v with new skills::አሮሾ፟
+cause_v to learn::አሮሾ፟
+deliver_v::አሰላ፟ው
+bring_v::አሰላ፟ው
+take_v something to its destination::አሰላ፟ው
+water_v::አሰጮ፟
+invite_v a drink::አሰጮ፟
+feel_v envy::አሲሰ፟ቶ
+be_v miser::አሲሰ፟ቶ
+be_v inseminated::ተሰደ፟ዶ
+migrate_v flee::ተሰደ፟ዶ
+go_v into exile flee::ተሰደ፟ዶ
+cause_v to exchange::አሲገ፟ሮ
+barter_v assigg::አሲገ፟ሮ
+cause_v to delay::አስነበ፟ቶ
+cause_v to sojourn::አስነበ፟ቶ
+hold_v back for some more time::አስነበ፟ቶ
+cause_v to evacuate::አሸሾ፟
+hide_v::አሸሾ፟
+conceal_v::አሸሾ፟
+notify_v::አሺ፟ሎ
+inform_v::አሺ፟ሎ
+report_v::አሺ፟ሎ
+be_v prone to be a suspect::አሺ፟ሎ
+accompany_v somebody::አሺኞ፟
+see_v so off::አሺኞ፟
+speak_v sarcastically::አሽሟጠ፟ጦ
+load_v::አሽባለ፟ሎ
+wear_v::አሽባለ፟ሎ
+put_v on a wraparound::አሽባለ፟ሎ
+mock_v::አሾፎ
+malinger_v dawdle::አሾፎ
+relieve_v::አቀለ፟ሎ
+solve_v::አቀለ፟ሎ
+lighten_v::አቀለ፟ሎ
+lessen_v burden::አቀለ፟ሎ
+pour_v carefully and slowly so as to get clear liquid::አቀረ፟ሮ
+form_v water on top::አቀረ፟ሮ
+bring_v closer::አቀረ፟ቦ
+submit_v::አቀረ፟ቦ
+appeal_v::አቀረ፟ቦ
+serve_v::አቀረ፟ቦ
+greet_v::አቀረ፟ቦ
+make_v empty::አቀበ፟ሎ
+make_v thin::አቀጠ፟ኖ
+resent_v someone::አቂሞ
+hold_v grudge::አቂሞ
+fail_v to give back::አቂሮ፟
+pass_v on::አቂበ፟ሎ
+bow_v the head::አቅረቀ፟ሮ
+bend_v one::አቅረቀ፟ሮ
+make_v ready::አቅራረ፟ቦ
+revive_v make a come back::አቅነቀ፟ኖ
+erect_v::አቆሞ
+set_v::አቆሞ
+stop_v::አቆሞ
+give_v up::አቆሞ
+abandon_v::አቆሞ
+feed_v::አበላ፟ው
+offer_v food::አበላ፟ው
+graze_v::አበላ፟ው
+calm_v down::አበረ፟ዶ
+settle_v a quarrel::አበረ፟ዶ
+put_v on light::አበራ፟ው
+bake_v::አበሰ፟ሎ
+make_v worse::አበሶ
+worsen_v::አበሶ
+multiply_v::አበዛ፟ው
+make_v much of any thing::አበዛ፟ው
+plan_v::አቢቾ፟
+comb_v::አቢጠ፟ሮ
+squander_v::አባከ፟ኖ
+cheat_v::አብላለ፟ጦ
+cause_v to graze a little::አብላላ፟ው
+cause_v to itch::አብላላ፟ው
+coordinate_v::አብራረ፟ዞ
+search_v for by touching::አብሳበ፟ሶ
+touch_v::አብሳበ፟ሶ
+give_v::አቦ
+perform_v mourning dance by swaying the hands::አቦሶ
+knead_v dough::አቦካ፟ው
+make_v profit::አተረ፟ፎ
+save_v::አተረ፟ፎ
+rescue_v::አተረ፟ፎ
+save_v for future use::አተረ፟ፎ
+bring_v to rest::አቲረ፟ፎ
+give_v a helping hand::አቲረ፟ፎ
+be_v late::አቲሮ
+be_v tardy::አቲሮ
+worry_v::አቲሰ፟ቦ
+delay_v::አቲቀ፟ሶ
+reduce_v::አቲነ፟ሶ
+lessen_v::አቲነ፟ሶ
+cause_v to sleep::አቲኞ፟
+lie_v down::አቲኞ፟
+have_v s::አቲከ፟ሞ
+put_v a morsel of food in another::አቲከ፟ሞ
+kindle_v set a fire::አቲዚዞ
+set_v people at odds::አቲዚዞ
+join_v together::አቲዚዞ
+show_v::አቲዦ፟
+direct_v::አቲዦ፟
+beat_v::አቲዦ፟
+smack_v::አቲዦ፟
+have_v a field mown::አቲደ፟ዶ
+shorten_v::አቲጠ፟ሮ
+make_v something short::አቲጠ፟ሮ
+have_v a fence made::አቲጠ፟ሮ
+have_v something washed::አቲጠ፟ቦ
+have_v something closed::አቲጮ፟
+cause_v someone to be ashamed::አቲፈ፟ሮ
+cause_v disgrace::አቲፈ፟ሮ
+convey_v::አት፟ላለ፟ፎ
+send_v::አት፟ላለ፟ፎ
+postpone_v::አት፟ላለ፟ፎ
+have_v s::አትመሎ
+teach_v::አትመሮ
+give_v lesson::አትመሮ
+cause_v to be blessed::አትሚረ፟ቆ
+pretend_v::አትሚሰ፟ሎ
+behave_v in a make-believe manner::አትሚሰ፟ሎ
+make_v an exact replica of something::አትሚሰ፟ሎ
+force_v::አትሚተ፟ሮ
+compel_v s::አትሚተ፟ሮ
+get_v something minced::አትሚተ፟ሮ
+cause_v to be advised::አትሚከ፟ሮ
+cause_v to choose something::አትሚጠ፟ሮ
+cause_v to bring something::አትሚጣ፟ው
+get_v an account audited::አትምረመ፟ሮ
+get_v someone::አትምረመ፟ሮ
+have_v s::አትምሰከ፟ሮ
+cause_v to be praised::አትምሰገ፟ኖ
+cause_v one forget::አትሪሳ፟ው
+have_v something done::አትሪሾ፟
+explain_v::አትሪዳ፟ው
+describe_v::አትሪዳ፟ው
+announce_v the death of s::አትሪዳ፟ው
+cause_v::አትሪጮ፟
+allow_v to sprinkle::አትሪጮ፟
+have_v s::አትቢሎ
+have_v bread baked::አትቢሰ፟ሎ
+cause_v somebody to weep::አትቢሾ፟
+cause_v to deteriorate::አትባለ፟ሶ
+incite_v others to quarrel::አትባላ፟ው
+fight_v::አትባላ፟ው
+cause_v something to be spoiled::አትብላሾ፟
+damage_v::አትብላሾ፟
+injure_v::አትብላሾ፟
+maim_v someone::አትብላሾ፟
+injure_v::አትኒሳ፟ው
+injure_v::አትኒሳ፟ው
+get_v something be uprooted::አትኒቀ፟ሎ
+cause_v to be displaced::አትኒቀ፟ሎ
+give_v rise to::አትናሳ፟ው
+trigger_v::አትናሳ፟ው
+have_v s::አትናዘ፟ዞ
+maintain_v::አትኪበ፟ሮ
+secure_v::አትኪበ፟ሮ
+put_v food in one::አትካከ፟ሞ
+take_v off::አትዊለ፟ቆ
+injure_v::አትዊለ፟ቆ
+contribute_v::አትዋጣ፟ው
+become_v lucrative::አትዋጣ፟ው
+cause_v to cross::አትጊና፟ው
+help_v to cross::አትጊና፟ው
+have_v s::አትጊደ፟ሎ
+arrange_v prayer for the dead::አትፊታ፟ው
+injure_v::አትፊጆ፟
+have_v s::አትፊጮ፟
+cause_v to sharpen one another::አትፋጮ፟
+become_v less::አነ፟ሶ
+be_v insufficient::አነ፟ሶ
+grab_v by the throat::አነ፟ቆ
+choke_v::አነ፟ቆ
+get_v stuck in the throat::አነ፟ቆ
+live_v with::አነበ፟ሮ
+read_v::አነበ፟ቦ
+anoint_v and consecrate king::አነገ፟ሶ
+clarify_v butter::አነጠ፟ሮ
+quaff_v::አንቃረ፟ሮ
+carry_v something awkwardly::አንቅረፈ፟ፎ
+move_v::አንቅሳቀ፟ሶ
+make_v a clinking sound::አንቻቻ፟ው
+cause_v something to tilt to one side::አንክረተ፟ቶ
+bend_v::አንክረተ፟ቶ
+make_v round::አንክረከ፟ሮ
+knock_v at::አንኳኳ፟ው
+hover_v::አንዣበ፟ቦ
+lay_v someone in a supine position::አንጋለ፟ሎ
+drive_v in droves::አንጋጋ፟ው
+look_v up::አንጋጠ፟ጦ
+raise_v up one::አንጋጠ፟ጦ
+soften_v by boiling::አንግረገ፟ቦ
+be_v reluctant::አንግራገ፟ሮ
+be_v unwilling::አንግራገ፟ሮ
+be_v reluctant::አንግበገ፟ቦ
+be_v hot- tempered::አንግበገ፟ቦ
+be_v outrageously angry::አንግበገ፟ቦ
+cause_v bitter regret::አንግበገ፟ቦ
+feel_v disappointment::አንግበገ፟ቦ
+scald_v::አንግበገ፟ቦ
+feel_v the burning sensation of something very hot::አንግበገ፟ቦ
+cause_v to doze off::አንጓለ፟ቶ
+fall_v asleep::አንጓለ፟ቶ
+roast_v lightly::አንጣጣ፟ው
+hang_v::አንጥለጠ፟ሎ
+suspend_v something::አንጥለጠ፟ሎ
+turn_v wood in to charcoal::አከሰ፟ሎ
+annoy_v::አከሰ፟ሎ
+make_v hard::አከበ፟ዶ
+make_v something difficult::አከበ፟ዶ
+endure_v::አከታ፟ው
+have_v patience::አከታ፟ው
+be_v patient::አከታ፟ው
+bear_v::አከታ፟ው
+be_v able::አከታ፟ው
+be_v capable::አከታ፟ው
+be_v castrated::ተኩላሾ፟
+castrate_v[ps]::ተኩላሾ፟
+be_v castrated::ተኩላሾ፟
+castrate_v[ps]::ተኩላሾ፟
+place_v something on a higher position::አወጣ፟ው
+chase_v::አወጣ፟ው
+drive_v away::አወጣ፟ው
+save_v::አወጣ፟ው
+take_v out::አወጣ፟ው
+bring_v out remove::አወጣ፟ው
+take_v off clothes::አወጣ፟ው
+lead_v a song::አወጣ፟ው
+attract_v one another::አዋለ፟ሎ
+talk_v and lough boisterously::አውካካ፟ው
+shake_v::አውዛወ፟ዞ
+move_v::አውዛወ፟ዞ
+wave_v::አውዛወ፟ዞ
+leak_v::አውዛወ፟ዞ
+be_v sad::አዘ፟ኖ
+be_v unhappy::አዘ፟ኖ
+have_v pity::አዘ፟ኖ
+float_v::አዛለ፟ሎ
+cause_v to pass the night::አዛኞ፟
+hover_v::አዛፈ፟ሎ
+fly_v over::አዛፈ፟ሎ
+move_v about slyly to get something::አዛፈ፟ሎ
+roam_v from place to place idly::አዛፈ፟ሎ
+hand_v over::አዞሮ
+see_v::አዦ፟
+look_v at something::አዦ፟
+visit_v::አዦ፟
+realize_v::አዦ፟
+fatten_v cattle::አደለ፟ቦ
+favour_v::አደላ፟ው
+pass_v the night::አደ፟ሮ
+manage_v one::አደ፟ሮ
+make_v others laugh::አደቆ
+amuse_v::አደቆ
+mow_v::አደ፟ዶ
+hang_v::አደ፟ዶ
+lurk_v::አደፈ፟ጦ
+lie_v in::አደፈ፟ጦ
+become_v dirty::አደ፟ፎ
+be_v soiled of clothes::አደ፟ፎ
+soil_v[ps]::አደ፟ፎ
+join_v::አዳበ፟ሎ
+be_v together::አዳበ፟ሎ
+wind_v thread on a spool::አዳወ፟ሮ
+beautify_v::አድማመ፟ቆ
+decorate_v::አድማመ፟ቆ
+cause_v to bleed::አዶሞ፟
+prick_v::አጆ፟
+stab_v::አጆ፟
+spear_v::አጆ፟
+ache_v::አጆ፟
+cause_v a sharp pain::አጆ፟
+jab_v::አጆ፟
+lengthen_v::አገለ፟ፎ
+make_v something longer::አገለ፟ፎ
+make_v red hot::አገሎ
+satisfy_v::አገራ፟ው
+satiate_v::አገራ፟ው
+belch_v::አገሳ፟ው
+send_v out accumulated gas from the stomach::አገሳ፟ው
+roar_v::አገሳ፟ው
+get_v married::አገባ፟ው
+put_v in::አገባ፟ው
+get_v::አገኞ፟
+find_v::አገኞ፟
+obtain_v::አገኞ፟
+transport_v::አገዞ
+carry_v something in parts to a certain place::አገዞ
+graze_v cattle::አገጦ
+stoop_v::አጉረበ፟ቦ
+bow_v::አጉረበ፟ቦ
+dig_v deeper::አጉደጐ፟ዶ
+lay_v something pr someone down::አጋደ፟ሞ
+be_v of some use serve::አግለገ፟ሎ
+enlarge_v::አግነታ፟ው
+cook_v porridge::አግነፋ፟ው
+cause_v to join::አግ፟ናኞ፟
+cause_v to meet::አግ፟ናኞ፟
+strain_v::አጠለ፟ሎ
+filter_v::አጠለ፟ሎ
+put_v on::አጠለ፟ቆ
+wear_v::አጠለ፟ቆ
+impede_v::አጠመ፟ሞ
+criticize_v::አጠረ፟ሶ
+clean_v::አጠራ፟ው
+rinse_v::አጠራ፟ው
+make_v pure by washing::አጠራ፟ው
+wash_v::አጠ፟ቦ
+make_v somethingnarrow::አጠበ፟ቦ
+study_v::አጠና፟ው
+learn_v::አጠና፟ው
+clean_v::አጠዳ፟ው
+purify_v::አጠዳ፟ው
+do_v worng::አጠፋ፟ው
+put_v off::አጠፋ፟ው
+harden_v::አጥነከ፟ሮ
+strengthen_v::አጥነከ፟ሮ
+set_v up the protector client relationship::አጦቦ፟
+let_v a young animal suck its mother::አጦቦ፟
+flavour_v::አጨሞ
+season_v make tasty::አጨሞ
+make_v expensive::አጨሞ
+clap_v::አጭበጨ፟ቦ
+slap_v::አጮሎ
+boil_v::አፈላ፟ው
+feel_v ashamed::አፈ፟ሮ
+scoop_v up with one::አፈ፟ሶ
+hasten_v::አፈጠ፟ኖ
+do_v things quickly::አፈጠ፟ኖ
+stare_v at::አፈጠ፟ጦ
+glare_v at::አፈጠ፟ጦ
+bend_v with the buttocks sticking out at the same time::አፍነደ፟ዶ
+slip_v::እንሽራተ፟ቶ
+slide_v::እንሽራተ፟ቶ
+become_v restless::እንቅለቀ፟ሎ
+be_v over hasty::እንቅለቀ፟ሎ
+trudge_v::እንቅረፈ፟ፎ
+walk_v very slowly::እንቅረፈ፟ፎ
+move_v::እንቅሳቀ፟ሶ
+stir_v::እንቅሳቀ፟ሶ
+shake_v::እንቅጠቀ፟ጦ
+tremble_v::እንቅጠቀ፟ጦ
+live_v luxuriously::እንቅባረ፟ሮ
+be_v haughty::እንቅባረ፟ሮ
+be_v conceited::እንቅባረ፟ሮ
+be_v spoiled::እንቅባረ፟ሮ
+shamble_v::እንክላወ፟ሶ
+amble_v::እንክላወ፟ሶ
+go_v::እንክላወ፟ሶ
+walk_v slowly::እንክላወ፟ሶ
+wander_v rave::እንክራተ፟ቶ
+roll_v wallow::እንክባለ፟ሎ
+sprawl_v::እንጋለ፟ሎ
+lie_v down on one::እንጋለ፟ሎ
+be_v groggy::እንግለጀ፟ጆ
+be_v very slow in doing something::እንግለጀ፟ጆ
+rumble_v::እንግበገ፟ቦ
+spread_v out::እንጣለ፟ሎ
+be_v suspended::እንጥለጠ፟ሎ
+suspend_v[ps]::እንጥለጠ፟ሎ
+hang_v::እንጥለጠ፟ሎ
+sleep_v::እኞ፟
+eat_v::በላ፟ው
+dismantle_v::በረ፟ሶ
+fly_v::በረ፟ሮ
+walk_v fast::በረ፟ሮ
+be_v completely finished::በረ፟ቆ
+become_v extinct::በረ፟ቆ
+lose_v penny::በረ፟ቆ
+cool_v::በረ፟ዶ
+become_v cold::በረ፟ዶ
+be_v cooked::በሰ፟ሎ
+get_v ripe::በሰ፟ሎ
+cry_v::በሾ፟
+weep_v::በሾ፟
+die_v without being slaughtered::በከ፟ቶ
+get_v ahead of overtake::በደ፟ሮ
+say_v::ባሎ
+outshine_v::ባሎ
+frolic_v::ባሎ
+frisk_v::ባሎ
+be_v excessive::ባሎ
+pass_v by quickly::ባሎ
+dart_v::ባሎ
+scoop_v out::ባረ፟ቆ
+go_v off accidentally::ባረ፟ቆ
+make_v the first cut in slaughtering::ባረ፟ኮ
+bless_v::ባረ፟ኮ
+get_v worse::ባሶ
+be_v fearful::ባባ፟ው
+remind_v repeatedly::ባባ፟ው
+be_v squandered::ባከ፟ኖ
+squander_v[ps]::ባከ፟ኖ
+be_v wasted::ባከ፟ኖ
+waste_v[ps]::ባከ፟ኖ
+work_v alone deligently::ባከ፟ኖ
+be_v diligent::ብረታ፟ው
+be_v hardworking::ብረታ፟ው
+shake_v liquid::ብጠበ፟ጦ
+mix_v::ብጠበ፟ጦ
+cause_v great disturbance::ብጠበ፟ጦ
+drive_v a peg::ቺከ፟ሎ
+be_v capable at doing something::ቻሎ
+try_v to cut something with a blunt instrument::ችለቸ፟ሎ
+retail_v::ችረቸ፟ሮ
+lock_v something fast::ችነከ፟ሮ
+wedge_v something like a nail onto something::ችነከ፟ሮ
+rain_v lightly::ችፈቸ፟ፎ
+drink_v something to the last drop::ጪለ፟ጦ
+drain_v::ጪለ፟ጦ
+empty_v::ጪለ፟ጦ
+ladle_v out::ጪለ፟ፎ
+dip_v out sauce::ጪለ፟ፎ
+become_v patient and sensible::ጪመ፟ቶ
+become_v earnest and respectable::ጪመ፟ቶ
+be_v costly::ጫሞ
+be_v expensive::ጫሞ
+be_v tasty::ጫሞ
+be_v sweet::ጫሞ
+draw_v coal::ጫሮ
+saddle_v::ጫኖ
+load_v something on another thing::ጫኖ
+scratch_v::ጫፈ፟ሮ
+nag_v::ጭቀጨ፟ቆ
+pester_v::ጭቀጨ፟ቆ
+stab_v repeatedly::ጭቀጨ፟ቆ
+become_v fattened::ደለ፟ቦ
+be_v attractive::ደመ፟ቆ
+get_v dry::ደረ፟ቆ
+become_v dim become shady d::ደበ፟ቦ
+dare_v::ደፈ፟ሮ
+plug_v::ደፈ፟ኖ
+fill_v up::ደፈ፟ኖ
+stuff_v a hole::ደፈ፟ኖ
+dump_v out::ደፋ፟ው
+pour_v out::ደፋ፟ው
+overturn_v::ደፋ፟ው
+pound_v somethings::ዲለ፟ሶ
+add_v::ዲመ፟ሮ
+add_v::ኢሰ፟ጎ
+have_v an illegitimate child::ዲቀ፟ሎ
+drive_v::ዲበ፟ሎ
+laugh_v::ዳቆ
+toil_v::ዳከ፟ሮ
+walk_v in search of something::ዳከ፟ሮ
+grow_v numb::ድረዘ፟ዞ
+be_v dull::ድረዘ፟ዞ
+be_v dazed::ድረዘ፟ዞ
+daze_v[ps]::ድረዘ፟ዞ
+become_v dim::ድበዘ፟ዞ
+bolt_v::ድነበ፟ሮ
+become_v fat::ድነደ፟ኖ
+be_v thick::ድነደ፟ኖ
+be_v stout::ድነደ፟ኖ
+be_v startled::ድነገ፟ጦ
+startle_v[ps]::ድነገ፟ጦ
+be_v scared::ድነገ፟ጦ
+scare_v[ps]::ድነገ፟ጦ
+crush_v::ድፈጠ፟ጦ
+press_v something::ድፈጠ፟ጦ
+bleed_v::ዶሞ፟
+gush_v out::ፈለ፟ቆ
+split_v::ፈለ፟ጦ
+cleave_v::ፈለ፟ጦ
+be_v boiled::ፈላ፟ው
+boil_v[ps]::ፈላ፟ው
+pass_v a verdict::ፈረ፟ዶ
+decide_v::ፈረ፟ዶ
+become_v fat::ፈቀ፟ሮ
+increase_v in body weight::ፈቀ፟ሮ
+spin_v::ፈተ፟ሎ
+twist_v::ፈተ፟ሎ
+untie_v::ፈታ፟ው
+release_v::ፈታ፟ው
+be_v dazed::ፈዘ፟ዞ
+daze_v[ps]::ፈዘ፟ዞ
+be_v dumb- founded::ፈዘ፟ዞ
+finish_v complete::ፈጆ፟
+create_v::ፈጠ፟ሮ
+invent_v::ፈጠ፟ሮ
+fabricate_v::ፈጠ፟ሮ
+fast_v::ፈጠ፟ኖ
+be_v quick::ፈጠ፟ኖ
+be_v hurried::ፈጠ፟ኖ
+hurry_v[ps]::ፈጠ፟ኖ
+jut_v out::ፈጠ፟ጦ
+stick_v out::ፈጠ፟ጦ
+look_v::ፈጠ፟ጦ
+stare_v at someone::ፈጠ፟ጦ
+stare_v at somebody shame-facedly after doing some wrong deed::ፈጠ፟ጦ
+sharpen_v::ፈጣ፟ው
+grind_v::ፈጮ፟
+crush_v something::ፈጮ፟
+powder_v::ፈጮ፟
+sign_v::ፊረ፟ሞ
+check_v::ፊተ፟ሾ
+inspect_v::ፊተ፟ሾ
+scrape_v::ፋቆ
+scrape_v::ፋገ፟ሮ
+rub_v something off::ፋገ፟ሮ
+fluff_v::ፍለቀ፟ቆ
+break_v open a cotton boll for carding::ፍለቀ፟ቆ
+break_v open something by force::ፍለቀ፟ቆ
+shell_v::ፍለፈ፟ሎ
+hatch_v::ፍለፈ፟ሎ
+have_v many offsprings::ፍለፈ፟ሎ
+become_v rotten::ፍረፈ፟ሮ
+become_v wormy::ፍረፈ፟ሮ
+crumble_v bread to lesser pieces::ፍተፈ፟ቶ
+uproot_v::ፍነቀ፟ሎ
+pry_v up::ፍነቀ፟ሎ
+cause_v to topple::ፍነገ፟ሎ
+splash_v liquid::ፍነጠ፟ቆ
+be_v overjoyed::ፍነጠ፟ዞ
+get_v tipsy::ፍነጠ፟ዞ
+fart_v::ፎሶ፟
+release_v waste gas through the anus::ፎሶ፟
+get_v well::ፎዮ፟
+recover_v::ፎዮ፟
+uncover_v::ገለ፟ቦ
+remove_v a cover off something::ገለ፟ቦ
+put_v on trousers::ገለ፟ዶ
+prepare_v::ገለ፟ዶ
+be_v ready::ገለ፟ዶ
+be_v tall::ገለ፟ፎ
+grow_v tall::ገለ፟ፎ
+bite_v something with the bare teeth)::ገመ፟ጦ
+be_v old::ገረ፟ዞ
+be_v aged::ገረ፟ዞ
+age_v[ps]::ገረ፟ዞ
+whip_v::ገረ፟ፎ
+be_v arrogant::ገራ፟ው
+be_v haughty::ገራ፟ው
+kill_v::ገደ፟ሎ
+break_v fasting::ገደ፟ፎ
+confront_v::ገጠ፟ሞ
+deal_v with::ገጠ፟ሞ
+encounter_v::ገጠ፟ሞ
+fit_v::ገጠ፟ሞ
+fix_v::ገጠ፟ሞ
+collide_v::ገጮ፟
+hit_v::ገጮ፟
+strike_v::ገጮ፟
+leave_v::ገፈ፟ሮ
+abandon_v::ገፈ፟ሮ
+quit_v::ገፈ፟ሮ
+push_v::ገፋ፟ው
+transfer_v from boyhood to adulthood::ጉለመ፟ሶ
+scatter_v grass on the floor::ጉዘጐ፟ዞ
+become_v deep::ጉደጐ፟ዶ
+estimate_v::ጊመ፟ቶ
+evaluate_v the cost::ጊመ፟ቶ
+amount_v::ጊመ፟ቶ
+assess_v::ጊመ፟ቶ
+pay_v tax money::ጊበ፟ሮ
+keep_v in a standing position::ጊተ፟ሮ
+wrap_v a corpse with a shroud::ጊነ፟ዞ
+harm_v s::ጊነ፟ጦ
+obstruct_v::ጊደ፟ቦ
+conceal_v::ጋረ፟ዶ
+veil_v::ጋረ፟ዶ
+bend_v to the ground::ጋሸ፟ቦ
+invite_v::ጋበ፟ዞ
+be_v unruly::ጋነ፟ጦ
+be_v uncontrollable::ጋነ፟ጦ
+migrate_v::ጋዞ
+flee_v::ጋዞ
+collapse_v::ጋዞ
+fall_v down::ጋዞ
+slide_v down::ጋዞ
+empty_v::ግለበ፟ጦ
+pour_v::ግለበ፟ጦ
+spill_v something::ግለበ፟ጦ
+turn_v inside out::ግለበ፟ጦ
+disengage_v::ግላገ፟ሎ
+walk_v rapidly::ግሰገ፟ሶ
+hasten_v towards::ግሰገ፟ሶ
+build_v::ግደገ፟ዶ
+betray_v::ለጋ፟ው
+act_v deceitfully::ለጋ፟ው
+malinger_v::ሊገ፟ሞ
+make_v weak excuses::ሊገ፟ሞ
+malinger_v::ሊገ፟ሞ
+lick_v::ላሶ
+lick_v::ላሶ
+peel_v::መለ፟ጦ
+cause_v somebody nakedness::መለ፟ጦ
+force_v somebody to be naked::መለ፟ጦ
+guide_v::መራ፟ው
+cause_v somebody nakedness::መራ፟ው
+lead_v the blind::መራ፟ው
+guide_v::መራ፟ው
+show_v the way::መራ፟ው
+resemble_v::መሰ፟ሎ
+look_v like::መሰ፟ሎ
+seem_v::መሰ፟ሎ
+advise_v::መከ፟ሮ
+give_v advice to someone::መከ፟ሮ
+meet_v for consultation::መከ፟ሮ
+advise_v::መከ፟ሮ
+give_v advice to someone::መከ፟ሮ
+consult_v each other::መከ፟ሮ
+advise_v one another::መከ፟ሮ
+suck_v::መጠ፟ጦ
+come_v::መጣ፟ው
+come_v::መጣ፟ው
+testify_v::ምሰከ፟ሮ
+witness_v::ምሰከ፟ሮ
+testify_v::ምሰከ፟ሮ
+witness_v::ምሰከ፟ሮ
+decay_v::ምጠመ፟ጦ
+decay_v::ምጠመ፟ጦ
+rot_v::ምጠመ፟ጦ
+cut_v::ሞጠ፟ሶ
+snap_v something suddenly::ሞጠ፟ሶ
+cut_v::ሞጠ፟ሶ
+snap_v::ሞጠ፟ሶ
+be_v ready::ሰላ፟ው
+be_v prepared::ሰላ፟ው
+be_v ready::ሰላ፟ው
+be_v prepared::ሰላ፟ው
+prepare_v[ps]::ሰላ፟ው
+mature_v::ሰላ፟ው
+happen_v::ሰላ፟ው
+sink_v::ሰመ፟ጦ
+drown_v see::ሰመ፟ጦ
+sink_v::ሰመ፟ጦ
+spy_v::ሲለ፟ሎ
+spy_v on::ሲለ፟ሎ
+spy_v::ሲለ፟ሎ
+spy_v on::ሲለ፟ሎ
+change_v as in bartering one thing for another::ሲገ፟ሮ
+change_v::ሲገ፟ሮ
+exchange_v::ሲገ፟ሮ
+change_v::ሲገ፟ሮ
+draw_v::ሳሎ
+grind_v coarsely::ሽረከ፟ቶ
+tear_v something to lesser pieces::ሽረከ፟ቶ
+cut_v something severely::ሽረከ፟ቶ
+grind_v coarsely::ሽረከ፟ቶ
+tear_v something to lesser pieces::ሽረከ፟ቶ
+forget_v::ኧረሳ፟ው
+assist_v::ኧረዳ፟ው
+help_v::ኧረዳ፟ው
+perish_v::ኧረገ፟ፎ
+fall_v out::ኧረገ፟ፎ
+curdle_v::ኧረጋ፟ው
+condense_v::ኧረጋ፟ው
+coagulate_v::ኧረጋ፟ው
+stagnate_v::ኧረጋ፟ው
+settle_v down::ኧረጋ፟ው
+live_v in one place::ኧረጋ፟ው
+get_v training::ኧሮሾ፟
+develop_v::ለማ፟ው
+be_v productive::ለማ፟ው
+gather_v::ለቀ፟ሞ
+collect_v::ለቀ፟ሞ
+pick_v::ለቀ፟ሞ
+wear_v::ለበ፟ሶ
+make_v impure::ለከ፟ፎ
+provoke_v::ለከ፟ፎ
+touch_v::ለገ፟ዶ
+provoke_v::ለገ፟ዶ
+measure_v::ሊካ፟ው
+paste_v patch::ሊጠ፟ፎ
+plaster_v as with mud::ሊጠ፟ፎ
+send_v::ላኮ
+singe_v::ልበለ፟ቦ
+ignite_v::ሎገ፟ጦ
+start_v fire::ሎገ፟ጦ
+be_v hunilated::ቀለ፟ሎ
+be_v disgraced::ቀለ፟ሎ
+disgrace_v[ps]::ቀለ፟ሎ
+slacken_v::ቀለ፟ሎ
+be_v light::ቀለ፟ሎ
+be_v less weighty::ቀለ፟ሎ
+taste_v::ቀመ፟ሶ
+face_v a problem::ቀመ፟ሶ
+pay_v for::ቀመ፟ሶ
+start_v commence::ቀረ፟ሶ
+come_v closer::ቀረ፟ቦ
+come_v nearer a::ቀረ፟ቦ
+tax_v::ቀረ፟ጦ
+be_v partially empty::ቀበ፟ሎ
+bury_v::ቀበ፟ሮ
+lose_v::ቀበ፟ጦ
+become_v be poor impoverished::ቀበ፟ጦ
+paint_v spread smear::ቀባ፟ው
+be_v fat::ቀባ፟ው
+perforate_v::ቀደ፟ዶ
+tear_v::ቀደ፟ዶ
+draw_v::ቀዳ፟ው
+be_v watery::ቀጠ፟ኖ
+become_v thin::ቀጠ፟ኖ
+punish_v::ቀጣ፟ው
+penalize_v::ቀጣ፟ው
+bend_v something::ቁለመ፟ሞ
+irritate_v::ቁረቆ፟ሮ
+cause_v discomfort::ቁረቆ፟ሮ
+become_v weevil eaten::ቁነቆ፟ኖ
+joke_v::ቂለ፟ዶ
+prepare_v spice::ቂመ፟ሞ
+prepare_v::ቂመ፟ሞ
+groan_v::ቂሰ፟ቶ
+deduct_v::ቂነ፟ሶ
+take_v away::ቂነ፟ሶ
+decrease_v::ቂነ፟ሶ
+shriek_v::ቂነ፟ሶ
+become_v lean::ቂነ፟ሶ
+become_v cheap::ቂነ፟ሶ
+do_v perform::ቂና፟ው
+sing_v mass::ቂደ፟ሶ
+continue_v::ቂጠ፟ሎ
+rise_v::ቂጠ፟ሎ
+augment_v::ቂጠ፟ሎ
+connect_v::ቂጠ፟ሎ
+become_v weak::ቂጦ
+conquer_v::ቂፈ፟ቶ
+subdue_v::ቂፈ፟ቶ
+capture_v::ቂፈ፟ቶ
+eat_v grain and powdery foods::ቃሞ
+talk_v in a dream::ቃዦ፟
+be_v restless move aimlessly::ቃዦ፟
+try_v::ቃጣ፟ው
+attempt_v::ቃጣ፟ው
+fold_v::ቅለበ፟ሶ
+make_v self contradiction::ቅላመ፟ዶ
+mix_v::ቅላቀ፟ሎ
+nibble_v as lambs::ቅመቀ፟ሞ
+drink_v::ቅመቀ፟ሞ
+drink_v to the stage of intoxication::ቅመቀ፟ሞ
+stop_v some mishap::ቅረቀ፟ሮ
+bolt_v::ቅረቀ፟ሮ
+insert_v bar::ቅረቀ፟ሮ
+defecate_v::ቅራጠ፟ጦ
+push_v faces out of the body::ቅራጠ፟ጦ
+awaken_v::ቅሰቀ፟ሶ
+wake_v up::ቅሰቀ፟ሶ
+drive_v a peg the ground into::ቅበቀ፟ቦ
+break_v::ቅነባ፟ው
+hit_v::ቅነባ፟ው
+gulp_v::ቅነባ፟ው
+kill_v::ቅነባ፟ው
+slay_v::ቅነባ፟ው
+snap_v off::ቅነጠ፟ሶ
+carry_v off suddenly::ቅነጣ፟ው
+get_v stunted::ቅነጨ፟ሮ
+heap_v up::ቆለ፟ሎ
+lock_v::ቆለ፟ፎ
+stand_v::ቆሞ
+stand_v up::ቆሞ
+cut_v into lesser pieces::ቆረ፟ሶ
+rap_v on the head with the knuckles::ቆራ፟ው
+wring_v::ቆቀ፟ሮ
+count_v::ቆጠ፟ሮ
+make_v decorative braids at the fringes of::ቋጮ፟
+cut_v into small pieces::መተ፟ሮ
+settle_v down::ሚሰ፟ኖ
+measure_v::ሚዘ፟ኖ
+choose_v::ሚጠ፟ሮ
+swear_v::ማሎ
+make_v a solemn oath::ማሎ
+get_v warm::ማቆ
+become_v hot::ማቆ
+despise_v look down on::ማኞ፟
+get_v warm::ማገ፟ሮ
+prune_v a tree::ምለመ፟ሎ
+examine_v::ምረመ፟ሮ
+investigate_v::ምረመ፟ሮ
+get_v emaciated::ምነመ፟ኖ
+dig_v out::ምነቀ፟ሮ
+pull_v out::ምነቀ፟ሮ
+make_v bitter remarks to harm others feelings::ሞረ፟ሞ
+be_v threshed and winnowed::ሞረ፟ቶ
+thresh_v[ps]::ሞረ፟ቶ
+expire_v::ሞቶ
+die_v::ሞቶ
+pick_v up::ነሳ፟ው
+lift_v::ነሳ፟ው
+live_v::ነበ፟ሮ
+reside_v::ነበ፟ሮ
+mark_v a tattoo::ነቀ፟ሶ
+decrease_v::ነቀ፟ሶ
+be_v broken to pieces::ነከ፟ቶ
+break_v[ps]::ነከ፟ቶ
+tingle_v::ነዘ፟ሮ
+ache_v::ነዘ፟ሮ
+throb_v::ነዘ፟ሮ
+pierce_v::ነደ፟ሎ
+make_v a hole::ነደ፟ሎ
+bite_v::ነደ፟ፎ
+be_v crowned as king::ነገ፟ሶ
+crown_v[ps]::ነገ፟ሶ
+be_v bully::ነገ፟ሶ
+be_v notorious::ነገ፟ሶ
+be_v expensive::ነገ፟ሶ
+be_v costly::ነገ፟ሶ
+trade_v::ነገ፟ዶ
+do_v business::ነገ፟ዶ
+abduct_v::ነጠ፟ቆ
+snatch_v away::ነጠ፟ቆ
+take_v away::ነጠ፟ቆ
+stop_v producing milk::ነጠ፟ፎ
+be_v finished completely::ነጠ፟ፎ
+finish_v[ps]::ነጠ፟ፎ
+pull_v out::ነጮ፟
+uproot_v::ነጮ፟
+tear_v off meat::ነጮ፟
+blow_v::ነፈ፟ሶ
+break_v a branch from a tree::ነፈ፟ቆ
+blow_v::ነፋ፟ው
+stop_v lactating::ኒጠ፟ሎ
+ache_v::ኒጠ፟ሎ
+shake_v::ኒጦ
+cause_v to move violently::ኒጦ
+churn_v::ኒጦ
+shake_v milk in a container to get butter::ኒጦ
+roam_v::ናወ፟ዞ
+wander_v about::ናወ፟ዞ
+spread_v::ንሰነ፟ሶ
+nag_v::ንዘነ፟ዞ
+importune_v::ንዘነ፟ዞ
+weep_v::ንፈረ፟ቆ
+cry_v too much::ንፈረ፟ቆ
+suppurate_v::ንፈረ፟ቆ
+get_v re-infected::ንፈረ፟ቆ
+cry_v out::ኖቆ፟
+be_v converted to Islam::ሰለ፟ሞ
+convert_v[ps]::ሰለ፟ሞ
+castrate_v::ሰለ፟ቦ
+cheat_v in a deal::ሰለ፟ቦ
+hang_v::ሰቀ፟ሎ
+break_v::ሰበ፟ሮ
+weep_v::ሰነ፟ፎ
+get_v drunk::ሰከ፟ሮ
+settle_v::ሰከ፟ኖ
+insult_v::ሰደ፟ቦ
+trot_v::ሰገ፟ሮ
+split_v::ሰጠ፟ቆ
+drink_v::ሰጮ፟
+hobble_v::ሲከ፟ሎ
+arrange_v in line::ሲደ፟ሮ
+align_v::ሲደ፟ሮ
+sew_v::ሲፎ፟
+stitch_v::ሲፎ፟
+kiss_v a::ሳሞ
+miss_v::ሳቶ
+lack_v knowledge::ሳቶ
+lack_v understanding::ሳቶ
+weep_v::ሳዶ
+conceal_v hid::ሳጦ
+stay_v for a certain time::ስነበ፟ቶ
+turn_v pale::ስነቾ፟
+stuff_v::ስከሰ፟ኮ
+flee_v::ሸሾ፟
+run_v away::ሸሾ፟
+reward_v::ሺለ፟ሞ
+buy_v::ሺመ፟ቶ
+purchase_v::ሺመ፟ቶ
+cheat_v::ሺቀ፟ቦ
+bridle_v::ሺበ፟ቦ
+tie_v a rope around the mouth of a horse to lead it easily::ሺበ፟ቦ
+become_v gray- haired::ሺበ፟ቶ
+make_v::ሺከ፟ቶ
+become_v out law::ሺፈ፟ቶ
+know_v::ሻሎ
+comprehend_v::ሻሎ
+pull_v::ሻቦ
+become_v mould::ሻገ፟ቶ
+look_v for::ሾ
+want_v::ሾ
+be_v touched::ተለገ፟ዶ
+touch_v[ps]::ተለገ፟ዶ
+be_v attached::ተለገ፟ዶ
+attach_v[ps]::ተለገ፟ዶ
+be_v obedient::ተላኮ
+be_v sent::ተላኮ
+send_v[ps]::ተላኮ
+betray_v one another::ተላጋ፟ው
+get_v shaved::ተላጮ፟
+wrestle_v playfully::ተላፋ፟ው
+struggle_v::ተላፋ፟ው
+treat_v all care for::ተልባዮ፟
+be_v debased be disreputable::ተልካከ፟ሶ
+debase_v[ps]::ተልካከ፟ሶ
+get_v married::ተሎጆ፟
+be_v bare::ተመለ፟ጦ
+be_v naked::ተመለ፟ጦ
+become_v bold::ተመለ፟ጦ
+peel_v::ተመለ፟ጦ
+take_v land on lease::ተመራ፟ው
+be_v led::ተመራ፟ው
+lead_v[ps]::ተመራ፟ው
+be_v guided::ተመራ፟ው
+guide_v[ps]::ተመራ፟ው
+get_v into difficulty face a problem::ተመካ፟ው
+resent_v::ተሙሻሾ፟
+develop_v grudge::ተሙሻሾ፟
+compete_v::ተሙካከ፟ሮ
+contest_v::ተሙካከ፟ሮ
+be_v torn to shreds::ተሙጣጠ፟ሶ
+tear_v[ps]::ተሙጣጠ፟ሶ
+turn_v sour::ተሙጣጠ፟ሶ
+be_v poisoned::ተሚረ፟ዞ
+poison_v[ps]::ተሚረ፟ዞ
+be_v contaminated::ተሚረ፟ዞ
+contaminate_v[ps]::ተሚረ፟ዞ
+be_v infected::ተሚረ፟ዞ
+infect_v[ps]::ተሚረ፟ዞ
+aspire_v::ተሚና፟ው
+be_v elected::ተሚጠ፟ሮ
+elect_v[ps]::ተሚጠ፟ሮ
+learn_v::ተማሮ
+be_v interrogated::ተምረመ፟ሮ
+interrogate_v[ps]::ተምረመ፟ሮ
+be_v examined::ተምረመ፟ሮ
+examine_v[ps]::ተምረመ፟ሮ
+be_v spoiled::ተምጣመ፟ጦ
+spoil_v[ps]::ተምጣመ፟ጦ
+be_v ill-mannered::ተምጣመ፟ጦ
+be_v drenched::ተምጣመ፟ጦ
+drench_v[ps]::ተምጣመ፟ጦ
+be_v dirty::ተምጣመ፟ጦ
+be_v filthy::ተምጣመ፟ጦ
+be_v praised::ተሞገ፟ሶ
+praise_v[ps]::ተሞገ፟ሶ
+be_v appreciated::ተሞገ፟ሶ
+appreciate_v[ps]::ተሞገ፟ሶ
+be_v snap::ተሞጠ፟ሶ
+argue_v::ተሟገ፟ቶ
+be_v woven::ተረሾ፟
+weave_v[ps]::ተረሾ፟
+be_v built::ተረሾ፟
+build_v[ps]::ተረሾ፟
+be_v defeated::ተረታ፟ው
+defeat_v[ps]::ተረታ፟ው
+be_v saved::ተረ፟ፎ
+save_v[ps]::ተረ፟ፎ
+survive_v::ተረ፟ፎ
+receive_v::ተሪከ፟ቦ
+be_v starved::ተራቦ
+starve_v[ps]::ተራቦ
+be_v famished::ተራቦ
+be_v smirched::ተራከ፟ቶ
+be_v immoral::ተራከ፟ቶ
+do_v immoral acts::ተራከ፟ቶ
+be_v hurried::ተራወ፟ጦ
+hurry_v[ps]::ተራወ፟ጦ
+help_v each other::ተራዳ፟ው
+be_v cooperate::ተራዳ፟ው
+sprinkle_v one another::ተራጮ፟
+be_v::ተርማመ፟ጦ
+get_v dirty::ተርማመ፟ጦ
+be_v smudged::ተርማመ፟ጦ
+smudge_v[ps]::ተርማመ፟ጦ
+collaborate_v one another help::ተርባረ፟ቦ
+scramble_v for something::ተርባረ፟ቦ
+restore_v one another::ተርካከ፟ቦ
+be_v ascertained::ተርጋገ፟ጦ
+ascertain_v[ps]::ተርጋገ፟ጦ
+be_v confirmed::ተርጋገ፟ጦ
+confirm_v[ps]::ተርጋገ፟ጦ
+steal_v through magical charm::ተሰለ፟ቦ
+be_v heard::ተሰማ፟ው
+hear_v[ps]::ተሰማ፟ው
+be_v stolen::ተሰረ፟ቆ
+steal_v[ps]::ተሰረ፟ቆ
+be_v robbed::ተሰረ፟ቆ
+rob_v[ps]::ተሰረ፟ቆ
+be_v broken::ተሰበ፟ሮ
+break_v[ps]::ተሰበ፟ሮ
+be_v ground finer::ተሲለ፟ቆ
+grind_v[ps]::ተሲለ፟ቆ
+be_v tucked::ተሲረ፟ጦ
+tuck_v[ps]::ተሲረ፟ጦ
+be_v changed::ተሲገ፟ሮ
+change_v[ps]::ተሲገ፟ሮ
+be_v tailored::ተሲፎ፟
+tailor_v[ps]::ተሲፎ፟
+be_v covered::ተሲፎ፟
+cover_v[ps]::ተሲፎ፟
+bow_v in respect to someone::ተሳለ፟ሞ
+kneel_v in supplication to God in church::ተሳለ፟ሞ
+make_v vow::ተሳሎ
+be_v is sharpen::ተሳሎ
+put_v the blame on others::ተሳበ፟ቦ
+be_v intoxicated together::ተሳከ፟ሮ
+intoxicate_v[ps]::ተሳከ፟ሮ
+be_v complicated::ተሳከ፟ሮ
+complicate_v[ps]::ተሳከ፟ሮ
+be_v successful::ተሳካ፟ው
+curse_v::ተሳደ፟ቦ
+be_v hiding::ተሳጦ
+be_v bored::ተስላተ፟ቶ
+bore_v[ps]::ተስላተ፟ቶ
+suffer_v::ተስቃዮ፟
+bid_v farewell::ተስናበ፟ቶ
+say_v goodbye::ተስናበ፟ቶ
+die_v::ተስናበ፟ቶ
+pass_v away::ተስናበ፟ቶ
+be_v finished completely::ተስናበ፟ቶ
+finish_v[ps]::ተስናበ፟ቶ
+be_v out of working order::ተስናከ፟ሎ
+be_v ready::ተስናጆ፟
+be_v prepared::ተስናጆ፟
+prepare_v[ps]::ተስናጆ፟
+be_v stuffed::ተስከሰ፟ኮ
+stuff_v[ps]::ተስከሰ፟ኮ
+be_v crammed::ተስከሰ፟ኮ
+cram_v[ps]::ተስከሰ፟ኮ
+barter_v::ተስጋገ፟ሮ
+deteriorate_v physically::ተስጋገ፟ሮ
+be_v massaged::ተሸሾ፟
+massage_v[ps]::ተሸሾ፟
+be_v reluctant to work::ተሸሾ፟
+rub_v::ተሸሾ፟
+be_v awarded::ተሺለ፟ሞ
+award_v[ps]::ተሺለ፟ሞ
+be_v decorated::ተሺለ፟ሞ
+decorate_v[ps]::ተሺለ፟ሞ
+be_v well-attired::ተሺለ፟ሞ
+be_v known::ተሺሎ
+know_v[ps]::ተሺሎ
+be_v understood::ተሺሎ
+understand_v[ps]::ተሺሎ
+be_v introduced::ተሺሺሎ
+introduce_v[ps]::ተሺሺሎ
+be_v terrified::ተሺበ፟ሮ
+terrify_v[ps]::ተሺበ፟ሮ
+be_v seen off::ተሺኞ፟
+see_v[ps]::ተሺኞ፟
+be_v escorted::ተሺኞ፟
+escort_v[ps]::ተሺኞ፟
+be_v of good quality::ተሺከ፟ቶ
+be_v kind- hearted::ተሺከ፟ቶ
+be_v helpful::ተሺከ፟ቶ
+ask_v::ተሻሎ
+lean_v against::ተሻመ፟ኮ
+be_v an accomplice::ተሻረ፟ኮ
+be_v business partner::ተሻረ፟ኮ
+be_v sacked::ተሻሮ
+sack_v[ps]::ተሻሮ
+crawl_v::ተሻቦ
+walk_v very slowly::ተሻቦ
+be_v cultivated::ተሽለሸ፟ሎ
+cultivate_v[ps]::ተሽለሸ፟ሎ
+be_v striped off the husk::ተሽለቀ፟ቆ
+be_v cut usu::ተሽረከ፟ቶ
+cut_v[ps]::ተሽረከ፟ቶ
+be_v coarse::ተሽረከ፟ቶ
+be_v started::ተቀረ፟ሶ
+start_v[ps]::ተቀረ፟ሶ
+be_v commenced::ተቀረ፟ሶ
+commence_v[ps]::ተቀረ፟ሶ
+be_v peeled off::ተቀረ፟ፎ
+peel_v[ps]::ተቀረ፟ፎ
+be_v removed::ተቀረ፟ፎ
+remove_v[ps]::ተቀረ፟ፎ
+be_v buried::ተቀበ፟ሮ
+bury_v[ps]::ተቀበ፟ሮ
+be_v hidden::ተቀበ፟ሮ
+hide_v[ps]::ተቀበ፟ሮ
+set_v a date::ተቀጠ፟ሮ
+be_v hired::ተቀጠ፟ሮ
+hire_v[ps]::ተቀጠ፟ሮ
+be_v employed::ተቀጠ፟ሮ
+employ_v[ps]::ተቀጠ፟ሮ
+be_v cut off::ተቀጠ፟ፎ
+cut_v[ps]::ተቀጠ፟ፎ
+be_v punished::ተቀጣ፟ው
+punish_v[ps]::ተቀጣ፟ው
+be_v bent::ተቁለመ፟ሞ
+bend_v[ps]::ተቁለመ፟ሞ
+be_v intertwined::ተቁላለ፟ፎ
+intertwine_v[ps]::ተቁላለ፟ፎ
+be_v interlocked::ተቁላለ፟ፎ
+interlock_v[ps]::ተቁላለ፟ፎ
+be_v concerned::ተቁረቆ፟ሮ
+concern_v[ps]::ተቁረቆ፟ሮ
+be_v upset::ተቁረቆ፟ሮ
+upset_v[ps]::ተቁረቆ፟ሮ
+be_v founded as town::ተቁረቆ፟ሮ
+found_v[ps]::ተቁረቆ፟ሮ
+knock_v::ተቁረቆ፟ሮ
+become_v dry and stiff::ተቁራፈ፟ዶ
+be_v poked::ተቁሰቆ፟ሶ
+be_v stirred up::ተቁሰቆ፟ሶ
+stir_v[ps]::ተቁሰቆ፟ሶ
+poke_v[ps]::ተቁሰቆ፟ሶ
+scoop_v something::ተቁነጠ፟ሮ
+be_v out of sight suddenly::ተቁነጠ፟ሮ
+be_v pinched::ተቁነጠ፟ጦ
+pinch_v[ps]::ተቁነጠ፟ጦ
+get_v organized in business::ተቁናጠ፟ጦ
+pinch_v someone::ተቁናጠ፟ጦ
+be_v built::ተቂለ፟ሶ
+build_v[ps]::ተቂለ፟ሶ
+be_v seasoned::ተቂመ፟ሞ
+season_v[ps]::ተቂመ፟ሞ
+be_v mixed and baked::ተቂመ፟ሶ
+mix_v[ps]::ተቂመ፟ሶ
+receive_v::ተቂበ፟ሎ
+take_v::ተቂበ፟ሎ
+accept_v::ተቂበ፟ሎ
+be_v reduced::ተቂነ፟ሶ
+reduce_v[ps]::ተቂነ፟ሶ
+be_v lessened::ተቂነ፟ሶ
+lessen_v[ps]::ተቂነ፟ሶ
+be_v deducted::ተቂነ፟ሶ
+deduct_v[ps]::ተቂነ፟ሶ
+say_v mass to praise God::ተቂደ፟ሶ
+be_v well-accomplished::ተቂደ፟ሶ
+be_v good mannered::ተቂደ፟ሶ
+be_v disciplined::ተቂደ፟ሶ
+discipline_v[ps]::ተቂደ፟ሶ
+sit_v behind a mounted person::ተቂጠ፟ሎ
+be_v elongated by knoting extra piece::ተቂጠ፟ሎ
+elongate_v[ps]::ተቂጠ፟ሎ
+be_v captivated::ተቂፈ፟ቶ
+captivate_v[ps]::ተቂፈ፟ቶ
+get_v nearly completed::ተቃለ፟ሎ
+be_v humiliated::ተቃለ፟ሎ
+humiliate_v[ps]::ተቃለ፟ሎ
+joke_v with::ተቃለ፟ዶ
+share_v among many::ተቃመ፟ሶ
+share_v butchered meat::ተቃረ፟ጦ
+be_v wedged::ተቃቃ፟ው
+wedge_v[ps]::ተቃቃ፟ው
+be_v in a blood feud::ተቃባ፟ው
+be_v straightened::ተቃና፟ው
+straighten_v[ps]::ተቃና፟ው
+be_v fulfilled::ተቃና፟ው
+fulfill_v[ps]::ተቃና፟ው
+go_v up::ተቃና፟ው
+ascend_v::ተቃና፟ው
+make_v an appointment with someone::ተቃጠ፟ሮ
+be_v knotted as with a rope::ተቃጠ፟ሮ
+knot_v[ps]::ተቃጠ፟ሮ
+be_v intended::ተቃጣ፟ው
+intend_v[ps]::ተቃጣ፟ው
+be_v threatened::ተቃጣ፟ው
+threaten_v[ps]::ተቃጣ፟ው
+turn_v back::ተቅለበ፟ሶ
+turn_v down::ተቅለበ፟ሶ
+mix_v::ተቅላቀ፟ሎ
+join_v::ተቅላቀ፟ሎ
+be_v cut off::ተቅረጠ፟ፎ
+cut_v[ps]::ተቅረጠ፟ፎ
+be_v closer::ተቅራረ፟ቦ
+become_v familiarized::ተቅራረ፟ቦ
+be_v stirred::ተቅሰቀ፟ሶ
+stir_v[ps]::ተቅሰቀ፟ሶ
+be_v awakened::ተቅሰቀ፟ሶ
+awaken_v[ps]::ተቅሰቀ፟ሶ
+be_v chased::ተቅባጠ፟ሮ
+chase_v[ps]::ተቅባጠ፟ሮ
+be_v forced to flee::ተቅባጠ፟ሮ
+force_v[ps]::ተቅባጠ፟ሮ
+be_v snapped::ተቅነጠ፟ሶ
+snap_v[ps]::ተቅነጠ፟ሶ
+be_v reduced::ተቅናነ፟ሶ
+reduce_v[ps]::ተቅናነ፟ሶ
+be_v lessened::ተቅናነ፟ሶ
+lessen_v[ps]::ተቅናነ፟ሶ
+fall_v heavily::ተቅጠቀ፟ጦ
+be_v chopped::ተቅጠቀ፟ጦ
+chop_v[ps]::ተቅጠቀ፟ጦ
+be_v hatched::ተቅፈቀ፟ፎ
+hatch_v[ps]::ተቅፈቀ፟ፎ
+be_v wrung::ተቆቀ፟ሮ
+wring_v[ps]::ተቆቀ፟ሮ
+blubber_v::ተቆቀ፟ሮ
+be_v strut::ተቆነ፟ኖ
+be_v counted::ተቆጠ፟ሮ
+count_v[ps]::ተቆጠ፟ሮ
+be_v destroyed::ተበረ፟ሶ
+destroy_v[ps]::ተበረ፟ሶ
+attack_v each other::ተቢቢሎ
+be_v dispersed::ተቢተ፟ኖ
+disperse_v[ps]::ተቢተ፟ኖ
+be_v scattered::ተቢተ፟ኖ
+scatter_v[ps]::ተቢተ፟ኖ
+be_v mistreated::ተቢደ፟ሎ
+be_v emaciated::ተባለ፟ሶ
+emaciate_v[ps]::ተባለ፟ሶ
+be_v sickly::ተባለ፟ሶ
+be_v poked::ተባላ፟ው
+be_v blessed with the cross::ተባረ፟ኮ
+bless_v[ps]::ተባረ፟ኮ
+be_v well-bred::ተባረ፟ኮ
+be_v of good manners::ተባረ፟ኮ
+be_v slaughtered::ተባረ፟ኮ
+slaughter_v[ps]::ተባረ፟ኮ
+be_v attended with each other::ተባሰ፟ሎ
+attend_v[ps]::ተባሰ፟ሎ
+mourn_v publicly::ተባሾ፟
+be_v anticed::ተባበ፟ሎ
+be_v lured::ተባበ፟ሎ
+lure_v[ps]::ተባበ፟ሎ
+be_v endure::ተባ፟ው
+be_v strong::ተባ፟ው
+be_v indefatigable::ተባ፟ው
+be_v multiplied::ተባዛ፟ው
+multiply_v[ps]::ተባዛ፟ው
+be_v wide open::ተብለጠ፟ጦ
+be_v overjoyed::ተብላለ፟ቆ
+be_v very happy::ተብላለ፟ቆ
+be_v pleased::ተብላለ፟ቆ
+be_v ruined::ተብላሾ፟
+ruin_v[ps]::ተብላሾ፟
+be_v spoiled::ተብላሾ፟
+spoil_v[ps]::ተብላሾ፟
+cry_v loudly and noisily::ተብረቀ፟ሶ
+be_v wide open::ተብረቀ፟ሶ
+be_v checked::ተብረበ፟ሮ
+check_v[ps]::ተብረበ፟ሮ
+be_v searched::ተብረበ፟ሮ
+search_v[ps]::ተብረበ፟ሮ
+be_v strengthened::ተብራታ፟ው
+strengthen_v[ps]::ተብራታ፟ው
+be_v encouraged::ተብራታ፟ው
+encourage_v[ps]::ተብራታ፟ው
+be_v muddy::ተብጠበ፟ጦ
+be_v stirred and unsettled::ተብጠበ፟ጦ
+stir_v[ps]::ተብጠበ፟ጦ
+be_v a turmoil::ተብጠበ፟ጦ
+be_v in a state of crisis like fighting::ተብጠበ፟ጦ
+war_v::ተብጠበ፟ጦ
+be_v longing for each other::ተቧረ፟ሶ
+be_v founded::ተተከ፟ሎ
+found_v[ps]::ተተከ፟ሎ
+be_v established::ተተከ፟ሎ
+establish_v[ps]::ተተከ፟ሎ
+be_v told::ተቲረ፟ቶ
+tell_v[ps]::ተቲረ፟ቶ
+be_v cooked::ተቲከ፟ሎ
+cook_v[ps]::ተቲከ፟ሎ
+be_v cheated::ተታለ፟ሎ
+cheat_v[ps]::ተታለ፟ሎ
+be_v swindled::ተታለ፟ሎ
+swindle_v[ps]::ተታለ፟ሎ
+put_v off one::ተታለ፟ሎ
+produce_v smoke::ተታነ፟ኖ
+send_v out smoke from a burning substance::ተታነ፟ኖ
+stammer_v::ተትባተ፟ቦ
+stutter_v::ተትባተ፟ቦ
+be_v pegged::ተቺከ፟ሎ
+peg_v[ps]::ተቺከ፟ሎ
+be_v gathered::ተነሳ፟ው
+assemble_v::ተነሳ፟ው
+be_v reaped::ተነሳ፟ው
+gather_v[ps]::ተነሳ፟ው
+be_v heaped up::ተነሳ፟ው
+heap_v[ps]::ተነሳ፟ው
+start_v::ተነሳ፟ው
+get_v up::ተነሳ፟ው
+be_v mentioned::ተነሳ፟ው
+mention_v[ps]::ተነሳ፟ው
+be_v remembered::ተነሳ፟ው
+remember_v[ps]::ተነሳ፟ው
+be_v bitter by a snake::ተነደ፟ፎ
+be_v pulled::ተነጮ፟
+pull_v[ps]::ተነጮ፟
+be_v ousted::ተነጮ፟
+be_v displaced::ተነጮ፟
+displace_v[ps]::ተነጮ፟
+be_v braggart::ተኒኒዶ
+make_v a show off::ተኒኒዶ
+live_v together in toleration::ተናበ፟ሮ
+make_v a will::ተናዘ፟ዞ
+sting_v::ተናደ፟ፎ
+bite_v::ተናደ፟ፎ
+be_v scattered::ተንሰነ፟ሶ
+be_v dispersed::ተንሰነ፟ሶ
+disperse_v[ps]::ተንሰነ፟ሶ
+scatter_v[ps]::ተንሰነ፟ሶ
+be_v extremely angry beyond control::ተንሰነ፟ሶ
+move_v::ተንቃነ፟ቆ
+wave_v::ተንቃነ፟ቆ
+be_v honored::ተከበ፟ሮ
+be_v given due respect::ተከበ፟ሮ
+give_v[ps]::ተከበ፟ሮ
+be_v reimbursed::ተከፈ፟ሎ
+reimburse_v[ps]::ተከፈ፟ሎ
+be_v paid up::ተከፈ፟ሎ
+pay_v[ps]::ተከፈ፟ሎ
+make_v a contract::ተኩናተ፟ሮ
+be_v scattered::ተኩናተ፟ሮ
+follow_v::ተኪተ፟ሎ
+take_v care of oneself::ተኪና፟ው
+be_v scattered::ተካሰ፟ሶ
+be_v recompensed::ተካሶ
+recompense_v[ps]::ተካሶ
+be_v ordained to become a priest::ተካኖ
+ordain_v[ps]::ተካኖ
+be_v skilled in one particular field::ተካኖ
+take_v a share::ተካፈ፟ሎ
+divide_v::ተካፈ፟ሎ
+be_v prepared::ተክላለ፟ቶ
+prepare_v[ps]::ተክላለ፟ቶ
+be_v ready::ተክላለ፟ቶ
+have_v a hair cut::ተክመከ፟ሞ
+haggle_v::ተክራከ፟ሮ
+bargain_v::ተክራከ፟ሮ
+argue_v::ተክራከ፟ሮ
+respect_v one another::ተክባበ፟ሮ
+put_v on antimony dust::ተኳሎ
+rely_v on others::ተዊሾ፟
+love_v each other::ተዋደ፟ዶ
+like_v each other::ተዋደ፟ዶ
+wave_v as in the wind like a tree::ተውዛወ፟ዞ
+return_v go back::ተዚበ፟ሮ
+come_v back::ተዚበ፟ሮ
+befriend_v someone::ተዛመ፟ዶ
+stretch_v one::ተዛመ፟ዶ
+be_v bent::ተዛባ፟ው
+bend_v[ps]::ተዛባ፟ው
+be_v twisted::ተዛባ፟ው
+twist_v[ps]::ተዛባ፟ው
+be_v haughty::ተዝባነ፟ኖ
+be_v arrogant::ተዝባነ፟ኖ
+be_v spilled::ተደፋ፟ው
+spill_v[ps]::ተደፋ፟ው
+dispute_v::ተዳረ፟ቆ
+argue_v harshly::ተዳረ፟ቆ
+be_v dark::ተዳፈ፟ኖ
+be_v darkened as with a dark room without light::ተዳፈ፟ኖ
+darken_v[ps]::ተዳፈ፟ኖ
+be_v established::ተድላደ፟ሎ
+establish_v[ps]::ተድላደ፟ሎ
+be_v settled::ተድላደ፟ሎ
+settle_v[ps]::ተድላደ፟ሎ
+sit_v comfortably::ተድላደ፟ሎ
+get_v bewildered::ተድናበ፟ሮ
+get_v confused::ተድናበ፟ሮ
+flee_v in fright::ተድናበ፟ሮ
+be_v astonished::ተገረ፟ሞ
+astonish_v[ps]::ተገረ፟ሞ
+be_v surprised::ተገረ፟ሞ
+surprise_v[ps]::ተገረ፟ሞ
+be_v found::ተገኞ፟
+find_v[ps]::ተገኞ፟
+say_v::ተገጠ፟ሞ
+recite_v lyrical dance poems::ተገጠ፟ሞ
+be_v fitted in::ተገጠ፟ሞ
+fit_v[ps]::ተገጠ፟ሞ
+be_v pushed away::ተገፋ፟ው
+push_v[ps]::ተገፋ፟ው
+be_v oppressed::ተገፋ፟ው
+oppress_v[ps]::ተገፋ፟ው
+be_v harassed::ተገፋ፟ው
+harass_v[ps]::ተገፋ፟ው
+walk_v gracefully::ተጉማለ፟ሎ
+walk_v boastfully::ተጉማለ፟ሎ
+rinse_v the mouth::ተጉማመ፟ጦ
+grumble_v::ተጉራፈ፟ጦ
+stand_v still::ተጊተ፟ሮ
+stand_v erect::ተጊተ፟ሮ
+be_v shrouded::ተጊነ፟ዞ
+shroud_v[ps]::ተጊነ፟ዞ
+get_v across get to the other side of a river::ተጊና፟ው
+be_v disclosed::ተጋለ፟ጦ
+disclose_v[ps]::ተጋለ፟ጦ
+be_v exposed::ተጋለ፟ጦ
+expose_v[ps]::ተጋለ፟ጦ
+be_v naked::ተጋለ፟ጦ
+be_v partially complete::ተጋመ፟ሶ
+say_v::ተጋረ፟ዞ
+get_v an equal share::ተጋራ፟ው
+confront_v::ተጋተ፟ሮ
+wrestle_v::ተጋደ፟ሎ
+struggle_v::ተጋደ፟ሎ
+kill_v each other::ተጋደ፟ሎ
+work_v hard to overcome some hardship::ተጋደ፟ሎ
+sprawl_v lie down::ተጋደ፟ሞ
+disengage_v::ተጋፈ፟ሮ
+let_v go of each other::ተጋፈ፟ሮ
+say_v::ተጋፋ፟ው
+be_v upside down::ተግለበ፟ጦ
+be_v spilled out as with liquid::ተግለበ፟ጦ
+spill_v[ps]::ተግለበ፟ጦ
+turn_v over to the opposite side::ተግላበ፟ጦ
+be_v arrogant::ተግላበ፟ጦ
+feel_v stubborn::ተግላበ፟ጦ
+be_v impudent::ተግላበ፟ጦ
+meet_v::ተግናኞ፟
+travel_v::ተጓዞ
+go_v on a trip::ተጓዞ
+be_v tripped::ተጠለ፟ፎ
+trip_v[ps]::ተጠለ፟ፎ
+die_v suddenly::ተጠለ፟ፎ
+be_v snatched::ተጠለ፟ፎ
+snatch_v[ps]::ተጠለ፟ፎ
+be_v yoked::ተጠመ፟ዶ
+be_v trapped::ተጠመ፟ዶ
+yoke_v[ps]::ተጠመ፟ዶ
+trap_v[ps]::ተጠመ፟ዶ
+be_v occupied with a task::ተጠመ፟ዶ
+occupy_v[ps]::ተጠመ፟ዶ
+be_v reprimanded::ተጠመ፟ዶ
+reprimand_v[ps]::ተጠመ፟ዶ
+be_v regarded with hatred::ተጠመ፟ዶ
+regard_v[ps]::ተጠመ፟ዶ
+be_v stored::ተጠቀ፟ኖ
+store_v[ps]::ተጠቀ፟ኖ
+be_v put in a safe place::ተጠቀ፟ኖ
+put_v[ps]::ተጠቀ፟ኖ
+keep_v away from others::ተጠቀ፟ኖ
+be_v reserved::ተጠቀ፟ኖ
+reserve_v[ps]::ተጠቀ፟ኖ
+feel_v disgusted::ተጢየ፟ፎ
+approach_v::ተጢጋ፟ው
+get_v closer::ተጢጋ፟ው
+be_v tied tightly::ተጢፈ፟ሮ
+tie_v[ps]::ተጢፈ፟ሮ
+quarrel_v::ተጣላ፟ው
+fight_v::ተጣላ፟ው
+feel_v abdominal discomfort::ተጣላ፟ው
+be_v twisted::ተጣመ፟ሞ
+twist_v[ps]::ተጣመ፟ሞ
+end_v in failure::ተጣመ፟ሞ
+call_v from a distance::ተጣራ፟ው
+sell_v out all::ተጣራ፟ው
+stretch_v one::ተጥራመ፟ሞ
+be_v aborted::ተጥራበ፟ሶ
+abort_v[ps]::ተጥራበ፟ሶ
+be_v futile::ተጥራበ፟ሶ
+exchange_v brief winking::ተጥቃቀ፟ሶ
+be_v cross- eyed::ተጥናገ፟ሮ
+be_v squinted::ተጥናገ፟ሮ
+squint_v[ps]::ተጥናገ፟ሮ
+emit_v bad smell::ተጥናጋ፟ው
+be_v flattened out supported::ተጥፈጠ፟ፎ
+flatten_v[ps]::ተጥፈጠ፟ፎ
+weep_v profusely::ተጦሾ፟
+be_v snapped::ተጦሾ፟
+be_v broken so suddenly::ተጦሾ፟
+start_v raining heavily::ተጦሾ፟
+cover_v::ተጪፈ፟ኖ
+close_v shut::ተጪፈ፟ኖ
+be_v shrunk::ተጭማተ፟ሮ
+shrink_v[ps]::ተጭማተ፟ሮ
+get_v smaller in size due to fire::ተጭማተ፟ሮ
+heat_v::ተጭማተ፟ሮ
+argue_v::ተጭቃጨ፟ቆ
+dispute_v::ተጭቃጨ፟ቆ
+squabble_v::ተጭቃጨ፟ቆ
+be_v cruel to each other::ተጭካከ፟ኖ
+lack_v pity on one another::ተጭካከ፟ኖ
+be_v divorced::ተፋታ፟ው
+divorce_v[ps]::ተፋታ፟ው
+be_v hot to the touch::ተፋጆ፟
+be_v hot to the taste::ተፋጆ፟
+hatch_v::ተፍለፈ፟ሎ
+act_v rudely::ተፍራቃ፟ው
+speak_v offensively::ተፍራቃ፟ው
+exchange_v fierce fighting::ተፍሳፈ፟ሶ
+be_v displaced::ተፍናቀ፟ሎ
+displace_v[ps]::ተፍናቀ፟ሎ
+spring_v::ተፍናጠ፟ሮ
+jump_v suddenly and quickly::ተፍናጠ፟ሮ
+frisk_v::ተፍናጠ፟ሮ
+frolic_v::ተፍናጠ፟ሮ
+tell_v parables::ቲረ፟ቶ
+be_v late morning::ቲሮ
+cook_v::ቲከ፟ሎ
+eat_v::ቲከ፟ሞ
+put_v food into the mouth::ቲከ፟ሞ
+start_v up fire::ቲዚዞ
+catch_v fire::ቲዚዞ
+come_v to blows fight::ቲዚዞ
+be_v connected::ቲዚዞ
+connect_v[ps]::ቲዚዞ
+take_v root::ቲዚዞ
+be_v captured be under custody::ቲዞ፟
+capture_v[ps]::ቲዞ፟
+choke_v::ታነ፟ቆ
+have_v difficulty in breathing::ታነ፟ቆ
+be_v hanged::ታነ፟ቆ
+hang_v[ps]::ታነ፟ቆ
+be_v speared::ታጆ፟
+be_v tabbed::ታጆ፟
+be_v closed::ታጮ፟
+close_v[ps]::ታጮ፟
+be_v shut::ታጮ፟
+shut_v[ps]::ታጮ፟
+be_v chewed::ታጮ፟
+chew_v[ps]::ታጮ፟
+suck_v::ትረበ፟ቦ
+drink_v::ትረበ፟ቦ
+wind_v::ትበተ፟ቦ
+conspire_v::ትበተ፟ቦ
+intrigue_v::ትበተ፟ቦ
+sit_v down::ቶና፟ው
+fire_v a bullet::ቶከ፟ሶ
+fire_v new clay articles for sturdiness::ቶከ፟ሶ
+become_v clear::ጠለ፟ሎ
+purify_v[ps]::ጠለ፟ሎ
+plunge_v::ጠለ፟ቆ
+submerge_v::ጠለ፟ቆ
+set_v::ጠለ፟ቆ
+draw_v::ጠለ፟ቆ
+hate_v::ጠላ፟ው
+dislike_v::ጠላ፟ው
+be_v bent::ጠመ፟ሞ
+bend_v[ps]::ጠመ፟ሞ
+be_v twisted::ጠመ፟ሞ
+twist_v[ps]::ጠመ፟ሞ
+be_v crooked::ጠመ፟ሞ
+crook_v[ps]::ጠመ፟ሞ
+fit_v the ploughing tools of a pair of oxen for farming::ጠመ፟ዶ
+harass_v::ጠመ፟ዶ
+intimidate_v::ጠመ፟ዶ
+dry_v up::ጠማ፟ው
+become_v completely dry::ጠማ፟ው
+be_v blunted::ጠረ፟ሶ
+blunt_v[ps]::ጠረ፟ሶ
+shape_v::ጠረ፟ቦ
+strip_v off::ጠረ፟ቦ
+tear_v out::ጠረ፟ቦ
+call_v out::ጠራ፟ው
+invite_v::ጠራ፟ው
+become_v black::ጠቀ፟ሮ
+press_v::ጠቀ፟ሶ
+dip_v::ጠቀ፟ሶ
+cause_v to be robbed::ጠቀ፟ሶ
+roast_v something::ጠበ፟ሶ
+be_v narrow::ጠበ፟ቦ
+be_v tight::ጠበ፟ቦ
+scoop_v up a handful::ጠበ፟ጦ
+get_v cleaned::ጠዳ፟ው
+be_v clean::ጠዳ፟ው
+be_v extinguished::ጠፋ፟ው
+extinguish_v[ps]::ጠፋ፟ው
+put_v out::ጠፋ፟ው
+desert_v::ጠፋ፟ው
+disappear_v::ጠፋ፟ው
+escape_v::ጠፋ፟ው
+be_v dead::ጠፋ፟ው
+be_v ruined::ጠፋ፟ው
+ruin_v[ps]::ጠፋ፟ው
+be_v destroyed::ጠፋ፟ው
+destroy_v[ps]::ጠፋ፟ው
+guard_v watch::ጢበ፟ቆ
+get_v stunted::ጢዦ፟
+sell_v::ጢገ፟ሮ
+break_v through::ጣሶ
+violate_v::ጣሶ
+defy_v::ጣሶ
+put_v::ጣዶ
+develop_v::ጥረቃ፟ው
+wrap_v up::ጥቀለ፟ሎ
+roll_v::ጥቀለ፟ሎ
+stuff_v::ጥቀጠ፟ቆ
+eat_v heavily::ጥቀጠ፟ቆ
+get_v drunk::ጥነበ፟ዞ
+be_v intoxicated::ጥነበ፟ዞ
+intoxicate_v[ps]::ጥነበ፟ዞ
+stink_v::ጥነባ፟ው
+become_v cheap::ጥነባ፟ው
+be_v low in price::ጥነባ፟ው
+be_v firm::ጥነከ፟ሮ
+be_v strong::ጥነከ፟ሮ
+be_v tough::ጥነከ፟ሮ
+be_v diligent::ጥነከ፟ሮ
+be_v full of effort::ጥነከ፟ሮ
+produce_v burnt taste::ጥነጋ፟ው
+be_v pour off::ጥነፈ፟ፎ
+be_v drained TIn::ጥነፈ፟ፎ
+drain_v[ps]::ጥነፈ፟ፎ
+throb_v::ጥዘጠ፟ዞ
+pat_v::ጥፈጠ፟ፎ
+flatten_v::ጥፈጠ፟ፎ
+fast_v stay without food::ጦሞ፟
+suckle_v::ጦቦ፟
+wilt_v::ጦገ፟ሎ
+wither_v::ጦገ፟ሎ
+fall_v out::ወለ፟ቆ
+fall_v off::ወለ፟ቆ
+bear_v::ወለ፟ዶ
+reproduce_v::ወለ፟ዶ
+give_v birth to offsprings::ወለ፟ዶ
+swarm_v::ወረ፟ሮ
+infest_v conquer::ወረ፟ሮ
+inherit_v::ወረ፟ሶ
+descend_v::ወረ፟ዶ
+take_v::ወሰ፟ዶ
+love_v::ወደ፟ዶ
+like_v::ወደ፟ዶ
+climb_v::ወጣ፟ው
+ascend_v::ወጣ፟ው
+go_v upwards::ወጣ፟ው
+entangle_v::ውሰወ፟ሶ
+be_v muddy::ዋለ፟ሎ
+be_v slippery::ዋለ፟ሎ
+slip_v::ዋለ፟ሎ
+waver_v::ዋለ፟ሎ
+vacillate_v::ዋለ፟ሎ
+be_v grief-stricken::ዋለ፟ሎ
+mourn_v::ዋለ፟ሎ
+show_v sorrow for the death to some loved one::ዋለ፟ሎ
+stuff_v::ዋተ፟ፎ
+swim_v::ዋኞ፟
+buy_v::ዋጆ፟
+purchase_v::ዋጆ፟
+swallow_v::ዋጦ
+gulp_v down::ዋጦ
+be_v finished::ዋጦ
+finish_v[ps]::ዋጦ
+stop_v giving milk::ዋጦ
+become_v weedy::ዋጦ
+be_v covered with weed::ዋጦ
+cover_v[ps]::ዋጦ
+catch_v::ዪዞ፟
+hold_v::ዪዞ፟
+hit_v::ዥመደ፟ዶ
+strike_v wantonly::ዥመደ፟ዶ
+pull_v::ዘመ፟ዶ
+drag_v::ዘመ፟ዶ
+loot_v::ዘረ፟ፎ
+rob_v::ዘረ፟ፎ
+plunder_v::ዘረ፟ፎ
+rain_v::ዘነ፟ቦ
+remember_v::ዘገ፟ዶ
+recall_v::ዘገ፟ዶ
+sing_v::ዚመ፟ሮ
+stretch_v s::ዚረ፟ሮ
+spread_v out::ዚረ፟ሮ
+return_v::ዚበ፟ሮ
+give_v back::ዚበ፟ሮ
+bring_v back::ዚበ፟ሮ
+scoop_v up::ዛቆ
+cut_v to thinner strips::ዝለዘ፟ሎ
+get_v moistened::ዝመዘ፟ሞ
+hem_v::ዝመዘ፟ሞ
+sew_v::ዝመዘ፟ሞ
+enumerate_v::ዝረዘ፟ሮ
+put_v in serial order::ዝረዘ፟ሮ
+empty_v::ዝረገ፟ፎ
+spread_v::ዝረጋ፟ው
+lay_v::ዝረጋ፟ው
+extend_v::ዝረጋ፟ው
+open_v::ዝረጋ፟ው
+soak_v::ዝፈዘ፟ፎ
+immerse_v::ዝፈዘ፟ፎ
+leave_v something undone::ዝፈዘ፟ፎ
+cause_v daze::አፈዘ፟ዞ
+do_v something useful::አፊሮ፟
+be_v circumcised::ተሊገ፟ሶ
+circumcise_v[ps]::ተሊገ፟ሶ
+give_v thanks::አምሰገ፟ኖ
+preach_v::ሰበ፟ኮ
+teach_v::ሰበ፟ኮ
+lie_v::ሰበ፟ኮ
+spread_v gossip::ሰበ፟ኮ
+measure_v::ሰፈ፟ሮ
+settle_v::ሰፈ፟ሮ
+complete_v doing something finish::አበቃ፟ው
+be_v exhausted::አበቃ፟ው
+exhaust_v[ps]::አበቃ፟ው
+be_v near death::አበቃ፟ው
+be_v stuck::አብረገ፟ዞ
+stick_v[ps]::አብረገ፟ዞ
+cause_v something to be eaten::አትቢላ፟ው
+emit_v light::በራ፟ው
+level_v::ድለደ፟ሎ
+ruminate_v::ሚዘ፟ኮ
+chew_v cud::ሚዘ፟ኮ
+uproot_v::ነቀ፟ሎ
+pull_v up::ነቀ፟ሎ
+put_v halter::ተሺበ፟ቦ
+be_v sold in retails::ተችረቸ፟ሮ
+sell_v[ps]::ተችረቸ፟ሮ
+be_v crowded::ተጣበ፟ቦ
+crowd_v[ps]::ተጣበ፟ቦ
+become_v inflexible::አከረ፟ሮ
+play_v::ተጫወ፟ቶ
+entertain_v::አትጫወ፟ቶ
+beg_v::ጦቀ፟ሶ
+ask_v for::ጦቀ፟ሶ
+surprise_v::አትጊረ፟ሞ
+speak_v::አወረ፟ሮ
+listen_v::ሰማ፟ው
+hear_v::ሰማ፟ው
+jump_v::ዘለ፟ሎ
+entertain_v::አትብላለ፟ቆ
+announce_v::አትስማማ፟ው
+prepare_v::አትስናጆ፟
+fear_v::ኮቾ፟
+be_v afraid::ኮቾ፟
+be_v born::ተወለ፟ዶ
+bear_v[ps]::ተወለ፟ዶ
+wait_v::ኢቀ፟ሶ
+become_v::ኮኖ
+begin_v::ወጠ፟ኖ
+stoop_v::አጉነበ፟ሶ
+shut_v::አጮ፟
+explode_v::ፍነዳ፟ው
+disperse_v::ቢተ፟ኖ
+breathe_v::ትነፈ፟ሶ
+shelter_v::አትጢጋ፟ው
+bring_v close::አትጢጋ፟ው
+think_v::ኢሰ፟ቦ
+clean_v::ጠረ፟ጎ
+wipe_v::ጠረ፟ጎ
+order_v::ኢዘ፟ዞ
+command_v::ኢዘ፟ዞ
+embroider_v::ጠለ፟ፎ
+hit_v::ወቃ፟ው
+strike_v::ወቃ፟ው
+criticize_v::ወቀ፟ሶ
+damage_v[ps]::ተጎዳ፟ው
+damage_v::ጎዳ፟ው
+humiliate_v::አትዋረ፟ዶ
+distribute_v::አትካፈ፟ሎ
+drop_v::አደ፟ጎ
+filter_v::አትጣራ፟ው
+flow_v::ተጎዶ
+sow_v::ዘራ፟ው
+increase_v::ኧረባ፟ው
+stack_v::ኧርበረ፟ቦ
+marry_v off::ሎጆ
+pacify_v::አትርጋጋ፟ው
+polish_v::ውለወ፟ሎ
+scare_v::አኩቻቾ፟
+win_v::ጮኞ፟
