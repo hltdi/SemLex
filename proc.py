@@ -12,17 +12,13 @@ TIgen = None
 KSgen = None
 
 AMTIfeats = "[sb=[-fem]]"
-#TE = hm.morpho.get_language('te').morphology['v']
-#KS = hm.morpho.get_language('ks').morphology['v']
-#CH = hm.morpho.get_language('ch').morphology['v']
+KSfeats = "[sg=m]"
 
-#AManal = hm.morpho.get_language('am', segment=False)
 TI = None
 TIinit = "[cj1=None,cj2=None,-d,-neg,pos=v,pp=None,-rel,sb=[-p1,-p2,-plr],-sub,tm=prf,-yn]"
 TE = None
 TEinit = "[-neg,op=None,pos=v,-rel,sn=1,sp=3,-sub,tm=prf]"
 KS = None
-KSfeats = "[sg=m]"
 
 ENG = re.compile("([a-zA-Z,\-() ]+)")
 PAREN = re.compile(r"(\(.+?\))")
