@@ -6,7 +6,41 @@ te::`lb:[cls=B,as=None,vc=[-ps,-cs]]:አለ፟በ
 te::kst:[cls=A,as=None,vc=[-ps,-cs]]:ከስተ
 te::lgd:[cls=A,as=None,vc=[-cs,-ps]]:ለግደ
 te::sbk:[cls=A,as=None,vc=[-ps,-cs]]:ሰብከ
- kone??
+te::sdd:[cls=A,as=None,vc=[-ps,-cs]]:ሰደ፟
+te::slTn:[cls=E,as=None,vc=[-ps,-cs]]:ሰልጠነ
+te::xgr:[cls=B,as=None,vc=[-ps,-cs]]:ትሸገ፟ረ
+te::twy:[cls=A,as=None,vc=[-ps,-cs]]:ተወ
+te::Tmq:[cls=A,as=None,vc=[-ps,-cs]]:ጠምቀ
+te::TmTm:[cls=E,as=None,vc=[-ps,-cs]]:ጠምጠመ
+te::'by:[cls=A,as=None,vc=[-ps,-cs]]:አበ # refuse_v;decline_v
+te::'kb:[cls=B,as=None,vc=[-ps,-cs]]:አከ፟በ
+te::`mS:[cls=B,as=None,vc=[-ps,-cs]]:ዐመ፟ጸ  # be_v violent;oppress_v
+te::`rq:[cls=B,as=None,vc=[-cs,+ps]]:ተዐረ፟ቀ
+te::`Sd:[cls=A,as=None,vc=[-ps,-cs]]:ዐጽደ
+te::`Sf:[cls=A,as=None,vc=[-ps,-cs]]:ዐጽፈ
+
+am::by_d[as=smp,vc=smp]:በየ፟ደ;;
+ti::by_d[as=smp,vc=smp]:በየ፟ደ;;
+te::byd[cls=B,as=None,vc=[-cs,-ps]]:በየ፟ደ
+
+te::bzn[cls=Ew,as=None,vc=[-cs,-ps]]:ቦዘነ;;
+ti::bWz_n[as=smp,vc=smp]:ቦዘ፟ነ
+
+ti::CfCf:[as=smp,vc=smp]:ጨፍጨፈ;;
+te::CfCf:[cls=E,as=None,vc=[-ps,-cs]]:ጨፍጨፈ;;
+am::CfCf:[as=smp,vc=smp]:ጨፈጨ፟ፈ
+
+ks::xmxm:[cls=E,as=None,vc=[-ps,-cs]]:ሽመሸ፟ሞ;;
+
+am::Twlg:[as=smp,vc=smp]:ጠወለ፟ገ;;
+te::Twlg:[cls=E,as=None,vc=[-cs,-ps]]:ጠውለገ
+
+am::dmq:[as=smp,vc=smp]:ደመ፟ቀ;;
+ti::dmq:[as=smp,vc=smp]:ደመቐ;;
+te::dmq:[cls=A,as=None,vc=[-cs,-ps]]:ደምቀ
+
+am::xl_l:[as=smp,vc=smp]:ሸለ፟ለ;fk_r:[as=smp,vc=smp]:ፈከ፟ረ;fWk_r:[as=smp,vc=smp]:ፎከ፟ረ;;
+te::fkr:[cls=B,as=None,vc=[-ps,-vc]]:ፈከ፟ረ
 
 ks::lbs:[cls=A,as=None,vc=[-cs,-ps]]:ለበ፟ሶ
 ks::gbh:[cls=A,as=smp,vc=[-cs,-ps]]:ገባ፟ው
@@ -16,3 +50,11 @@ ks::hrs:[cls=A,as=None,vc=[-cs,-ps]]:አረ፟ሶ
 ks::ngh:[cls=A,as=None,vc=[-ps,-cs]]:ነጋ፟ው
 ks::qTh:[cls=A,as=None,vc=[-ps,-cs]]:ቀጣ፟ው;;
 am::gWdl:[as=smp,vc=smp]:ጐደ፟ለ
+
+ti::TmTm:[as=smp,vc=smp]:ጠምጠመ;;
+ti::'by:[as=smp,vc=smp]:ኣበየ;;
+ti::'k_b:[as=smp,vc=smp]:ኣከ፟በ;;
+ti::`m_S:[as=smp,vc=smp]:ዓመጸ  # violate_v;be_v violent;harm_v ;;
+ti::`rq:[as=smp,vc=ps]:ተዓርቀ;;
+ti::`Sd:[as=smp,vc=smp]:ዓጸደ;;
+

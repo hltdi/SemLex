@@ -1533,7 +1533,7 @@ en::be_v hung;;
 am::n|TlTl:[as=smp,vc=ps]:ተንጠለጠ፟ለ
 ;;;
 en::be_v hungry;;
-am::r'b:[as=smp,vc=ps]:ተራበ;r'b:[as=smp,vc=smp,ob=[+xpl]]:ራባት
+am::r'b:[as=smp,vc=ps]:ተራበ;r'b:[as=smp,vc=smp,ob=[+xpl]]:ራበው
 ;;;
 en::be_v hurt;;
 am::kf':[as=smp,vc=ps]:ተከፋ፟
@@ -1545,7 +1545,7 @@ en::be_v ignored;;
 am::'lf:[as=smp,vc=ps]:ታለ፟ፈ
 ;;;
 en::be_v ill;;
-am::'mm:[as=smp,vc=smp,ob=[+xpl]]:አመ፟ማት
+am::'mm:[as=smp,vc=smp,ob=[+xpl]]:አመ፟መው
 ;;;
 en::be_v impeached;;
 am::x'r:[as=smp,vc=ps]:ተሻረ
@@ -2664,7 +2664,7 @@ en::be_v thin;;
 am::'l_T:[as=smp,vc=smp]:አለ፟ጠ;gWfy*:[as=smp,vc=smp]:ጐፈየ፟;sl_l:[as=smp,vc=smp]:ሰለ፟ለ
 ;;;
 en::be_v thirsty;;
-am::Tm':[as=smp,vc=ps]:ተጠማ፟;Tm':[as=smp,vc=smp,ob=[+xpl]]:ጠማ፟ት
+am::Tm':[as=smp,vc=ps]:ተጠማ፟;Tm':[as=smp,vc=smp,ob=[+xpl]]:ጠማ፟ው
 ;;;
 en::be_v thought;;
 am::'s_b:[as=smp,vc=ps]:ታሰ፟በ
@@ -2820,7 +2820,7 @@ en::be_v wasted;;
 am::bakn:[as=smp,vc=smp]:ባከ፟ነ
 ;;;
 en::be_v weak;;
-am::dgdg:[as=smp,vc=smp]:ደገደ፟ገ;dkm:[as=smp,vc=smp,ob=[+xpl]]:ደከ፟ማት
+am::dgdg:[as=smp,vc=smp]:ደገደ፟ገ;dkm:[as=smp,vc=smp,ob=[+xpl]]:ደከ፟መው
 ;;;
 en::be_v weak-sighted;;
 am::Tnabs:[as=smp,vc=ps]:ተጠናበ፟ሰ;dgdg:[as=smp,vc=smp]:ደገደ፟ገ
@@ -2946,7 +2946,7 @@ en::become_v bone-dry;;
 am::kn_n:[as=smp,vc=smp]:ከነ፟ነ
 ;;;
 en::become_v bored;;
-am::slc*:[as=smp,vc=smp,ob=[+xpl]]:ሰለቻ፟ት
+am::slc*:[as=smp,vc=smp,ob=[+xpl]]:ሰለቸ፟ው
 ;;;
 en::become_v boring;;
 am::cyk:[as=smp,vc=smp]:ቸከ
@@ -3375,7 +3375,7 @@ en::become_v thin;;
 am::ks':[as=smp,vc=smp]:ከሳ፟;lw_T:[as=it,vc=ps]:ተለዋወ፟ጠ;mnmn:[as=smp,vc=smp]:መነመ፟ነ;qTn:[as=smp,vc=smp]:ቀጠ፟ነ;slsl:[as=smp,vc=smp]:ሰለሰ፟ለ
 ;;;
 en::become_v tired;;
-am::dkm:[as=smp,vc=smp,ob=[+xpl]]:ደከ፟ማት
+am::dkm:[as=smp,vc=smp,ob=[+xpl]]:ደከ፟መው
 ;;;
 en::become_v turbid;;
 am::dfrs:[as=smp,vc=smp]:ደፈረ፟ሰ
@@ -3399,7 +3399,7 @@ en::become_v verdant;;
 am::CbCb:[as=smp,vc=smp]:ጨበጨ፟በ
 ;;;
 en::become_v warm;;
-am::mwq:[as=smp,vc=smp,ob=[+xpl]]:ሞቃት
+am::mwq:[as=smp,vc=smp,ob=[+xpl]]:ሞቀው
 ;;;
 en::become_v weak;;
 am::dqq:[as=rc,vc=ps]:ተዳቀ፟ቀ;lax*:[as=smp,vc=smp]:ላሸ፟
@@ -7128,7 +7128,7 @@ en::know_v[ps];;
 am::'wq:[as=smp,vc=ps]:ታወ፟ቀ
 ;;;
 en::lack_v;;
-am::cg_r:[as=smp,vc=smp,ob=[+xpl]]:ቸገ፟ራት
+am::cg_r:[as=smp,vc=smp,ob=[+xpl]]:ቸገ፟ረው
 ;;;
 en::lack_v breeding;;
 am::balg:[as=smp,vc=smp]:ባለ፟ገ
@@ -9909,7 +9909,7 @@ en::strip_v[ps];;
 am::glff:[as=smp,vc=ps]:ተገለፈ፟ፈ;lmlm:[as=smp,vc=ps]:ተለመለ፟መ
 ;;;
 en::strive_v;;
-am::dkm:[as=smp,vc=smp,ob=[+xpl]]:ደከ፟ማት
+am::dkm:[as=smp,vc=smp,ob=[+xpl]]:ደከ፟መው
 ;;;
 en::strive_v for;;
 am::T'r:[as=it,vc=ps]:ተጣጣረ

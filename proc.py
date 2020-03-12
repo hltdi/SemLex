@@ -28,6 +28,7 @@ ENTRY_SEP = ';;;'
 LANG_SEP = ';;'
 ITEM_SEP = ';'
 LANG_ITEM_SEP = '::'
+COMMENT = '#'
 
 AF_CONV = {'': "[as=smp,vc=smp]",
           '3': "[as=smp,vc=smp,ob=[+xpl]]",
@@ -62,6 +63,71 @@ KF_CONV = {"": "[as=None,vc=[-ps,-cs]]",
            "cspsrc": "[as=rc,vc=[+ps,+cs]]"}
 
 geezify = None
+
+def write(entries, path, sort=True):
+    with open(path, 'w', encoding='utf8') as file:
+        if sort:
+            # Alphabetize by English
+            entries.sort(key=lambda e: e['en'])
+        for entry in entries:
+            print(ENTRY_SEP, file=file)
+            lgs = []
+            for lg, items in entry.items():
+                lgs.append("{}{}{}".format(lg, LANG_ITEM_SEP, items))
+            lgs = (LANG_SEP + "\n").join(lgs)
+            print(lgs, file=file)
+
+def read_entry(entry, minimum=0, maximum=0):
+    edict = {}
+    langs = entry.split(LANG_SEP)
+    if maximum and len(langs) > maximum:
+        return
+    if minimum and len(langs) < minimum:
+        return
+    for lang in langs:
+#        print(lang)
+        # separate off possible commments
+        item, comment = sep_comment(lang.strip())
+        item_split = item.split(LANG_ITEM_SEP)
+        l, items = item_split
+        if comment:
+            items = "{}{}{}".format(items, COMMENT, comment)
+        edict[l] = items
+    return edict
+
+def sep_comment(item):
+    """Separate an item into the content and a possible comment."""
+    item_comment = item.split(COMMENT)
+    comment = ''
+    if len(item_comment) > 1:
+        # Length should be 2 but could be greater if there are multiple comment characters
+        item = item_comment[0].strip()
+        comment = item_comment[1].strip()
+    return item, comment
+
+def read_entries(entries, minimum=0, maximum=0):
+    e = []
+    entries = entries.split(ENTRY_SEP)
+    return [read_entry(entry.strip(), minimum=minimum, maximum=maximum) for entry in entries if entry]
+
+def read(filename='eatT1.txt', minimum=0, maximum=0):
+    with open(filename, encoding='utf8') as file:
+        contents = file.read()
+        return [e for e in read_entries(contents, minimum=minimum, maximum=maximum) if e]
+
+def load(language):
+    global AMgen
+    global TIgen
+    global KSgen
+    global geezify
+    if language == 'am' and not AMgen:
+        AMgen = hm.morpho.get_language('am', segment=False, phon=True).morphology['v']
+    elif language == 'ti' and not TIgen:
+        TIgen = hm.morpho.get_language('ti', phon=True).morphology['v']
+    elif language == 'ks' and not KSgen:
+        KSgen = hm.morpho.get_language('gru').morphology['v']
+    if not geezify:
+        geezify = hm.morpho.geez.geezify
 
 def merge_ks():
     adict = get_adict()
@@ -234,38 +300,6 @@ def get_adict():
 ##            others = (LANG_SEP + '\n').join(others)
 ##            print(others, file=file)
 ##
-##def write(entries, path):
-##    with open(path, 'w', encoding='utf8') as file:
-##        for entry in entries:
-##            print(ENTRY_SEP, file=file)
-##            lgs = []
-##            for lg, items in entry.items():
-##                lgs.append("{}{}{}".format(lg, LANG_ITEM_SEP, items))
-##            lgs = (LANG_SEP + "\n").join(lgs)
-##            print(lgs, file=file)
-
-def read_entry(entry, minimum=0, maximum=0):
-    edict = {}
-    langs = entry.split(LANG_SEP)
-    if maximum and len(langs) > maximum:
-        return
-    if minimum and len(langs) < minimum:
-        return
-    for lang in langs:
-#        print(lang)
-        l, items = lang.strip().split(LANG_ITEM_SEP)
-        edict[l] = items
-    return edict
-
-def read_entries(entries, minimum=0, maximum=0):
-    e = []
-    entries = entries.split(ENTRY_SEP)
-    return [read_entry(entry.strip(), minimum=minimum, maximum=maximum) for entry in entries if entry]
-
-def read(filename='eatT1.txt', minimum=0, maximum=0):
-    with open(filename, encoding='utf8') as file:
-        contents = file.read()
-        return [e for e in read_entries(contents, minimum=minimum, maximum=maximum) if e]
 
 def elim_paren(string):
     return PAREN.sub("", string)
@@ -528,20 +562,6 @@ def proc_te_ti():
         for r in result:
             print(r, file=file)
     return result
-
-def load(language):
-    global AMgen
-    global TIgen
-    global KSgen
-    global geezify
-    if language == 'am' and not AMgen:
-        AMgen = hm.morpho.get_language('am', segment=False, phon=True).morphology['v']
-    elif language == 'ti' and not TIgen:
-        TIgen = hm.morpho.get_language('ti', phon=True).morphology['v']
-    elif language == 'ks' and not KSgen:
-        KSgen = hm.morpho.get_language('gru').morphology['v']
-    if not geezify:
-        geezify = hm.morpho.geez.geezify
 
 def get_ti_roots():
     roots = []
