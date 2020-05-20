@@ -10,9 +10,10 @@ ks::qbl:[cls=B,as=None,vc=[+ps,-cs]]:ተቂበ፟ሎ;;
 am::qb_l:[as=smp,vc=ps]:ተቀበ፟ለ
 ;;;
 en::accompany_v;;
-ti::sn_y:[as=smp,vc=tr]:ኣሰነ፟የ;fn_w:[as=rc,vc=tr]:ኣፋ፟ነወ;;
+ti::sn_y:[as=smp,vc=smp]:ሰነ፟የ;fn_w:[as=rc,vc=tr]:ኣፋ፟ነወ;;
 te::srH:[cls=B,as=None,vc=[-cs,-ps]]:ሰረ፟ሐ;;
-am::zfn:[as=rc,vc=tr]:አዛ፟ፈ፟ነ
+am::xN_*:[as=smp,vc=smp]:ሸኘ፟;;
+ks::xNy:[cls=B,as=None,vc=[+cs,-ps]]:አሺኞ፟
 ;;;
 en::accuse_v;;
 ti::kss:[as=smp,vc=smp]:ከሰሰ;wqs:[as=smp,vc=smp]:ወቐሰ;;
@@ -3401,20 +3402,23 @@ en::yield_v;;
 ti::gWbT:[as=smp,vc=smp]:ጐበጠ;;
 am::mrt:[as=smp,vc=smp]:መረ፟ተ
 ;;;
-en::mutilate_v;;
+en::castrate_v;;
 am::slb:[as=smp,vc=smp]:ሰለ፟በ;;
 ti::slb:[as=smp,vc=smp]:ሰለበ;;
-te::slb:[as=smp,vc=smp]:ሰልበ
+te::slb:[as=smp,vc=smp]:ሰልበ;;
+ks::mll:[cls=A,as=None,vc=[-ps,-cs]]:መለ፟ሎ
 ;;;
 en::be_v civilized;;
 am::slTn:[as=smp,vc=smp]:ሰለጠ፟ነ;;
 ti::slTn:[as=smp,vc=smp]:ሰልጠነ;;
-te::slTn:[cls=E,as=None,vc=[-ps,-cs]]:ሰልጠነ
+te::slTn:[cls=E,as=None,vc=[-ps,-cs]]:ሰልጠነ;;
+ks::slTn:[cls=E,as=None,vc=[-ps,-cs]]:ስለጠ፟ኖ
 ;;;
 en::be_v bothered;;
 am::cg_r:[as=smp,vc=ps]:ተቸገ፟ረ;;
 ti::xg_r:[as=smp,vc=ps]:ተሸገ፟ረ;;
-te::xgr:[cls=B,as=None,vc=[-ps,-cs]]:ትሸገ፟ረ
+te::xgr:[cls=B,as=None,vc=[-ps,-cs]]:ትሸገ፟ረ;;
+ks::mkh:[cls=A,as=None,vc=[-ps,-cs]]:መካ፟ው
 ;;;
 en::yoke_v;;
 am::Tmd:[as=smp,vc=smp]:ጠመ፟ደ;;
@@ -3469,12 +3473,14 @@ te::`rq:[cls=B,as=None,vc=[-cs,+ps]]:ተዐረ፟ቀ
 en::mow_v;;
 am::'Cd:[as=smp,vc=smp]:አጨ፟ደ;;
 ti::`Sd:[as=smp,vc=smp]:ዓጸደ;;
-te::`Sd:[cls=A,as=None,vc=[-ps,-cs]]:ዐጽደ
+te::`Sd:[cls=A,as=None,vc=[-ps,-cs]]:ዐጽደ;;
+ks::hdd:[cls=A,as=None,vc=[-ps,-cs]]:አደ፟ዶ
 ;;;
 en::cheat_v[ps];;
 am::blT:[as=smp,vc=ps]:ተበለ፟ጠ;;
 ti::blS:[as=smp,vc=ps]:ተበልጸ # be_v surpassed ;;
-te::bls:[cls=A,as=None,vc=[+ps,-cs]
+te::blS:[cls=A,as=None,vc=[+ps,-cs]:ትበለ፟ጸ;;
+ks::blT:[cls=A,as=None,vc=[+ps,-cs]:ተበለ፟ጦ
 ;;;
 en::weld_v;;
 am::by_d[as=smp,vc=smp]:በየ፟ደ;;
@@ -3488,12 +3494,14 @@ ti::bWz_n[as=smp,vc=smp]:ቦዘ፟ነ
 ;;;
 en::wither_v;;
 am::Twlg:[as=smp,vc=smp]:ጠወለ፟ገ;;
-te::Cwlg:[cls=E,as=None,vc=[-cs,-ps]]:ጨውለገ
+te::Cwlg:[cls=E,as=None,vc=[-cs,-ps]]:ጨውለገ;;
+ks::Tgl:[cls=AW,as=None,vc=[-cs,-ps]]:ጦገ፟ሎ
 ;;;
 en::be_v bright;;
 am::dmq:[as=smp,vc=smp]:ደመ፟ቀ;;
 ti::dmq:[as=smp,vc=smp]:ደመቐ;;
-te::dmq:[cls=A,as=None,vc=[-cs,-ps]]:ደምቀ
+te::dmq:[cls=A,as=None,vc=[-cs,-ps]]:ደምቀ;;
+ks::dmq:[cls=A,as=None,vc=[-cs,-ps]]:ደመ፟ቆ # be_v pretty
 ;;;
 en::scrape_v off;;
 am::fgfg:[as=smp,vc=smp]:ፈገፈ፟ገ;;
@@ -3502,17 +3510,20 @@ te::fgfg:[cls=E,as=None,vc=[-cs,-ps]]:ፈግፈገ
 en::lie_v down;;
 am::gdm:[as=rc,vc=ps]:ተጋደ፟መ;;
 ti::gdm:[as=rc,vc=ps]:ተጋደመ;;
-te::gdm:[cls=A,as=rc,vc=[+ps,-cs]]:ትጋደመ
+te::gdm:[cls=A,as=rc,vc=[+ps,-cs]]:ትጋደመ;;
+ks::gdm:[cls=C,as=None,vc=[+ps,-cs]]:ተጋደ፟ሞ
 ;;;
 en::be_v famous;;
 am::gnn:[as=smp,vc=smp]:ገነ፟ነ;;
 ti::gnn:[as=smp,vc=smp]:ገነነ;;
-te::gnn:[cls=A,as=None,vc=[-ps,-cs]]:ገነ፟ # exceed_v
+te::gnn:[cls=A,as=None,vc=[-ps,-cs]]:ገነ፟ # exceed_v ;;
+ks::gnn:[cls=A,as=None,vc=[-ps,-cs]]:ገነ፟ኖ # be_v large
 ;;;
 en::be_v shy;;
 am::'fr:[as=smp,vc=smp]:አፈ፟ረ;;
 ti::Hfr:[as=smp,vc=smp]:ሓፈረ;;
-te::Hfr:[cls=A,as=None,vc=[-ps,-cs]]:ሐፍረ # be_v in awe
+te::Hfr:[cls=A,as=None,vc=[-ps,-cs]]:ሐፍረ # be_v in awe ;;
+ks::hfr:[cls=A,as=None,vc=[-ps,-cs]]:አፈ፟ሮ
 ;;;
 en::engage_v;;
 am::'C*:[as=smp,vc=smp]:አጨ፟;;
@@ -3522,7 +3533,8 @@ te::HSy:[cls=A,as=None,vc=[-ps,-cs]]:ሐጸ
 en::pay_v;;
 am::kfl:[as=smp,vc=smp]:ከፈ፟ለ;;
 ti::kfl:[as=smp,vc=smp]:ከፍለ;;
-te::kfl:[cls=A,as=None,vc=[-ps,-cs]]:ከ
+te::kfl:[cls=A,as=None,vc=[-ps,-cs]]:ከፍለ;;
+ks::kfl:[cls=A,as=None,vc=[-ps,-cs]]:ከፈ፟ሎ
 ;;;
 en::apply_v antimony to the eyes;;
 am::kW'l:[as=smp,vc=smp]:ኳለ;;
@@ -3537,12 +3549,14 @@ te::kHs:[cls=A,as=None,vc=[-cs,-ps]]:ከሐሰ
 en::go_v bankrupt;;
 am::ksr:[as=smp,vc=smp]:ከሰ፟ረ;;
 ti::ksr:[as=smp,vc=smp]:ከሰረ;;
-te::ksr:[cls=A,as=None,vc=[-ps,-cs]]:ከስረ
+te::ksr:[cls=A,as=None,vc=[-ps,-cs]]:ከስረ;;
+ks::ksr:[cls=A,as=None,vc=[-ps,-cs]]:ከሰ፟ሮ
 ;;;
 en::chop_v;;
 am::ktf:[as=smp,vc=smp]:ከተ፟ፈ;;
 ti::ktf:[as=smp=vc=smp]:ከተፈ;;
-te::ktf:[cls=A,as=None,vc=[-ps,-cs]]:ከትፈ
+te::ktf:[cls=A,as=None,vc=[-ps,-cs]]:ከትፈ;;
+ks::mtr:[cls=A,as=None,vc=[-ps,-cs]]:መተ፟ሮ # mince_v meat
 ;;;
 en::be_v green;;
 am::lmlm:[as=smp,vc=smp]:ለመለ፟መ;;
@@ -3557,14 +3571,16 @@ te::mkH:[cls=B,as=None,vc=[+ps,-cs]]:ትመክ፟ሐ # brag_v
 en::wish_v;;
 am::mN*:[as=smp,vc=ps]:ተመኘ፟;;
 ti::mn_y:[as=smp,vc=ps]:ተመነ፟የ;;
-te::mny:[cls=B,as=None,vc=[+ps,-cs]]:ትመነ፟
+te::mny:[cls=B,as=None,vc=[+ps,-cs]]:ትመነ፟;;
+ks::mny:[cls=B,as=None,vc=[+ps,-cs]]:ተሚና፟ው
 ;;;
 en::scatter_v;;
 am::nz':[as=smp,vc=smp]:ነዛ፟;;
 ti::nzH:[as=smp,vc=smp]:ነዝሐ;;
 te::nzH:[cls=A,as=None,vc=[-ps,-cs]]:ነዝሐ
 ;;;
-en::be_v cold;;
-am::qzqz:[as=smp,vc=smp]:ቀዘቀ፟ዘ;;
-ti::qzqz:[as=smp,vc=smp]:ቀዝቀዘ;;
-te::qzqz:[cls=E,as=None,vc=[-ps,-cs]];ቀዝቀዘ
+en::be_v cold  # +become_v cold ;;
+am::qzqz:[as=smp,vc=smp]:ቀዘቀ፟ዘ;brd:[as=smp,vc=smp]:በረ፟ደ;;
+ti::qzqz:[as=smp,vc=smp]:ቀዝቀዘ;brd:[as=smp,vc=smp]:በረደ;zHl:[as=smp,vc=smp]:ዝሓለ;;
+te::qzqz:[cls=E,as=None,vc=[-ps,-cs]];ቀዝቀዘ;qrr:[cls=A,as=None,vc=[-ps,-cs]]:ቀረ፟;;
+ks::brd:[cls=A,as=None,vc=[-ps,-cs]];በረ፟ዶ;gzgz:[cls=E,as=None,vc=[-ps,-cs]]:ግዘገ፟ዞ

@@ -20,15 +20,48 @@ TE = None
 TEinit = "[-neg,op=None,pos=v,-rel,sn=1,sp=3,-sub,tm=prf]"
 KS = None
 
+R2C = {}
+
 ENG = re.compile("([a-zA-Z,\-() ]+)")
 PAREN = re.compile(r"(\(.+?\))")
 
 # root translation files
-ENTRY_SEP = ';;;'
-LANG_SEP = ';;'
+ENTRY_SEP = '%'
+LANG_SEP = '\n'
 ITEM_SEP = ';'
-LANG_ITEM_SEP = '::'
+LANG_ITEM_SEP = ':'
+ELEMENT_SEP = '.'
+RC_SEP = "|"
 COMMENT = '#'
+# separates voice and aspect features
+VA_SEP = ","
+
+LEXFEAT = {"[as=None,vc=[-ps,-cs]]": "",
+           "[as=smp,vc=smp]": "",
+           "[as=smp,vc=ps]": "ps",
+           "[as=None,vc=[+ps,-cs]]": "ps",
+           "[as=smp,vc=tr]": "tr",
+           "[as=None,vc=[-ps,+cs]": "tr",
+           "[as=smp,vc=cs]": "cs",
+           "[as=None,vc=[+ps,+cs]": "cs",
+           "[as=it,vc=smp]": ",it",
+           "[as=it,vc=[-ps,-cs]]": ",it",
+           "[as=it,vc=ps]": "ps,it",
+           "[as=it,vc=[+ps,-cs]": "ps,it",
+           "[as=it,vc=cs]": "cs,it",
+           "[as=it,vc=[-ps,+cs]]": "cs,it",
+           # this doesn't occur yet; it's basically cls=C
+           "[as=rc,vc=smp]": ",rc",
+           "[as=rc,vc=[-ps,-cs]]": ",rc",
+           "[as=rc,vc=ps]": "ps,rc",
+           "[as=rc,vc=[+ps,-cs]]": "ps,rc",
+           "[as=rc,vc=tr]": "tr,rc",
+           # this doesn't occur yet; mismatch between AmTi and KsTeCh
+           "[as=rc,vc=[-ps,+cs]]": "tr,rc",
+           # this doesn't occur yet, though it should
+           "[as=rc,vc=cs]": "cs,rc",
+           "[as=rc,vc=[+ps,+cs]]": "cs,rc"
+           }
 
 AF_CONV = {'': "[as=smp,vc=smp]",
           '3': "[as=smp,vc=smp,ob=[+xpl]]",
@@ -64,7 +97,222 @@ KF_CONV = {"": "[as=None,vc=[-ps,-cs]]",
 
 geezify = None
 
-def write(entries, path, sort=True):
+def get_new_roots():
+    roots = {'ks': get_ks_roots(),
+             'am': get_am_roots(),
+             'ti': get_ti_roots(),
+             'te': get_te_roots()}
+    new_roots = {'am': [], 'ti': [], 'ks': [], 'te': []}
+    with open("eatTk_match.txt", encoding='utf8') as file:
+        for line in file:
+            for l in line.split(';'):
+                language, rcf = l.split(':')
+                rc, f = rcf.split('.')
+                r, c = rc.split('|')
+                if (r, c) not in roots[language]:
+                    if (r, c) not in new_roots[language]:
+                        new_roots[language].append((r, c))
+    return new_roots
+
+def get_ti_roots():
+    roots = []
+    with open("../HornMorpho/hm/languages/ti/lex/v_root.lex") as file:
+        for line in file:
+            line = line.split('#')[0]
+            if not line:
+                continue
+            line = line.split()
+            root = line[0]
+            if len(line) == 1 or 'cls' not in line[-1]:
+                cls = 'A'
+            else:
+                cls = line[-1].split('cls=')[1]
+                if ',' in cls:
+                    cls = cls.split(',')[0]
+                else:
+                    cls = cls.split(']')[0]
+            roots.append((root, cls))
+    return roots
+
+def get_am_roots():
+    roots = []
+    with open("../HornMorpho/hm/languages/amh/lex/v_root.lex") as file:
+        for line in file:
+            line = line.split('#')[0]
+            if not line:
+                continue
+            line = line.split()
+            root = line[0]
+            if len(line) == 1 or 'cls' not in line[-1]:
+                cls = 'A'
+            else:
+                cls = line[-1].split('cls=')[1]
+                if ',' in cls:
+                    cls = cls.split(',')[0]
+                else:
+                    cls = cls.split(']')[0]
+            roots.append((root, cls))
+    return roots
+
+def get_te_roots():
+    roots = []
+    with open("../HornMorpho/hm/languages/tig/lex/v_root.lex") as file:
+        for line in file:
+            line = line.split('#')[0]
+            if not line:
+                continue
+            line = line.split()
+            root = line[0]
+            if len(line) == 1 or 'cls' not in line[-1]:
+                cls = 'A'
+            else:
+                cls = line[-1].split('cls=')[1]
+                if ',' in cls:
+                    cls = cls.split(',')[0]
+                else:
+                    cls = cls.split(']')[0]
+            roots.append((root, cls))
+    return roots    
+
+def get_ks_roots():
+    roots = []
+    with open("../HornMorpho/hm/languages/gru/lex/v_root.lex") as file:
+        for line in file:
+            line = line.split('#')[0]
+            if not line:
+                continue
+            line = line.split()
+            root = line[0]
+            if len(line) == 1 or 'cls' not in line[-1]:
+                cls = 'A'
+            else:
+                cls = line[-1].split('cls=')[1]
+                if ',' in cls:
+                    cls = cls.split(',')[0]
+                else:
+                    cls = cls.split(']')[0]
+            roots.append((root, cls))
+    return roots    
+
+def find_similar(entries, write="eatTk_match.txt"):
+    result = []
+    for entry in entries:
+        rcs = []
+        matches = {}
+        for language, forms in entry.items():
+            rcs1 = [language, []]
+            if language == 'en':
+                continue
+            # get rid of comments
+            forms = forms.split(COMMENT)[0]
+            for form in forms.split(';'):
+                rc, feats, geez = form.split('.')
+                root, cls = rc.split('|')
+                rcs1[1].append((root, cls, feats))
+            rcs.append(rcs1)
+        matched = []
+        for index, (language, rc) in enumerate(rcs[:-1]):
+            for rrcc in rc:
+                matched1 = False
+                if (language, rrcc) in matched:
+                    continue
+                for language1, rc1 in rcs[index+1:]:
+                    for rrcc1 in rc1:
+                        if (language1, rrcc1) in matched:
+                            continue
+                        if root_match(language, rrcc, language1, rrcc1):
+                            matched.append((language1, rrcc1))
+                            matched1 = True
+                            if (language, rrcc) in matches:
+                                matches[(language, rrcc)].append((language1, rrcc1))
+                            else:
+                                matches[(language, rrcc)] = [(language1, rrcc1)]
+                if matched1:
+                    matched.append((language, rrcc))
+        if matches:
+            # Convert the dict into a list of lists
+            matches = list(matches.items())
+            matches = [m[1] + [m[0]] for m in matches]
+##            # There might already be a longer set including these roots
+##            for matches1 in matches:
+##                l1 = matches1[0][0]
+##                r1 = matches1[0][1][0]
+##                ignore = False
+##                for res in result:
+##                    for res1 in res:
+##                        if res1[0] == l1 and res1[1][0] == r1:
+##                            if len(res) >= len(matches1):
+##                                ignore = True
+##                                break
+##                    if ignore:
+##                        break
+##                if not ignore:
+##                    result.append(matches1)
+            result.extend(matches)
+    # Sort the results by length
+    result.sort(key=lambda r: len(r), reverse=True)
+    if write:
+        with open(write, 'w', encoding='utf8') as file:
+            for result1 in result:
+                result1 = ["{}:{}|{}.{}".format(r[0], r[1][0], r[1][1], r[1][2]) for r in result1]
+                print(";".join(result1), file=file)
+    else:
+        return result
+
+def feat_match(f1, f2):
+    if f1 == f2:
+        return True
+    if 'cs' in f1:
+        f1 = f1.replace('cs', 'tr')
+        if f1 == f2:
+            return True
+    elif 'cs' in f2:
+        f2 = f2.replace('cs', 'tr')
+        if f1 == f2:
+            return True
+    return False
+
+def root_match(l1, rc1, l2, rc2):
+#    print("Checking {}:{} and {}:{}".format(l1, rc1, l2, rc2))
+    def root_match1(root1, cls1, feat1, root2, cls2, feat2):
+        return root1 == root2 and cls1 == cls2 and feat_match(feat1, feat2)
+    r1, c1, f1 = rc1
+    r2, c2, f2 = rc2
+    if l1 == 'am':
+        r2 = r2.replace("`", "'").replace("h", "'").replace("H", "'")
+    if l2 == 'am':
+        r1 = r1.replace("`", "'").replace("h", "'").replace("H", "'")
+    if root_match1(r1, c1, f1, r2, c2, f2):
+        return True
+    if 'S' in r1:
+        r1 = r1.replace('S', 'T')
+        if root_match1(r1, c1, f1, r2, c2, f2):
+            return True
+    if 'S' in r2:
+        r2 = r2.replace('S', 'T')
+        if root_match1(r1, c1, f1, r2, c2, f2):
+            return True
+    if 'x' in r1:
+        r1 = r1.replace('x', 's')
+        if root_match1(r1, c1, f1, r2, c2, f2):
+            return True
+    if 'x' in r2:
+        r2 = r2.replace('x', 's')
+        if root_match1(r1, c1, f1, r2, c2, f2):
+            return True
+    if 'W' in r1 and 'W' in c2:
+        r1 = r1.replace('W', '')
+        if root_match1(r1, c1, f1, r2, c2, f2):
+            return True
+    if 'W' in r2 and 'W' in c1:
+        r2 = r2.replace('W', '')
+        if root_match1(r1, c2, f1, r2, c2, f2):
+            return True
+
+def write(entries, path="eatTk4.txt", sort=True):
+    """
+    Write a lexicon, a list of dict entries, to file.
+    """
     with open(path, 'w', encoding='utf8') as file:
         if sort:
             # Alphabetize by English
@@ -74,22 +322,71 @@ def write(entries, path, sort=True):
             lgs = []
             for lg, items in entry.items():
                 lgs.append("{}{}{}".format(lg, LANG_ITEM_SEP, items))
-            lgs = (LANG_SEP + "\n").join(lgs)
+            lgs = LANG_SEP.join(lgs)
             print(lgs, file=file)
 
-def read_entry(entry, minimum=0, maximum=0):
+def read(filename='eatTk4.txt', minimum=0, maximum=0, include='',
+         update=None):
+    """
+    Read a lexicon in from a file as a list of dicts.
+    minimum and maximum constrain the number of languages (other than English) that
+    must be in an entry.
+    include is a language abbreviation string ('am', 'ti', 'te', 'ks') specifying
+    a language that must be in an entry.
+    """
+    with open(filename, encoding='utf8') as file:
+        contents = file.read()
+        return [e for e in read_entries(contents, minimum=minimum, maximum=maximum, include=include, update=update) if e]
+
+def read_entries(entries, minimum=0, maximum=0, include='', update=None):
+    e = []
+    entries = entries.split(ENTRY_SEP)
+    return [read_entry(entry.strip(), minimum=minimum, maximum=maximum, include=include, update=update) for entry in entries if entry]
+
+def read_entry(entry, minimum=0, maximum=0, include='', update=None):
     edict = {}
     langs = entry.split(LANG_SEP)
-    if maximum and len(langs) > maximum:
+    langs = [lang.strip() for lang in langs]
+#    print("Read entry: {}, include: {}".format(entry, include))
+    # number of languages, excluding English
+    # current maximum: 4 (am, ti, te, ks)
+    nlangs = len(langs) - 1
+    if maximum and nlangs > maximum:
         return
-    if minimum and len(langs) < minimum:
+    if minimum and nlangs < minimum:
+        return
+    if include and not any([lang.startswith(include) for lang in langs]):
         return
     for lang in langs:
 #        print(lang)
         # separate off possible commments
-        item, comment = sep_comment(lang.strip())
+        item, comment = sep_comment(lang)
         item_split = item.split(LANG_ITEM_SEP)
+        if len(item_split) != 2:
+            print("Something wrong with {} # {}".format(item, comment))
         l, items = item_split
+        if update and l in update:
+            # Update the items for this language
+            new_items = []
+            for item in items.split(ITEM_SEP):
+                elements = item.split(ELEMENT_SEP)
+                root = elements[0]
+                if l in ['ks', 'te']:
+                    features = elements[-2]
+                    features = features.split('cls=')
+                    if len(features) != 2:
+                        print(root, features)
+                    features = features[1].split(',')
+                    cls = features[0]
+                    features = '[' + ','.join(features[1:])
+                    item = "{}{}{}{}{}{}{}".format(root, RC_SEP, cls, ELEMENT_SEP, features, ELEMENT_SEP, elements[-1])
+                else:
+                    new_root, cls = convert_root(root, lg=l)
+                    rc = "{}{}{}".format(new_root, RC_SEP, cls)
+                    item = "{}{}{}".format(rc, ELEMENT_SEP, ELEMENT_SEP.join(elements[1:]))
+                if item not in new_items:
+                    new_items.append(item)
+            items = ITEM_SEP.join(new_items)
         if comment:
             items = "{}{}{}".format(items, COMMENT, comment)
         edict[l] = items
@@ -105,15 +402,52 @@ def sep_comment(item):
         comment = item_comment[1].strip()
     return item, comment
 
-def read_entries(entries, minimum=0, maximum=0):
-    e = []
-    entries = entries.split(ENTRY_SEP)
-    return [read_entry(entry.strip(), minimum=minimum, maximum=maximum) for entry in entries if entry]
+def roots2classes(lg='ti'):
+    if lg in R2C:
+        return R2C[lg]
+    rc = {}
+    path = ''
+    if lg == 'ti':
+        path = "../LingData/Ti/roots2class.txt"
+    elif lg == 'am':
+        path = "../LingData/Am/roots2class.txt"
+    if path:
+        with open(path, encoding='utf8') as file:
+            for line in file:
+                root, classes = line.strip().split()
+                rc[root] = classes.split(',')
+        R2C[lg] = rc
+        return rc
+    else:
+        print("Don't know how to update {}".format(lg))
 
-def read(filename='eatT1.txt', minimum=0, maximum=0):
-    with open(filename, encoding='utf8') as file:
-        contents = file.read()
-        return [e for e in read_entries(contents, minimum=minimum, maximum=maximum) if e]
+def convert_root(root, rc=None, lg='ti'):
+    """Convert an old-style Am or Ti root string to a new root, class pair."""
+    rc = rc or roots2classes(lg=lg)
+    reduced = root.replace('_', '').replace('|', '').replace('a', '')
+    entry = rc.get(reduced)
+    if not entry:
+        print("Something wrong: {} not in lexicon".format(root))
+        return None, ''
+    elif len(entry) == 1:
+        return reduced, entry[0]
+    else:
+        if '_' in root and 'B' in entry:
+            return reduced, 'B'
+        elif 'a' in root:
+            if 'C' in entry:
+                return reduced, 'C'
+            elif 'F' in entry:
+                return reduced, 'F'
+            elif 'J' in entry:
+                return reduced, 'J'
+        elif 'A' in entry:
+            return reduced, 'A'
+        elif 'E' in entry:
+            return reduced, 'E'
+        else:
+            print("Something wrong with {}, {}".format(root, entry))
+            return None, ''
 
 def load(language):
     global AMgen
@@ -129,61 +463,64 @@ def load(language):
     if not geezify:
         geezify = hm.morpho.geez.geezify
 
-def merge_ks():
-    adict = get_adict()
-    ak, ke = get_ak_ek()
-#    nokg = []
-    emiss = []
-    for a, others in adict.items():
-        if a in ak:
-            k = ak[a]
-            if len(others) > 1:
-                found = False
-                # Multiple Eng translations for Am verb
-#                print("{} in AK: {}".format(a, k))
-                aengs = list(others.keys())
-#                print("  Eng for Am {}".format(list(others.keys())))
-                kg = k.split(':')[-1]
-                if kg not in ke:
-#                    print("  ?? {} not in KE dict".format(kg))
-#                    nokg.append((a, k, kg, aengs))
-                    pass
-                else:
-                    kengs = ke[kg]
-#                    print("  Eng for Ks {}".format(kengs))
-                    for aeng in aengs:
-                        for keng in kengs:
-                            if keng.startswith(aeng):
-#                                print("  a {}, k {}: {}={}".format(a, k, aeng, keng))
-                                adict[a][aeng].append(('ks', k))
-                                found = True
-#                    if not found:
-#                        emiss.append((kg, aengs, kengs))
-            else:
-                eng0 = list(others.keys())[0]
-                adict[a][eng0].append(('ks', k))
-    return adict
+def elim_paren(string):
+    return PAREN.sub("", string)
 
-def get_ak_ek():
-    ak = {}
-    ke = {}
-    with open("ak3.txt", encoding='utf8') as file:
-        for line in file:
-            a, k = line.strip().split('::')
-            ak[a] = k
-#            kr, ka, kg = k.split(':')
-#            if kg in kdict:
-#                kdict[kg].append(a)
-#            else:
-#                kdict[kg] = [a]
-    with open("ke1.txt", encoding='utf8') as file:
-        for line in file:
-            e, k = line.strip().split('::')
-            if k in ke:
-                ke[k].append(e)
-            else:
-                ke[k] = [e]
-    return ak, ke
+##def merge_ks():
+##    adict = get_adict()
+##    ak, ke = get_ak_ek()
+###    nokg = []
+##    emiss = []
+##    for a, others in adict.items():
+##        if a in ak:
+##            k = ak[a]
+##            if len(others) > 1:
+##                found = False
+##                # Multiple Eng translations for Am verb
+###                print("{} in AK: {}".format(a, k))
+##                aengs = list(others.keys())
+###                print("  Eng for Am {}".format(list(others.keys())))
+##                kg = k.split(':')[-1]
+##                if kg not in ke:
+###                    print("  ?? {} not in KE dict".format(kg))
+###                    nokg.append((a, k, kg, aengs))
+##                    pass
+##                else:
+##                    kengs = ke[kg]
+###                    print("  Eng for Ks {}".format(kengs))
+##                    for aeng in aengs:
+##                        for keng in kengs:
+##                            if keng.startswith(aeng):
+###                                print("  a {}, k {}: {}={}".format(a, k, aeng, keng))
+##                                adict[a][aeng].append(('ks', k))
+##                                found = True
+###                    if not found:
+###                        emiss.append((kg, aengs, kengs))
+##            else:
+##                eng0 = list(others.keys())[0]
+##                adict[a][eng0].append(('ks', k))
+##    return adict
+
+##def get_ak_ek():
+##    ak = {}
+##    ke = {}
+##    with open("ak3.txt", encoding='utf8') as file:
+##        for line in file:
+##            a, k = line.strip().split('::')
+##            ak[a] = k
+###            kr, ka, kg = k.split(':')
+###            if kg in kdict:
+###                kdict[kg].append(a)
+###            else:
+###                kdict[kg] = [a]
+##    with open("ke1.txt", encoding='utf8') as file:
+##        for line in file:
+##            e, k = line.strip().split('::')
+##            if k in ke:
+##                ke[k].append(e)
+##            else:
+##                ke[k] = [e]
+##    return ak, ke
 
 ##def k2e():
 ##    kdict = {}
@@ -258,23 +595,23 @@ def get_ak_ek():
 ##                print("{}::{}".format(e, k), file=file)
 ##    return kdict, kdefs
 
-def get_adict():
-    entries = read("eatTk1.txt")
-    adict = {}
-    for entry in entries:
-        aitems = entry.get('am')
-        if aitems and len(entry) > 2:
-            eitem = entry['en']
-            # There has to be a least one entry other than English
-            others = [items for items in entry.items() if items[0] != 'am' and items[0] != 'en']
-#            others = dict(others)
-            aitems = aitems.split(ITEM_SEP)
-            for aitem in aitems:
-                if aitem in adict:
-                    adict[aitem][eitem] = others
-                else:
-                    adict[aitem] = {eitem: others}
-    return adict
+##def get_adict():
+##    entries = read("eatTk1.txt")
+##    adict = {}
+##    for entry in entries:
+##        aitems = entry.get('am')
+##        if aitems and len(entry) > 2:
+##            eitem = entry['en']
+##            # There has to be a least one entry other than English
+##            others = [items for items in entry.items() if items[0] != 'am' and items[0] != 'en']
+###            others = dict(others)
+##            aitems = aitems.split(ITEM_SEP)
+##            for aitem in aitems:
+##                if aitem in adict:
+##                    adict[aitem][eitem] = others
+##                else:
+##                    adict[aitem] = {eitem: others}
+##    return adict
 
 ##def write_converted_entries(entries, lg, path="eatTk1.txt"):
 ##    """Write in canonical form (one English item per entry) a dict of entries
@@ -301,30 +638,27 @@ def get_adict():
 ##            print(others, file=file)
 ##
 
-def elim_paren(string):
-    return PAREN.sub("", string)
-
-def proc_ak2():
-    entries = {}
-    with open("ak2.txt", encoding='utf8') as file:
-        for line in file:
-            am, ks = line.split('::')
-            kroot, kfeats = ks.strip().split('.')
-            kcls, kfkey = kfeats.split('_')
-            kfeats = KF_CONV[kfkey]
-            if not kfeats:
-                print("No feats for {}, {}".format(kroot, kfkey))
-            kfeats = "[cls={},{}".format(kcls, kfeats[1:])
-            kgeez = ks_gen(kroot, kfeats, kcls)
-            if kgeez:
-                kid = "{}:{}:{}".format(kroot, kfeats, kgeez[-1])
-                entries[am] = kid
-    entries = list(entries.items())
-    entries.sort()
-    with open("ak3.txt", 'w', encoding='utf8') as file:
-        for key, entry in entries:
-            print("{}::{}".format(key, entry), file=file)
-#    return entries
+##def proc_ak2():
+##    entries = {}
+##    with open("ak2.txt", encoding='utf8') as file:
+##        for line in file:
+##            am, ks = line.split('::')
+##            kroot, kfeats = ks.strip().split('.')
+##            kcls, kfkey = kfeats.split('_')
+##            kfeats = KF_CONV[kfkey]
+##            if not kfeats:
+##                print("No feats for {}, {}".format(kroot, kfkey))
+##            kfeats = "[cls={},{}".format(kcls, kfeats[1:])
+##            kgeez = ks_gen(kroot, kfeats, kcls)
+##            if kgeez:
+##                kid = "{}:{}:{}".format(kroot, kfeats, kgeez[-1])
+##                entries[am] = kid
+##    entries = list(entries.items())
+##    entries.sort()
+##    with open("ak3.txt", 'w', encoding='utf8') as file:
+##        for key, entry in entries:
+##            print("{}::{}".format(key, entry), file=file)
+###    return entries
 
 ##def proc_ak():
 ##    # Am keyed dict
@@ -562,17 +896,6 @@ def proc_te_ti():
         for r in result:
             print(r, file=file)
     return result
-
-def get_ti_roots():
-    roots = []
-    with open("../HornMorpho/hm/languages/ti/lex/vb_root.lex") as file:
-        for line in file:
-            root = line.split()[0]
-            if root in roots:
-                print("Duplicate: {}".format(root))
-            else:
-                roots.append(root)
-    return roots
 
 def update_ti_roots():
     new_roots = []
