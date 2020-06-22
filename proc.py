@@ -4,12 +4,14 @@ Creating cross-linguistic lexical resources for ES languages.
 
 import hm
 import re
+import random
 
 FS = hm.morpho.fst.FeatStruct
 
-AMgen = None
-TIgen = None
-KSgen = None
+##AMgen = None
+##TIgen = None
+##KSgen = None
+##TEgen = None
 
 AMTIfeats = "[sb=[-fem]]"
 KSfeats = "[sg=m]"
@@ -35,6 +37,9 @@ RC_SEP = "|"
 COMMENT = '#'
 # separates voice and aspect features
 VA_SEP = ","
+
+GEN = {"am": None, "ti": None, "te": None, "ks": None}
+LONG = {"am": "am", "ti": "ti", "te": "tig", "ks": "gru"}
 
 LEXFEAT = {"[as=None,vc=[-ps,-cs]]": "",
            "[as=smp,vc=smp]": "",
@@ -63,39 +68,352 @@ LEXFEAT = {"[as=None,vc=[-ps,-cs]]": "",
            "[as=rc,vc=[+ps,+cs]]": "cs,rc"
            }
 
-AF_CONV = {'': "[as=smp,vc=smp]",
-          '3': "[as=smp,vc=smp,ob=[+xpl]]",
-          'tr3': "[as=smp,vc=tr,ob=[+xpl]]",
-          'ps3': "[as=smp,vc=ps,ob=[+xpl]]",
-          'cs3': "[as=smp,vc=cs,ob=[+xpl]]",
-          'ps': "[as=smp,vc=ps]",
-          'tr': "[as=smp,vc=tr]",
-          'cs': "[as=smp,vc=cs]",
-          'it': "[as=it,vc=smp]",
-          'trit': "[as=it,vc=tr]",
-          'psit': "[as=it,vc=ps]",
-          'psit3': "[as=it,vc=ps,ob=[+xpl]]",
-          'csit': "[as=it,vc=cs]",
-          'psrc': "[as=rc,vc=ps]",
-          'rctr': "[as=rc,vc=tr]"}
+At_LEXFEAT = {'': "[as=smp,vc=smp]",
+              'imp': "[as=smp,vc=smp,ob=[+xpl]]",
+              'trimp': "[as=smp,vc=tr,ob=[+xpl]]",
+              'psimp': "[as=smp,vc=ps,ob=[+xpl]]",
+              'csimp': "[as=smp,vc=cs,ob=[+xpl]]",
+              'ps': "[as=smp,vc=ps]",
+              'tr': "[as=smp,vc=tr]",
+              'cs': "[as=smp,vc=cs]",
+              'it': "[as=it,vc=smp]",
+              'trit': "[as=it,vc=tr]",
+              'psit': "[as=it,vc=ps]",
+              'psitimp': "[as=it,vc=ps,ob=[+xpl]]",
+              'csit': "[as=it,vc=cs]",
+              'psrc': "[as=rc,vc=ps]",
+              'rctr': "[as=rc,vc=tr]",
+              '3sf': "[sb=[+fem]]",
+              '3sm': "[sb=[-fem]]",
+              '1s': "[sb=[+p1,-p2,-plr]]",
+              '1p': "[sb=[+p1,-p2,+plr]]",
+              '3pf': "[sb=[+fem,-p1,-p2,+plr]]",
+              '3pm': "[sb=[-fem,-p1,-p2,+plr]]",
+              '2sf': "[sb=[+fem,-p1,+p2,-plr]]",
+              '2sm': "[sb=[-fem,-p1,+p2,-plr]]",
+              '2pf': "[sb=[+fem,-p1,+p2,+plr]]",
+              '2pm': "[sb=[-fem,-p1,+p2,+plr]]",
+              '0o': "[ob=[-expl,-xpl]]",
+              '3smo': "[ob=[+expl,-fem,-p1,-p2,-plr,-prp,+xpl]]",
+              '1so': "[ob=[+expl,+p1,-p2,-plr,-prp,+xpl]]",
+              '1po': "[ob=[+expl,+p1,-p2,+plr,-prp,+xpl]]",
+              '3sfo': "[ob=[+expl,+fem,-p1,-p2,-plr,-prp,+xpl]]",
+              '2pmo': "[ob=[+expl,-fem,-p1,+p2,+plr,-prp,+xpl]]",
+              '3pfo': "[ob=[+expl,+fem,-p1,-p2,+plr,-prp,+xpl]]",
+              'prf': "[tm=prf]",
+              'imf': "[tm=imf]",
+              'j_i': "[tm=j_i]",
+              'neg': "[+neg]",
+              'aff': "[-neg]",
+              'rel': "[+rel,+sub]",
+              'main': "[-rel,-sub]"
+            }
 
-KF_CONV = {"": "[as=None,vc=[-ps,-cs]]",
-           "3": "[as=None,vc=[-ps,-cs],sp=3,sg=m]",
-           "ps": "[as=None,vc=[+ps,-cs]]",
-           "ps3": "[as=None,vc=[+ps,-cs],sp=3,sg=m]",
-           "psit": "[as=it,vc=[+ps,-cs]]",
-           "psit3": "[as=it,vc=[+ps,-cs],sp=3,sg=m]",
-           "psrc": "[as=rc,vc=[+ps,-cs]]",
-           "it": "[as=it,vc=[-ps,-cs]]",
-           "cs": "[as=None,vc=[-ps,+cs]]",
-           "cs3": "[as=None,vc=[-ps,+cs],sp=3,sg=m]",
-           "csit": "[as=it,vc=[-ps,+cs]]",
-           "csps": "[as=None,vc=[+ps,+cs]]",
-           "csps3": "[as=None,vc=[+ps,+cs],sp=3,sg=m]",
-           "cspsit": "[as=it,vc=[+ps,+cs]]",
-           "cspsrc": "[as=rc,vc=[+ps,+cs]]"}
+KT_LEXFEAT = {"": "[as=None,vc=[-ps,-cs]]",
+              "imp": "[as=None,vc=[-ps,-cs],sp=3,sg=m]",
+              "ps": "[as=None,vc=[+ps,-cs]]",
+              "psimp": "[as=None,vc=[+ps,-cs],sp=3,sg=m]",
+              "psit": "[as=it,vc=[+ps,-cs]]",
+              "psitimp": "[as=it,vc=[+ps,-cs],sp=3,sg=m]",
+              "psrc": "[as=rc,vc=[+ps,-cs]]",
+              "it": "[as=it,vc=[-ps,-cs]]",
+              "cs": "[as=None,vc=[-ps,+cs]]",
+              "csimp": "[as=None,vc=[-ps,+cs],sp=3,sg=m]",
+              "csit": "[as=it,vc=[-ps,+cs]]",
+              "csps": "[as=None,vc=[+ps,+cs]]",
+              "cspsimp": "[as=None,vc=[+ps,+cs],sp=3,sg=m]",
+              "cspsit": "[as=it,vc=[+ps,+cs]]",
+              "cspsrc": "[as=rc,vc=[+ps,+cs]]",
+              '3sf': "[sg=f]",
+              '3sm': "[sg=m]",
+              '1s': "[sp=1,sn=1]",
+              '1p': "[sp=1,sn=2]",
+              '3pf': "[sp=3,sn=2,sg=f]",
+              '3pm': "[sp=3,sn=2,sg=m]",
+              '2sf': "[sp=2,sn=1,sg=f]",
+              '2sm': "[sp=2,sn=1,sg=m]",
+              '2pf': "[sp=2,sn=2,sg=f]",
+              '2pm': "[sp=2,sn=2,sg=m]",
+              '0o': "[op=None]",
+              '3smo': "[op=3,on=1,og=m]",
+              '1so': "[op=1,on=1]",
+              '1po': "[op=1,on=2]",
+              '3sfo': "[op=3,on=1,og=f]",
+              '2pmo': "[op=2,on=2,og=m]",
+              '3pfo': "[op=3,on=2,og=f]",
+              'prf': "[tm=prf]",
+              'imf': "[tm=imf]",
+              'j_i': "[tm=j_i]",
+              'neg': "[+neg]",
+              'aff': "[-neg]",
+              'rel': "[+rel,+sub]",
+              'main': "[-rel,-sub]"             
+              }
+
+# feature choices for different valence categories
+# car of each value is categories features, cadr is a list of sets of features to avoid
+VAL_FEATS = \
+ {
+#         TAM            SBJ                    OBJ                  POL             SUB
+  0: [ [ ('prf', 'imf'), ('3sm',),             ('0o',),             ('neg', 'aff'), ('main', 'rel')],
+       [] ],
+  1: [ [ ('prf', 'imf'), ('3sm',),             ('3smo', '3sfo'),    ('neg', 'aff'), ('main', 'rel')],
+       [] ],
+  2: [ [ ('prf', 'imf'), ('1s', '3sm', '2pf'), ('0o',),             ('neg', 'aff'), ('main', 'rel')],
+       [] ],
+  3: [ [ ('prf', 'imf'), ('1s', '3sm', '2pf'), ('3smo', '3sfo'),    ('neg', 'aff'), ('main', 'rel')],
+       [] ]
+  }
+
+CATS = {'tam': ['imf', 'j_i', 'prf'],
+        'sbj': ['1s', '3sf', '2pm'],
+        'obj': ['3smo'],
+        'pol': ['neg', 'aff'],
+        'sub': ['main', 'rel']}
 
 geezify = None
+
+### Generating data
+
+### Valency categories for root|class-asp/vc combinations.
+### 0: intransitive: only 3s subjects (only 3sm for 0 valency verbs like <znb|A>)
+### 1: impersonal: 3sm subject, any object
+### 2: intransitive: all subjects
+### 3: transitive: all subjects, only 3s objects for some
+
+def test(vc=3, minimum=4):
+    gen_vc_simroots(vc, minimum=minimum)
+
+def convert_data_file(vc, minimum=4, lang_list='ti,am,te,ks', file_comment=''):
+    filename = "data_{}_{}".format(vc, minimum)
+    languages = lang_list.split(',')
+    with open(filename + "_mt.txt", 'w', encoding='utf8') as outf:
+        if file_comment:
+            print(file_comment, file=outf)
+        print("languages = {}".format(lang_list), file=outf)
+        print(file=outf)
+        with open(filename + ".txt", encoding='utf8') as inf:
+            contents = inf.read().split('## ')
+            for group in contents:
+                if not group:
+                    continue
+                lines = group.split('\n')
+                comment = lines[0]
+                print("## {}".format(comment), file=outf)
+                forms = [l.split(':') for l in lines[1:] if l]
+                forms = dict(forms)
+                for lang in languages:
+                    lform = forms.get(lang)
+                    if not lform:
+                        print(file=outf)
+                    else:
+                        print(lform, file=outf)
+
+def gen_featcombs(vc):
+    """Return all feature combinations for valency category vc."""
+    featlist, avoidfeats = VAL_FEATS[vc]
+    combs = allcombs(featlist, avoidfeats)
+    return combs
+
+def gen_vc_simroots(vc, simroots=None, minimum=4, write=True):
+    """Given a dict of simroots and a valency category,
+    find (or generate) a set of features to use, and
+    generate the output word."""
+    if not simroots:
+        simroots = read_vcats_simroots(minimum)
+    featcombs = gen_featcombs(vc)
+    forms = []
+    for valcat, roots in simroots:
+        if valcat == vc:
+            for fc in featcombs:
+                fc_string = ','.join(fc)
+                transset = [fc_string]
+                for lang, root in roots.items():
+                    rc, f = root.split('.')
+                    if len(transset) == 1:
+                        # Languages share common asp/vc feature
+                        transset.append(f)
+                    r, c = rc.split('|')
+                    form = gen(lang, r, f, c, morefeats=fc)
+                    if form:
+                        l, rom, gz = form
+                        transset.append((l, rom, gz, rc))
+                forms.append(transset)
+    if write:
+        with open("data_{}_{}.txt".format(vc, minimum), 'w', encoding='utf8') as file:
+            for transset in forms:
+                f0 = transset[0]
+                f1 = transset[1]
+                print("## {};{}".format(f1, f0), file=file)
+                for l, rom, g, root in transset[2:]:
+                    print("{}:{} # {};{}".format(l, rom, root, g), file=file)
+    else:
+        return forms
+
+def read_vcats_simroots(minimum=1):
+    result = []
+    with open("eatTk_match2.txt", encoding='utf8') as file:
+        for line in file:
+            val, roots = line.split(' ; ')
+            val = int(val)
+            roots = eval(roots)
+            if len(roots) < minimum:
+                continue
+            result.append((val, roots))
+    return result
+
+def random_val_feats(valency):
+    """Assign random values to different feature categories."""
+    feats = VAL_FEATS[valency]
+    return [random.choice(f) for f in feats]
+
+def read_vcats():
+    """Read in Am root-asp/vc categories."""
+    cats = {}
+    with open("am_vcats.txt", encoding='utf8') as file:
+        for line in file:
+            line = line.strip()
+            rc, fc = line.split(';')
+            cats[rc] = eval(fc)
+    return cats
+
+def cat_similar(write="eatTk_match2.txt"):
+    cats = read_vcats()
+    sim = read_similar()
+    new = []
+    uncat = []
+    for s in sim:
+        # s a lang:root|cls.feats dict
+        if len(s) < 3:
+            continue
+        if not 'am' in s:
+#            print("No cat for {}".format(s))
+            uncat.append(s)
+            continue
+        am_rcf = s['am']
+        am_rc, am_f = am_rcf.split('.')
+        a_cats = cats.get(am_rc)
+        if not a_cats:
+            print("No Am cat for {}_{}".format(am_rc, am_f))
+            uncat.append(s)
+            continue
+        am_f = am_f.replace(',', '')
+        c = -1
+        if am_f == 'imp':
+            c = 1
+        else:
+            c = a_cats.get(am_f, None)
+            if c is None:
+                print("No cat for {} in {} ({})".format(am_f, a_cats, am_rcf))
+        new.append((c, s))
+    return new, uncat
+
+def convert_feat(lang, feat):
+    """Convert something like '1s' to something like '[sp=1,sn=1]'."""
+    if lang in ('am', 'ti'):
+        return At_LEXFEAT.get(feat)
+    else:
+        return KT_LEXFEAT.get(feat)
+
+def read_similar(file="eatTk_match.txt"):
+    res = []
+    with open(file, encoding='utf8') as f:
+        for line in f:
+            langs = line.strip().split(';')
+            langs = [l.split(':') for l in langs]
+            langs = dict(langs)
+            res.append(langs)
+    return res
+
+def gen_all(ldict, feats):
+    """Given a language: root/features dict (from read_similar())
+    and a set of additional features, generate all of the output
+    forms.
+    """
+    res = []
+    for lang, rootfeats in ldict.items():
+        root, f = rootfeats.split('.')
+        r, c = root.split('|')
+        out = gen(lang, r, f, c, morefeats=feats)
+        res.append(out)
+    return res
+
+def gen(lang, root, feats, cls='A', morefeats=None):
+    load(lang)
+    if morefeats:
+        if not isinstance(morefeats, list):
+            morefeats = [morefeats]
+        morefeats = [convert_feat(lang, mf) for mf in morefeats]
+    feats = get_feats(lang, feats, cls, morefeats)
+    output = generate(lang, root, feats)
+    if output:
+        rom = output[0][0]
+        geez = geezify(rom, LONG[lang], gemination=True)
+        return lang, rom, geez
+    else:
+        print("Couldn't generate {} {}, {}".format(lang, root, feats.__repr__()))
+
+def get_generator(lang):
+    return GEN[lang]
+
+def set_generator(lang, gen):
+    GEN[lang] = gen
+
+def generate(lang, root, feats):
+    generator = get_generator(lang)
+    if not generator:
+        return
+    return generator.gen(root, update_feats=feats, phon=True if lang in ('am', 'ti') else False)
+
+def load(language):
+    global geezify
+    if language == 'am' and not get_generator('am'):
+        set_generator('am', hm.morpho.get_language('amh', segment=False, phon=True).morphology['v'])
+    elif language == 'ti' and not get_generator('ti'):
+        set_generator('ti', hm.morpho.get_language('ti', phon=True).morphology['v'])
+    elif language == 'ks' and not get_generator('ks'):
+        set_generator('ks', hm.morpho.get_language('gru').morphology['v'])
+    elif language == 'te' and not get_generator('te'):
+        set_generator('te', hm.morpho.get_language('tig').morphology['v'])
+    if not geezify:
+        geezify = hm.morpho.geez.geezify
+
+# Utilities
+
+def allcombs(seqs, avoid=None):
+    """Returns a list of all sequences consisting of one element from each of seqs.
+    This could also be done with itertools.product.
+    avoid is None or a list of sets of elements to be avoided.
+    [From HornMorpho/.../utils.py.]
+    """
+    def avoid_comb(comb):
+        # See if any of the sets in avoid are in comb.
+        if not avoid:
+            return False
+        for a in avoid:
+            if a.issubset(comb):
+                return True
+        return False
+    if not seqs:
+        return []
+    res = [[x] for x in seqs[0]]
+    for item in seqs[1:]:
+        for i in range(len(res)-1, -1, -1):
+            rr = res[i]
+            res[i:i+1] = [(rr + [itemitem]) for itemitem in item if not avoid_comb((rr + [itemitem]))]
+    return res
+
+def get_feats(lang, feats, cls='A', morefeats=None):
+    basic = FS("[cls={}]".format(cls))
+    feats = convert_feat(lang, feats)
+#    feats = At_LEXFEAT.get(feats) if lang in ('am', 'ti') else KT_LEXFEAT.get(feats)
+    feats = FS(feats)
+    basic.update(feats)
+    if morefeats:
+        for mf in morefeats:
+            mf = FS(mf)
+            basic.update(mf)
+    return basic
 
 def get_new_roots():
     roots = {'ks': get_ks_roots(),
@@ -449,353 +767,8 @@ def convert_root(root, rc=None, lg='ti'):
             print("Something wrong with {}, {}".format(root, entry))
             return None, ''
 
-def load(language):
-    global AMgen
-    global TIgen
-    global KSgen
-    global geezify
-    if language == 'am' and not AMgen:
-        AMgen = hm.morpho.get_language('am', segment=False, phon=True).morphology['v']
-    elif language == 'ti' and not TIgen:
-        TIgen = hm.morpho.get_language('ti', phon=True).morphology['v']
-    elif language == 'ks' and not KSgen:
-        KSgen = hm.morpho.get_language('gru').morphology['v']
-    if not geezify:
-        geezify = hm.morpho.geez.geezify
-
 def elim_paren(string):
     return PAREN.sub("", string)
-
-##def merge_ks():
-##    adict = get_adict()
-##    ak, ke = get_ak_ek()
-###    nokg = []
-##    emiss = []
-##    for a, others in adict.items():
-##        if a in ak:
-##            k = ak[a]
-##            if len(others) > 1:
-##                found = False
-##                # Multiple Eng translations for Am verb
-###                print("{} in AK: {}".format(a, k))
-##                aengs = list(others.keys())
-###                print("  Eng for Am {}".format(list(others.keys())))
-##                kg = k.split(':')[-1]
-##                if kg not in ke:
-###                    print("  ?? {} not in KE dict".format(kg))
-###                    nokg.append((a, k, kg, aengs))
-##                    pass
-##                else:
-##                    kengs = ke[kg]
-###                    print("  Eng for Ks {}".format(kengs))
-##                    for aeng in aengs:
-##                        for keng in kengs:
-##                            if keng.startswith(aeng):
-###                                print("  a {}, k {}: {}={}".format(a, k, aeng, keng))
-##                                adict[a][aeng].append(('ks', k))
-##                                found = True
-###                    if not found:
-###                        emiss.append((kg, aengs, kengs))
-##            else:
-##                eng0 = list(others.keys())[0]
-##                adict[a][eng0].append(('ks', k))
-##    return adict
-
-##def get_ak_ek():
-##    ak = {}
-##    ke = {}
-##    with open("ak3.txt", encoding='utf8') as file:
-##        for line in file:
-##            a, k = line.strip().split('::')
-##            ak[a] = k
-###            kr, ka, kg = k.split(':')
-###            if kg in kdict:
-###                kdict[kg].append(a)
-###            else:
-###                kdict[kg] = [a]
-##    with open("ke1.txt", encoding='utf8') as file:
-##        for line in file:
-##            e, k = line.strip().split('::')
-##            if k in ke:
-##                ke[k].append(e)
-##            else:
-##                ke[k] = [e]
-##    return ak, ke
-
-##def k2e():
-##    kdict = {}
-##    kdefs = {}
-##    ev = eng_verbs()
-##    ep = eng_pp()
-##    with open("ak3.txt", encoding='utf8') as file:
-##        for line in file:
-##            a, k = line.strip().split('::')
-##            kr, ka, kg = k.split(':')
-##            if kg in kdict:
-##                kdict[kg].append(a)
-##            else:
-##                kdict[kg] = [a]
-##    with open("../LingData/Ks/kdict3.txt", encoding='utf8') as file:
-##        for line in file:
-##            line = line.strip()
-##            splitline = line.split()
-##            ks = splitline[0]
-##            ks = ''.join([x for x in ks if not x.isdigit()])
-##            if ks in kdict:
-##                eng = ')'.join(line.split(')')[1:])
-##                eng = ENG.search(eng)
-##                if eng:
-##                    eng = eng.group(1).strip()
-##                    engs = eng.split(',')
-##                    for eng in engs:
-##                        eng = elim_paren(eng)
-##                        esplit = eng.split()
-##                        if esplit:
-##                            everb = esplit[0]
-##                            if everb in ev:
-##                                if ' or ' in eng:
-##                                    engdisj = eng.split(' or ')
-##                                    # is second word a verb
-##                                    engdisj2 = engdisj[1]
-##                                    engdisj2split = engdisj2.split()
-##                                    everb2 = engdisj2split[0]
-##                                    if everb2 in ev:
-##                                        # add two verbs
-##                                        eng1 = ' '.join([everb + "_v"] + engdisj[0].split()[1:])
-##                                        eng2 = ' '.join([everb2 + "_v"] + engdisj2split[1:])
-##                                        eng = [eng1, eng2]
-##                                    elif everb == 'be':
-##                                        # OK, the second disjunct must be an adjective
-##                                        eng1 = ' '.join([everb + "_v"] + engdisj[0].split()[1:])
-##                                        eng2 = "be_v " + engdisj2
-##                                        eng = [eng1, eng2]
-##                                        if everb2 in ep:
-##                                            # passive
-##                                            eng3 = ep[everb2] + "_v[ps]"
-##                                            eng.append(eng3)
-##                                            edisj1_2 = engdisj[0].split()[1]
-##                                            if edisj1_2 in ep:
-##                                                eng4 = ep[edisj1_2] + "_v[ps]"
-##                                                eng.append(eng4)
-##                                    else:
-##                                        eng = [eng1]
-##                                else:
-##                                    eng = [' '.join([everb + "_v"] + esplit[1:])]
-##                                    if everb == 'be':
-##                                        if esplit[1:][0] in ep:
-##                                            eng2 = ep[esplit[1:][0]] + "_v[ps]"
-##                                            eng.append(eng2)
-##                                if ks in kdefs:
-##                                    kdefs[ks].extend(eng)
-##                                else:
-##                                    kdefs[ks] = eng
-##    with open("ke1.txt", 'w', encoding='utf8') as file:
-##        for k, eng in kdefs.items():
-##            for e in eng:
-##                print("{}::{}".format(e, k), file=file)
-##    return kdict, kdefs
-
-##def get_adict():
-##    entries = read("eatTk1.txt")
-##    adict = {}
-##    for entry in entries:
-##        aitems = entry.get('am')
-##        if aitems and len(entry) > 2:
-##            eitem = entry['en']
-##            # There has to be a least one entry other than English
-##            others = [items for items in entry.items() if items[0] != 'am' and items[0] != 'en']
-###            others = dict(others)
-##            aitems = aitems.split(ITEM_SEP)
-##            for aitem in aitems:
-##                if aitem in adict:
-##                    adict[aitem][eitem] = others
-##                else:
-##                    adict[aitem] = {eitem: others}
-##    return adict
-
-##def write_converted_entries(entries, lg, path="eatTk1.txt"):
-##    """Write in canonical form (one English item per entry) a dict of entries
-##    with keys in another language."""
-##    edict = {}
-##    for lg_item, eng_items in entries.items():
-##        for eng, other_items in eng_items.items():
-##            if eng not in edict:
-##                edict[eng] = {}
-##            eentry = edict[eng]
-##            for other_lg, other_item in other_items:
-##                eentry[other_lg] = other_item
-##            eentry[lg] = lg_item
-##    elist = list(edict.items())
-##    elist.sort()
-##    with open (path, 'w', encoding='utf8') as file:
-##        for eng, items in elist:
-##            print(ENTRY_SEP, file=file)
-##            print("en{}{}{}".format(LANG_ITEM_SEP, eng, LANG_SEP), file=file)
-##            others = []
-##            for lg, lg_item in items.items():
-##                others.append("{}{}{}".format(lg, LANG_ITEM_SEP, lg_item))
-##            others = (LANG_SEP + '\n').join(others)
-##            print(others, file=file)
-##
-
-##def proc_ak2():
-##    entries = {}
-##    with open("ak2.txt", encoding='utf8') as file:
-##        for line in file:
-##            am, ks = line.split('::')
-##            kroot, kfeats = ks.strip().split('.')
-##            kcls, kfkey = kfeats.split('_')
-##            kfeats = KF_CONV[kfkey]
-##            if not kfeats:
-##                print("No feats for {}, {}".format(kroot, kfkey))
-##            kfeats = "[cls={},{}".format(kcls, kfeats[1:])
-##            kgeez = ks_gen(kroot, kfeats, kcls)
-##            if kgeez:
-##                kid = "{}:{}:{}".format(kroot, kfeats, kgeez[-1])
-##                entries[am] = kid
-##    entries = list(entries.items())
-##    entries.sort()
-##    with open("ak3.txt", 'w', encoding='utf8') as file:
-##        for key, entry in entries:
-##            print("{}::{}".format(key, entry), file=file)
-###    return entries
-
-##def proc_ak():
-##    # Am keyed dict
-##    entries = {}
-##    with open("ak1.txt", encoding='utf8') as file:
-##        for line in file:
-##            aroot, trans = line.split(';')
-##            trans = eval(trans)
-##            for t in trans:
-##                afeat, ks = t.split(':')
-##                afeat = AF_CONV.get(afeat)
-##                if not afeat:
-##                    print("No way to convert feats for {}".format(aroot))
-##                    return
-##                ageez = am_gen(aroot, afeat, True)
-##                ageez = ageez[-1]
-###                print("aroot {}, afeat {}, ageez {}".format(aroot, afeat, ageez))
-##                aid = "{}:{}:{}".format(aroot, afeat, ageez)
-##                entries[aid] = ks
-##    entries = list(entries.items())
-##    entries.sort()
-##    with open("ak2.txt", 'w', encoding='utf8') as file:
-##        for key, entry in entries:
-##            print("{}::{}".format(key, entry), file=file)
-###    return entries
-
-##def merge_eatT():
-##    # English-keyed dict
-##    entries = {}
-##    with open("eat1.txt", encoding='utf8') as eat:
-##        with open("eTt1.txt", encoding='utf8') as eTt:
-##            for entry in eat.read().split(ENTRY_SEP):
-##                languages = entry.strip().split(';;')
-##                eng = languages[0].split(';')[1]
-##                entries[eng] = {}
-##                for language in languages[1:]:
-##                    forms = language.strip().split(';')
-##                    entries[eng][forms[0]] = forms[1:]
-##            for entry in eTt.read().split(ENTRY_SEP):
-##                languages = entry.strip().split(';;\n')
-##                eng = languages[0].split(';')[1]
-##                if eng not in entries:
-##                    entries[eng] = {}
-##                e = entries[eng]
-##                for language in languages[1:]:
-##                    forms = language.strip().split(';')
-##                    l = forms[0]
-##                    translation = forms[1:]
-##                    if len(translation) == 2:
-##                        geez, rf = translation
-##                    else:
-##                        geez, root, feats = translation[0].split(':')
-##                        rf = "{}:{}".format(root, feats)
-##                    trans = "{}:{}".format(rf, geez)
-##                    if l not in e:
-##                        e[l] = [trans]
-##                    else:
-##                        el = e[l]
-##                        if trans not in el:
-###                            print("{} already in {}".format(trans, el))
-###                        else:
-##                            el.append(trans)
-##    entries = list(entries.items())
-##    entries.sort()
-##    with open("eatT1.txt", 'w', encoding='utf8') as file:
-##        for eng, entry in entries:
-##            print(ENTRY_SEP, file=file)
-##            print("en{}{}{}".format(LANG_ITEM_SEP, eng, LANG_SEP), file=file)
-##            other_l = ["{}{}{}".format(lg, LANG_ITEM_SEP, ITEM_SEP.join(trans)) for lg, trans in entry.items()]
-##            other_l = (LANG_SEP + "\n").join(other_l)
-##            print(other_l, file=file)
-##            
-##    return entries
-
-##def new_te(write=False):
-##    res = []
-##    with open("../LingData/Te/tmp.txt", encoding='utf8') as file:
-##        for line in file:
-##            if ":" in line:
-##                root, feats = line.split(':')
-##                cls = feats.split('cls=')
-##                cls = cls[1].split(',')[0]
-##                rc = "{} [cls={}]".format(root, cls)
-##                if rc not in res:
-##                    res.append(rc)
-##    res.sort()
-##    if write:
-##        with open("../LingData/Te/new_vroots.txt", 'w', encoding='utf8') as file:
-##            for r in res:
-##                print(r, file=file)
-##    return res
-
-##def eng_ti_am(write=True):
-##    eng = {}
-##    n = 0
-##    with open("en_am_v1.txt", encoding='utf8') as file:
-##        n += 1
-##        if n % 50 == 0:
-##            print("Processed {} lines".format(n))
-##        for line in file:
-##            e, a = line.split(';;')
-##            arf, agz = a.split(';')
-##            agz = agz.strip()
-##            entry = "{}:{}".format(arf, agz)
-##            if e in eng:
-##                eng[e]['am'].append(entry)
-##            else:
-##                eng[e] = {'am': [entry]}
-##    with open("ti_en_v1.txt", encoding='utf8') as file:
-##        for line in file:
-##            t, e = line.split(';;')
-##            tsplit = t.split(';')
-##            tgz, trf = t.split(';')
-##            tgz = tgz.strip()
-##            tr, tf = trf.split(':')
-##            geez = ti_gen(tr, tf, True)
-##            geez = geez[-1]
-##            entry = "{}:{}".format(trf, geez)
-##            for ee in e.strip().split(';'):
-##                if ee in eng:
-##                    if 'ti' in eng[ee]:
-##                        eng[ee]['ti'].append(entry)
-##                    else:
-##                        eng[ee]['ti'] = [entry]
-##                else:
-##                    eng[ee] = {'ti': [entry]}
-##    if write:
-##        with open("eat1.txt", 'w', encoding='utf8') as file:
-##            for e, at in eng.items():
-##                print(ENTRY_SEP, file=file)
-##                print("en;{};;".format(e), file=file)
-##                other_l = ["{};{}".format(lg, ';'.join(trans)) for lg, trans in at.items()]
-##                other_l = ";;\n".join(other_l)
-##                print(other_l, file=file)
-###                for lg, trans in at.items():
-###                    print("{}:{}".format(lg, trans), file=file)
-##    return eng
 
 def proc_en_te_ti():
     results = []
@@ -805,7 +778,7 @@ def proc_en_te_ti():
             ti = ti.strip()
             tigeez, tirf = ti.split(';')
             tir, tif = tirf.split(":")
-            tigeezgem = ti_gen(tir, tif, True)
+            tigeezgem = ti_gen(tir, tif, phon=True)
             if not tigeezgem:
                 print("Couldn't generate {}".format(tirf))
             tigeezgem = tigeezgem[1]
@@ -933,50 +906,6 @@ def load_anal(language):
     elif language == 'te' and not TE:
         TE = hm.morpho.get_language('tig')
 
-def ks_gen(root, feats, cls='A', gemination=True):
-    load('ks')
-    basic = FS("[cls={},sg=m]".format(cls))
-    feats = FS(feats)
-    basic.update(feats)
-#    print("basic {}".format(basic.__repr__()))
-    output = KSgen.gen(root, update_feats=basic)
-    if output:
-        rom = output[0][0]
-        geez = geezify(rom, 'gru', gemination=gemination)
-        return rom, geez
-    else:
-        print("Couldn't generate Ks {}, {}".format(root, feats.__repr__()))
-
-def am_gen(root, feats, gemination=False):
-    load('am')
-    basic = FS(AMTIfeats)
-    feats = FS(feats)
-    basic.update(feats)
-    if 'ob' in feats:
-        basic.update(FS("[ob=[-fem]]"))
-    output = AMgen.gen(root, update_feats=basic, phon=True)
-    if output:
-        rom = output[0][0]
-        geez = geezify(rom, gemination=gemination)
-        return rom, geez
-    else:
-        print("Couldn't generate Am {}, {}".format(root, feats.__repr__()))
-
-def ti_gen(root, feats, gemination=False):
-    load('ti')
-    basic = FS(AMTIfeats)
-    feats = FS(feats)
-    basic.update(feats)
-    if 'ob' in feats:
-        basic.update(FS("[ob=[-fem]]"))
-    output = TIgen.gen(root, 'ti', update_feats=basic, phon=True)
-    if output:
-        rom = output[0][0]
-        geez = geezify(rom, 'ti', gemination=gemination)
-        return rom, geez
-    else:
-        print("Couldn't generate Ti {}, {}".format(root, feats.__repr__()))
-
 def ti_anal(word, guess=False):
     load_anal('ti')
     anal = TI.anal_word(word, init_weight=TIinit, preproc=True, guess=guess)
@@ -1010,30 +939,6 @@ def tiam_anal2string(anal):
     featstring += "]"
     return "{}:{}".format(root, featstring)
 
-##def am_verbs(write=True):
-##    verbs = []
-##    pss = eng_pp()
-##    n = 0
-##    with open("en_am_v0.txt", encoding='utf8') as file:
-##        for line in file:
-##            n += 1
-##            if n % 100 == 0:
-##                print("Processed {} verbs".format(n))
-##            en, am = line.strip().split(' || ')
-##            root, feats = am.split('_v')
-##            forms = am_gen(root, feats, gemination=True)
-##            verbs.append((en, root, feats, forms))
-##            ps = eng_passive(en, pss)
-##            if ps:
-##                verbs.append((ps, root, feats, forms))
-##    verbs.sort()
-##    if write:
-##        with open("en_am_v1.txt", 'w', encoding='utf8') as file:
-##            for e, r, f, a in verbs:
-##                if a:
-##                    print("{};;{}:{};{}".format(e, r, f, a[1]), file=file)
-##    return verbs
-
 def eng_verbs():
     verbs = []
     with open("../LingData/En/v_analyzed.lex") as file:
@@ -1053,51 +958,6 @@ def eng_pp():
                 pp[forms[0]] = forms[1]
     return pp
 
-##def ti_verbs(write=True):
-##    verbs = []
-##    n = 0
-##    known = 0
-##    unknown = 0
-##    kverbs = []
-##    uverbs = []
-##    estems = eng_verbs()
-##    epps = eng_pp()
-##    with open("ti_en_v0.txt", encoding='utf8') as file:
-##        for line in file:
-##            n += 1
-##            if n % 100 == 0:
-##                print("Processed {} lines".format(n))
-##            if len(line.split('-')) != 2:
-##                print(line)
-##            ti, en = line.split("-")
-##            ti_ = ti.strip().replace("'", "")
-##            anal = ti_anal(ti_)
-##            if not en.strip():
-##                print("line {}".format(line))
-##            en = proc_ti_eng(en.strip(), estems, epps)
-##            if not anal:
-###                print("No analysis for {}".format(ti_))
-##                unknown += 1
-##                anal = ti_anal(ti_, guess=True)
-##                if not anal:
-##                    print("No guess analysis for {}".format(ti_))
-##                else:
-##                    for a in anal:
-##                        uverbs.append("{};{};;{}".format(ti_, a, en))
-##            else:
-##                known += 1
-##                # use only the first analysis
-##                anal = anal[0]
-##                kverbs.append("{};{};;{}".format(ti_, anal, en))
-##    if write:
-##        with open("ti_en_v1.txt", 'w', encoding='utf8') as file:
-##            for k in kverbs:
-##                print(k, file=file)
-##            print('###', file=file)
-##            for u in uverbs:
-##                print(u, file=file)
-##    else:
-##        return kverbs, uverbs
 
 def eng_passive(defn, pps=None):
     pps = pps or eng_pp()
@@ -1107,26 +967,3 @@ def eng_passive(defn, pps=None):
             ppstem = pps[dsplit[1]]
             return ppstem + "_v[ps]"
     return ''
-
-##def proc_ti_eng(eng, stems=None, pps=None):
-##    stems = stems or eng_verbs()
-##    pps = pps or eng_pp()
-##    result = []
-##    eng = eng.split(',')
-##    for e in eng:
-##        res = ''
-##        e = e.strip()
-##        e_ = e.split()
-##        if not e_:
-##            continue
-##        e0 = e_[0]
-##        if e0 in stems:
-##            res0 = e0 + "_v"
-##            res = res0 if len(e_) == 1 else ' '.join([res0] + e_[1:])
-##            result.append(res)
-##            if e0 == 'be' and len(e_) > 1 and e_[1] in pps:
-##                stem = pps[e_[1]]
-##                result.append(stem + "_v[ps]")
-##        else:
-##            print("{} not a verb".format(e0))
-##    return ';'.join(result)

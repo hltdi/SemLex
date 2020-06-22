@@ -424,7 +424,7 @@ ks:blq|A.ps,it.ተብላለ፟ቆ
 am:dst|B.ps.ተደሰ፟ተ
 %
 en:be_v proud
-am:mk'|A.ps.ተመካ፟
+am:mk'|B.ps.ተመካ፟
 ti:mkH|B.ps.ተመክ፟ሐ
 te:mkH|B.ps.ትመክ፟ሐ#brag_v
 %
@@ -472,9 +472,9 @@ te:Hfr|A..ሐፍረ#be_v in awe
 ks:hfr|A..አፈ፟ሮ
 %
 en:be_v sick
-ti:Hmm|A.,,imp.ሓመሞ;Hmm|A..ሓመመ
-te:Hmm|A..ሐመ፟
-ks:mTT|A.tr,,imp.አመጠ፟ጦ
+ti:Hmm|A.,,imp.ሓመሞ
+te:Hmm|A.,,imp.ሐመ፟ዩ
+ks:mTT|A.tr,,imp.አመጠ፟ጠን፟ት
 am:'mm|A.,,imp.አመ፟መው
 %
 en:be_v sorry
@@ -967,7 +967,7 @@ en:cook_v[ps]
 te:bxl|A..በሽለ
 ti:bsl|A..በሰለ
 ks:tkl|B.ps.ተቲከ፟ሎ
-am:qql|B.ps.ተቀቀ፟ለ;bls|A..በሰ፟ለ
+am:qql|B.ps.ተቀቀ፟ለ;bsl|A..በሰ፟ለ
 %
 en:copy_v#+ drew_v water
 ti:qdH|A..ቀድሐ
@@ -1203,7 +1203,7 @@ en:die_v
 ti:mwt|A..ሞተ;`rf|A..ዓረፈ
 te:mwt|A..ሞተ
 ks:mwt|A..ሞቶ
-am:rgf|A..ረገ፟ፈ
+am:mwt|A..ሞተ
 %
 en:dig_v
 ti:fHr|A..ፈሓረ;kW`t|A..ኰዓተ
@@ -1381,7 +1381,7 @@ am:kbb|A..ከበ፟በ
 en:encourage_v
 ti:dfr|A.tr,it.ኣደ፟ፋፈረ;tb`|A.tr,it.ኣተ፟ባብዐ
 ks:dfr|A.cs,it.አትድፋፈ፟ሮ
-am:ns'|A.tr,it.አንሳሳ፟;Tn'|A.tr,it.አጥናና፟
+am:ns'|A.tr,it.አንሳሳ፟;Tn'|A.tr,it.አጥናና፟;dfr|A.cs,it
 %
 en:end_v
 ti:qWrS|A.tr,rc.ኣቋ፟ረጸ;Trx|A..ጠረሸ
@@ -2709,7 +2709,7 @@ am:drs|A..ደረ፟ሰ
 en:read_v
 ti:nbb|A..ነበበ;nbb|A.tr.ኣንበበ
 ks:nbb|A.tr.አነበ፟ቦ
-am:nbb|B.tr.አነበ፟በ
+am:nbb|A.tr.አነበ፟በ
 %
 en:realize_v
 ti:gnzb|E.ps.ተገንዘበ
@@ -3103,7 +3103,7 @@ am:qll|A.tr.አቀለ፟ለ
 en:sing_v
 ti:zmr|B..ዘመ፟ረ;drf|A..ደረፈ
 ks:zmr|B..ዚመ፟ሮ
-am:zym|A.cs.አዜ፟መ;zfn|A..ዘፈ፟ነ
+am:zym|A.cs.አዜ፟መ;zfn|A..ዘፈ፟ነ;zmr|B..ዘመ፟ረ
 %
 en:sink_v
 ti:THl|A..ጠሓለ

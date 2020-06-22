@@ -54,7 +54,7 @@ te:CfCf|E.;am:CfCf|E.;ti:CfCf|E.
 ti:tltl|E.;te:tltl|E.;am:tltl|E.
 ks:xlm|B.;am:xlm|B.;ti:slm|B.
 ks:wrd|A.;am:wrd|A.;ti:wrd|A.
-te:mwt|A.;ks:mwt|A.;ti:mwt|A.
+te:mwt|A.;ks:mwt|A.;ti:mwt|A.;am:mwt|A.
 ti:'by|A.;te:'by|A.;am:'by|A.
 ks:btn|B.;am:btn|B.;ti:btn|B.
 ks:bTbT|E.;am:bTbT|E.;ti:bTbT|E.
@@ -96,7 +96,7 @@ ti:kHs|A.;te:kHs|A.;am:k's|A.
 ks:lqm|A.;am:lqm|A.;ti:lqm|A.
 ks:lqm|A.,it;am:lqm|A.,it;ti:lqm|A.,it
 te:tkl|A.;am:tkl|A.;ti:tkl|A.
-te:Hrs|A.;am:'rs|A.;ti:Hrs|A.
+te:Hrs|A.;am:'rs|A.;ti:Hrs|A.;ks:hrs|A.
 ks:wlwl|E.;am:wlwl|E.;ti:wlwl|E.
 ks:sbk|A.;am:sbk|A.;ti:sbk|A.
 am:s'b|A.;te:sHb|A.;ti:sHb|A.
@@ -123,7 +123,7 @@ ti:trtr|E.;te:trtr|E.;am:trtr|E.
 te:HSb|A.;am:'Tb|A.;ti:HSb|A.
 ti:byd|B.;te:byd|B.;am:byd|B.
 ti:TmTm|E.;te:TmTm|E.;am:TmTm|E.
-te:mny|B.ps;ks:mny|B.ps;ti:mny|B.ps
+te:mny|B.ps;ks:mny|B.ps;ti:mny|B.ps;am:mN*|B.ps
 ti:Smd|A.;te:Smd|A.;am:Tmd|A.
 am:kss|A.;ti:kss|A.
 te:wsk|B.;ti:wsk|B.
@@ -134,7 +134,7 @@ am:s'q|A.cs;ti:sHq|A.tr
 am:'wj|B.;ti:'wj|B.
 am:mls|B.;ti:mls|B.
 am:CbCb|E.tr;ti:CbCb|E.tr
-am:mlkt|E.tr;ks:mlkt|E.tr
+am:mlkt|E.tr;ks:mlkt|E.tr;ti:mlkt|E.tr
 ti:kWHl|A.;am:kW'l|A.
 am:xwm|A.;ti:xwm|A.
 te:bSH|A.;ti:bSH|A.
@@ -162,19 +162,18 @@ ti:bWzn|B.;am:bWzn|B.
 am:mr'|A.ps;ti:mrH|A.ps
 am:trf|A.;ti:trf|A.
 am:bz'|A.ps,rc;ks:bzh|A.ps,rc
-te:mkH|B.ps;ti:mkH|B.ps
+te:mkH|B.ps;ti:mkH|B.ps;am:mk'|B.ps
 am:qrf|A.ps;ks:qrf|A.ps
 am:qWTb|B.ps;ti:qWTb|B.ps
 am:d'n|A.;ti:dHn|A.
-am:'mm|A.,,imp;ti:Hmm|A.,,imp
-te:Hmm|A.;ti:Hmm|A.
+am:'mm|A.,,imp;ti:Hmm|A.,,imp;te:Hmm|A.,,imp
 am:'zn|A.;ks:hzn|A.
 am:Tqm|A.;ti:Tqm|A.
 am:mwq|A.;ti:mwq|A.
 te:Tll|A.;ti:Tll|A.
 am:qWsl|A.;ti:qWsl|A.
 te:zbT|A.;ti:zbT|A.
-ks:kwn|A.;ti:kwn|A.
+ks:kwn|A.;ti:kwn|A.;am:hwn|A.
 am:tkWs|B.;ks:tks|AW.
 am:kf'|A.;ti:kf'|A.
 am:jmr|B.;ti:jmr|B.
@@ -206,13 +205,12 @@ te:zrg|A.;ti:zrg|A.
 ks:mkr|A.cs,rc;ti:mkr|A.tr,rc
 am:wT'|A.tr,rc;ks:wTh|A.cs,rc
 am:bsl|A.tr;ti:bsl|A.tr
-ti:bsl|A.;te:bxl|A.
+ti:bsl|A.;te:bxl|A.;am:bsl|A.
 am:qd'|A.;ti:qdH|A.
 am:glbT|E.;ks:glbT|E.
 am:sm'|A.ps,it;ks:smh|A.ps,it
 am:qWTr|A.;ti:qWSr|A.
 am:xfn|B.;ti:xfn|B.
-te:lbs|A.;ti:lbs|A.
 am:snTq|E.;ti:snTq|E.
 te:lmm|A.;ti:lmm|A.
 am:s'b|A.ps;ks:xhb|A.ps
@@ -241,7 +239,7 @@ te:sty|A.;ti:sty|A.
 am:zmzm|E.;ks:zmzm|E.
 am:zrgf|E.;ks:zrgf|E.
 am:kbb|A.;ti:kbb|A.
-ks:dfr|A.cs,it;ti:dfr|A.tr,it
+ks:dfr|A.cs,it;ti:dfr|A.tr,it;am:dfr|A.cs,it
 te:HSy|A.;ti:HSy|A.
 ks:gbh|A.;am:gb'|A.
 am:s't|A.;ti:sHt|A.
@@ -346,7 +344,6 @@ am:slf|B.ps;ks:slf|B.ps
 am:'mn|A.cs;ti:'mn|A.tr
 am:qmT|B.cs;ti:qmT|B.tr
 ks:Cwt|C.ps;am:Cwt|C.ps
-am:mlkt|E.tr;ti:mlkt|E.tr
 am:wqT|A.;ks:wqT|A.
 am:mWgs|B.tr;ti:mWgs|B.tr
 am:qrb|A.tr;ti:qrb|A.tr
@@ -359,7 +356,7 @@ am:Tr'|A.ps,rc;ks:Trh|A.ps,rc
 am:gf'|A.;ks:gfh|A.
 am:qmT|B.cs;ti:qmT|B.tr
 ti:ktt|A.;am:ktt|A.
-ks:nbb|A.tr;ti:nbb|A.tr
+ks:nbb|A.tr;ti:nbb|A.tr;am:nbb|A.tr
 am:nqs|A.;ks:nqs|A.
 am:ngs|A.;ks:ngs|A.
 am:trf|A.;ti:trf|A.
@@ -367,7 +364,6 @@ am:'sb|B.cs;ks:hsb|B.cs
 am:qrf|A.ps;ks:qrf|A.ps
 am:wkl|B.;ti:wkl|B.
 am:d'n|A.tr;ti:dHn|A.tr
-am:kbr|A.tr;ti:kbr|A.tr
 am:mls|B.;ti:mls|B.
 te:ql`|A.;ti:ql`|A.
 am:gs'|A.tr;ks:gsh|A.tr
@@ -386,7 +382,7 @@ am:nqnq|E.;ti:nqnq|E.
 te:sHl|A.;ti:sHl|A.
 te:lSy|C.;ti:lSy|C.
 am:'Tr|A.cs;ti:HSr|A.tr
-ks:zmr|B.;ti:zmr|B.
+ks:zmr|B.;ti:zmr|B.;am:zmr|B.
 am:smT|A.;ks:smT|A.
 am:qmT|B.ps;ti:qmT|B.ps
 am:nxtt|J.tr;ti:nxtt|J.tr
@@ -402,7 +398,6 @@ te:sfy|A.;ti:sfy|A.
 te:mTT|A.;ti:mTT|A.
 am:Tn'|A.tr;ti:Sn`|A.tr
 te:mSy|A.;ti:mSy|A.
-am:kbb|A.;ti:kbb|A.
 am:w'T|A.;ti:wHT|A.
 te:lhb|A.;ti:lhb|A.
 te:Hmbs|E.;ti:Hmbs|E.

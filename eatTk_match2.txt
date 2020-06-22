@@ -1,0 +1,168 @@
+3 ; {'ks': 'mkr|A.', 'am': 'mkr|A.', 'te': 'mkr|A.', 'ti': 'mkr|A.'}
+2 ; {'am': 'mkr|A.ps', 'te': 'mkr|A.ps', 'ti': 'mkr|A.ps'}
+2 ; {'te': 'qrb|A.', 'ks': 'qrb|A.', 'am': 'qrb|A.', 'ti': 'qrb|A.'}
+0 ; {'ti': 'dmq|A.', 'te': 'dmq|A.', 'ks': 'dmq|A.', 'am': 'dmq|A.'}
+2 ; {'ti': 'slTn|E.', 'te': 'slTn|E.', 'ks': 'slTn|E.', 'am': 'slTn|E.'}
+2 ; {'ti': 'gnn|A.', 'te': 'gnn|A.', 'ks': 'gnn|A.', 'am': 'gnn|A.'}
+2 ; {'ti': 'kbr|A.', 'ks': 'kbr|A.', 'am': 'kbr|A.', 'te': 'kbr|A.'}
+2 ; {'ti': 'Hfr|A.', 'te': 'Hfr|A.', 'ks': 'hfr|A.', 'am': "'fr|A."}
+2 ; {'ti': 'skr|A.', 'ks': 'skr|A.', 'am': 'skr|A.', 'te': 'xkr|A.'}
+3 ; {'ks': 'qds|B.', 'am': 'qds|B.', 'te': 'qds|B.', 'ti': 'qds|B.'}
+2 ; {'am': 'qds|B.ps', 'te': 'qds|B.ps', 'ti': 'qds|B.ps'}
+3 ; {'ks': 'sbr|A.', 'am': 'sbr|A.', 'te': 'sbr|A.', 'ti': 'sbr|A.'}
+2 ; {'am': 'sbr|A.ps', 'te': 'sbr|A.ps', 'ti': 'sbr|A.ps'}
+3 ; {'ti': 'slb|A.', 'te': 'slb|A.', 'ks': 'slb|A.', 'am': 'slb|A.'}
+2 ; {'ti': 'slb|A.ps', 'te': 'slb|A.ps', 'am': 'slb|A.ps'}
+2 ; {'ti': 'blS|A.ps', 'te': 'blS|A.ps', 'ks': 'blT|A.ps', 'am': 'blT|A.ps'}
+3 ; {'am': 'rgm|A.', 'te': 'rgm|A.', 'ks': 'rgm|A.', 'ti': 'rgm|A.'}
+2 ; {'am': 'rgm|A.ps', 'te': 'rgm|A.ps', 'ti': 'rgm|A.ps'}
+3 ; {'te': 'lbs|A.', 'am': 'lbs|A.', 'ks': 'lbs|A.', 'ti': 'lbs|A.'}
+3 ; {'te': 'mrmr|E.', 'ks': 'mrmr|E.', 'am': 'mrmr|E.', 'ti': 'mrmr|E.'}
+3 ; {'te': 'mrmr|E.ps', 'am': 'mrmr|E.ps', 'ti': 'mrmr|E.ps'}
+2 ; {'ks': 'brr|A.', 'am': 'brr|A.', 'te': 'brr|A.', 'ti': 'brr|A.'}
+2 ; {'ti': 'ksr|A.', 'te': 'ksr|A.', 'ks': 'ksr|A.', 'am': 'ksr|A.'}
+0 ; {'ti': 'bsl|A.', 'am': 'bsl|A.', 'ks': 'bsl|A.', 'te': 'bxl|A.'}
+3 ; {'ti': 'kfl|A.', 'te': 'kfl|A.', 'ks': 'kfl|A.', 'am': 'kfl|A.'}
+0 ; {'ti': 'kfl|A.ps', 'te': 'kfl|A.ps', 'am': 'kfl|A.ps'}
+2 ; {'te': 'bhl|A.ps', 'ks': 'bhl|A.ps', 'am': "b'l|A.ps", 'ti': 'bhl|A.ps'}
+3 ; {'ti': 'msl|A.', 'te': 'msl|A.', 'ks': 'msl|A.', 'am': 'msl|A.'}
+3 ; {'ks': 'srq|A.', 'am': 'srq|A.', 'te': 'srq|A.', 'ti': 'srq|A.'}
+0 ; {'am': 'srq|A.ps', 'te': 'srq|A.ps', 'ti': 'srq|A.ps'}
+3 ; {'ks': 'qbl|B.ps', 'am': 'qbl|B.ps', 'ti': 'qbl|B.ps'}
+3 ; {'ks': 'dmr|B.', 'am': 'dmr|B.', 'ti': 'dmr|B.'}
+3 ; {'ks': 'krkr|E.ps,rc', 'am': 'krkr|E.ps,rc', 'ti': 'krkr|E.ps,rc'}
+3 ; {'ks': 'qsqs|E.', 'am': 'qsqs|E.', 'ti': 'qsqs|E.'}
+0 ; {'ks': 'qsqs|E.ps', 'am': 'qsqs|E.ps', 'ti': 'qsqs|E.ps'}
+2 ; {'ks': 'wld|A.ps', 'am': 'wld|A.ps', 'ti': 'wld|A.ps'}
+0 ; {'ti': 'qzqz|E.', 'te': 'qzqz|E.', 'am': 'qzqz|E.'}
+1 ; {'ti': 'brd|A.', 'ks': 'brd|A.', 'am': 'brd|A.'}
+0 ; {'ti': 'lmlm|E.', 'te': 'lmlm|E.', 'am': 'lmlm|E.'}
+2 ; {'am': 'mwq|A.', 'te': 'mwq|A.', 'ti': 'mwq|A.'}
+2 ; {'ks': 'Tmd|A.ps', 'am': 'Tmd|A.ps', 'ti': 'Smd|A.ps', 'te': 'Smd|A.ps'}
+0 ; {'am': "sf'|A.", 'te': 'sfH|A.', 'ti': 'sfH|A.'}
+2 ; {'ks': 'wld|A.ps', 'am': 'wld|A.ps', 'ti': 'wld|A.ps'}
+0 ; {'am': 'dnn|A.', 'te': 'dnn|A.', 'ti': 'dnn|A.'}
+3 ; {'am': "kd'|A.", 'te': 'kd`|A.', 'ti': 'kd`|A.'}
+2 ; {'am': "kd'|A.ps", 'te': 'kd`|A.ps', 'ti': 'kd`|A.ps'}
+3 ; {'ks': 'nks|A.', 'am': 'nks|A.', 'ti': 'nks|A.'}
+3 ; {'ks': 'mrq|B.', 'am': 'mrq|B.', 'ti': 'mrq|B.'}
+0 ; {'ks': 'nfs|A.', 'am': 'nfs|A.', 'ti': 'nfs|A.'}
+2 ; {'am': 'fkr|B.', 'te': 'fkr|B.', 'ti': 'fkr|B.'}
+3 ; {'am': 'qyr|B.', 'te': 'qyr|B.', 'ti': 'qyr|B.'}
+2 ; {'am': 'qyr|B.ps', 'te': 'qyr|B.ps', 'ti': 'qyr|B.ps'}
+3 ; {'ks': 'lflf|E.', 'am': 'lflf|E.', 'ti': 'lflf|E.'}
+3 ; {'ti': 'ktf|A.', 'te': 'ktf|A.', 'am': 'ktf|A.'}
+2 ; {'ti': 'ktf|A.ps', 'te': 'ktf|A.ps', 'am': 'ktf|A.ps'}
+3 ; {'ks': 'Trg|A.', 'am': 'Trg|A.', 'ti': 'Srg|A.'}
+2 ; {'te': "mS'|A.", 'am': "mT'|A.", 'ti': "mS'|A."}
+1 ; {'am': 'drs|A.', 'te': 'drs|A.', 'ti': 'drs|A.'}
+2 ; {'ks': 'qTl|B.', 'am': 'qTl|B.', 'ti': 'qSl|B.'}
+3 ; {'am': "'rm|B.", 'te': "'rm|B.", 'ti': "'rm|B."}
+0 ; {'am': "'rm|B.ps", 'te': "'rm|B.ps", 'ti': "'rm|B.ps"}
+3 ; {'ti': 's`l|A.', 'te': 's`l|A.', 'am': "s'l|A."}
+0 ; {'ti': 's`l|A.ps', 'te': 's`l|A.ps', 'am': "s'l|A.ps"}
+3 ; {'ks': 'fTr|A.', 'am': 'fTr|A.', 'ti': 'fTr|A.'}
+3 ; {'te': 'CfCf|E.', 'am': 'CfCf|E.', 'ti': 'CfCf|E.'}
+3 ; {'ti': 'tltl|E.', 'te': 'tltl|E.', 'am': 'tltl|E.'}
+0 ; {'te': 'CfCf|E.ps', 'am': 'CfCf|E.ps', 'ti': 'CfCf|E.ps'}
+0 ; {'ti': 'tltl|E.ps', 'te': 'tltl|E.ps', 'am': 'tltl|E.ps'}
+3 ; {'ks': 'xlm|B.', 'am': 'xlm|B.', 'ti': 'slm|B.'}
+2 ; {'ks': 'wrd|A.', 'am': 'wrd|A.', 'ti': 'wrd|A.'}
+2 ; {'te': 'mwt|A.', 'ks': 'mwt|A.', 'ti': 'mwt|A.', 'am': 'mwt|A.'}
+2 ; {'ti': "'by|A.", 'te': "'by|A.", 'am': "'by|A."}
+3 ; {'ks': 'btn|B.', 'am': 'btn|B.', 'ti': 'btn|B.'}
+3 ; {'ks': 'bTbT|E.', 'am': 'bTbT|E.', 'ti': 'bTbT|E.'}
+3 ; {'te': 'bl`|A.', 'am': "bl'|A.", 'ti': 'bl`|A.', 'ks': 'blh|A.'}
+0 ; {'te': 'bl`|A.ps', 'am': "bl'|A.ps", 'ti': 'bl`|A.ps'}
+1 ; {'ks': 'Tlf|A.', 'am': 'Tlf|A.', 'ti': 'Tlf|A.'}
+3 ; {'ks': 'gmt|B.', 'am': 'gmt|B.', 'ti': 'gmt|B.'}
+3 ; {'te': 'lwT|B.', 'am': 'lwT|B.', 'ti': 'lwT|B.'}
+0 ; {'te': 'lwT|B.ps', 'am': 'lwT|B.ps', 'ti': 'lwT|B.ps'}
+2 ; {'ks': 'wdq|A.', 'am': 'wdq|A.', 'ti': 'wdq|A.'}
+0 ; {'ks': 'rgf|A.', 'am': 'rgf|A.', 'ti': 'rgf|A.'}
+2 ; {'ti': 'Swm|A.', 'am': 'Swm|A.', 'te': 'Swm|A.'}
+3 ; {'am': "bl'|A.tr", 'te': 'bl`|A.tr', 'ti': 'bl`|A.tr', 'ks': 'blh|A.tr'}
+3 ; {'ks': 'Crs|B.', 'am': 'Crs|B.', 'ti': 'Crs|B.'}
+1 ; {'ks': 'gTm|A.', 'am': 'gTm|A.', 'ti': 'gTm|A.'}
+1 ; {'am': "'Tf|A.", 'te': '`Sf|A.', 'ti': '`Sf|A.'}
+3 ; {'ks': 'ktl|B.ps', 'am': 'ktl|B.ps', 'ti': 'ktl|B.ps'}
+3 ; {'am': 'msrt|E.', 'te': 'msrt|E.', 'ti': 'msrt|E.'}
+0 ; {'am': 'msrt|E.ps', 'te': 'msrt|E.ps', 'ti': 'msrt|E.ps'}
+3 ; {'am': "'kb|B.", 'te': "'kb|B.", 'ti': "'kb|B."}
+2 ; {'am': "'kb|B.ps", 'te': "'kb|B.ps", 'ti': "'kb|B.ps"}
+3 ; {'ti': 'lmd|A.', 'te': 'lmd|A.', 'am': 'lmd|A.'}
+0 ; {'ti': 'lmd|A.ps', 'te': 'lmd|A.ps', 'am': 'lmd|A.ps'}
+3 ; {'am': 'wld|A.', 'ks': 'wld|A.', 'ti': 'wld|A.'}
+3 ; {'ks': 'Tbq|A.tr,rc', 'am': 'Tbq|A.tr,rc', 'ti': 'Tbq|A.tr,rc'}
+2 ; {'ks': 'qlTf|E.', 'am': 'qlTf|E.', 'ti': 'qlTf|E.'}
+3 ; {'ks': 'fTn|A.', 'am': 'fTn|A.', 'ti': 'fTn|A.'}
+3 ; {'am': "sm'|A.", 'te': 'sm`|A.', 'ti': 'sm`|A.'}
+3 ; {'am': 'kbr|A.tr', 'ks': 'kbr|A.tr', 'ti': 'kbr|A.tr'}
+3 ; {'ks': 'wrr|A.', 'am': 'wrr|A.', 'ti': 'wrr|A.'}
+2 ; {'ks': 'frd|A.', 'am': 'frd|A.', 'ti': 'frd|A.'}
+3 ; {'ks': 'zll|A.', 'am': 'zll|A.', 'ti': 'zll|A.'}
+3 ; {'am': "s'm|A.", 'te': 's`m|A.', 'ti': 's`m|A.', 'ks': 'shm|A.'}
+2 ; {'am': "s'm|A.ps", 'te': 's`m|A.ps', 'ti': 's`m|A.ps'}
+2 ; {'am': "s'q|A.", 'te': 'sHq|A.', 'ti': 'sHq|A.'}
+3 ; {'am': "mr'|A.", 'te': 'mrH|A.', 'ti': 'mrH|A.', 'ks': 'mrh|A.'}
+2 ; {'am': "mr'|A.ps", 'te': 'mrH|A.ps', 'ti': 'mrH|A.ps', 'ks': 'mrh|A.ps'}
+3 ; {'am': "l's|A.", 'te': 'lHs|A.', 'ti': 'lHs|A.', 'ks': 'lhs|A.'}
+2 ; {'am': "l's|A.ps", 'te': 'lHs|A.ps', 'ti': 'lHs|A.ps'}
+2 ; {'ti': 'zmt|A.', 'am': 'zmt|A.', 'te': 'zmt|A.'}
+3 ; {'te': 'srH|A.', 'am': "sr'|A.", 'ti': 'srH|A.'}
+0 ; {'te': 'srH|A.ps', 'am': "sr'|A.ps", 'ti': 'srH|A.ps'}
+3 ; {'ks': 'kft|A.', 'am': 'kft|A.', 'ti': 'kft|A.'}
+2 ; {'te': 'Hlf|A.', 'am': "'lf|A.", 'ti': 'Hlf|A.'}
+3 ; {'ti': 'tmtm|E.', 'te': 'tmtm|E.', 'am': 'tmtm|E.'}
+0 ; {'ti': 'tmtm|E.ps', 'te': 'tmtm|E.ps', 'am': 'tmtm|E.ps'}
+3 ; {'ti': 'kHs|A.', 'te': 'kHs|A.', 'am': "k's|A.", 'ks': 'khs|A.'}
+2 ; {'ti': 'kHs|A.ps', 'te': 'kHs|A.ps', 'am': "k's|A.ps", 'ks': 'khs|A.ps'}
+3 ; {'ks': 'lqm|A.', 'am': 'lqm|A.', 'ti': 'lqm|A.'}
+3 ; {'ks': 'lqm|A.,it', 'am': 'lqm|A.,it', 'ti': 'lqm|A.,it'}
+3 ; {'te': 'tkl|A.', 'am': 'tkl|A.', 'ti': 'tkl|A.'}
+0 ; {'te': 'tkl|A.ps', 'am': 'tkl|A.ps', 'ti': 'tkl|A.ps'}
+3 ; {'te': 'Hrs|A.', 'am': "'rs|A.", 'ti': 'Hrs|A.', 'ks': 'hrs|A.'}
+0 ; {'te': 'Hrs|A.ps', 'am': "'rs|A.ps", 'ti': 'Hrs|A.ps'}
+3 ; {'ks': 'wlwl|E.', 'am': 'wlwl|E.', 'ti': 'wlwl|E.'}
+3 ; {'ks': 'sbk|A.', 'am': 'sbk|A.', 'ti': 'sbk|A.'}
+3 ; {'am': "s'b|A.", 'te': 'sHb|A.', 'ti': 'sHb|A.', 'ks': 'xhb|A.'}
+2 ; {'am': "s'b|A.ps", 'te': 'sHb|A.ps', 'ti': 'sHb|A.ps', 'ks': 'xhb|A.ps'}
+0 ; {'ks': 'znb|A.', 'am': 'znb|A.', 'ti': 'znb|A.'}
+2 ; {'am': 'dgm|A.', 'ks': 'dgm|A.', 'ti': 'dgm|A.'}
+2 ; {'ti': '`mS|B.', 'te': '`mS|B.', 'am': "'mT|B."}
+3 ; {'ti': 'nzH|A.', 'te': 'nzH|A.', 'am': "nz'|A."}
+0 ; {'ti': 'nzH|A.ps', 'te': 'nzH|A.ps', 'am': "nz'|A.ps"}
+3 ; {'am': "l'k|A.", 'te': "l'k|A.", 'ti': "l'k|A.", 'ks': 'lhk|A.'}
+0 ; {'am': "l'k|A.ps", 'te': "l'k|A.ps", 'ti': "l'k|A.ps", 'ks': 'lhk|A.ps'}
+3 ; {'am': 'sdd|A.', 'te': 'sdd|A.', 'ti': 'sdd|A.'}
+2 ; {'am': 'sdd|A.ps', 'te': 'sdd|A.ps', 'ti': 'sdd|A.ps', 'ks': 'sdd|A.ps'}
+2 ; {'ks': 'kfl|A.ps,rc', 'am': 'kfl|A.ps,rc', 'ti': 'kfl|A.ps,rc'}
+3 ; {'te': 'Hrd|A.', 'am': "'rd|A.", 'ti': 'Hrd|A.', 'ks': 'hrd|A.'}
+0 ; {'te': 'Hrd|A.ps', 'am': "'rd|A.ps", 'ti': 'Hrd|A.ps'}
+3 ; {'ks': 'bkn|C.tr', 'am': 'bkn|C.tr', 'ti': 'bkn|C.tr'}
+2 ; {'ks': 'qwm|A.', 'am': 'qwm|A.', 'ti': 'qwm|A.'}
+2 ; {'am': "m'l|A.", 'te': 'mHl|A.', 'ti': 'mHl|A.'}
+3 ; {'ks': 'wsd|A.', 'am': 'wsd|A.', 'ti': 'wsd|A.'}
+3 ; {'ks': 'qms|A.', 'am': 'qms|A.', 'ti': 'qms|A.'}
+3 ; {'ks': 'qdd|A.', 'am': 'qdd|A.', 'ti': 'qdd|A.'}
+3 ; {'ks': 'dngT|E.cs', 'am': 'dngT|E.cs', 'ti': 'dngS|E.tr'}
+2 ; {'ks': 'mskr|E.', 'am': 'mskr|E.', 'ti': 'mskr|E.'}
+3 ; {'am': 'msgn|E.tr', 'ks': 'msgn|E.tr', 'ti': 'msgn|E.tr'}
+3 ; {'ks': 'trgWm|E.', 'am': 'trgWm|E.', 'ti': 'trgWm|E.'}
+3 ; {'ks': 'rgf|A.cs,rc', 'am': 'rgf|A.tr,rc', 'ti': 'rgf|A.tr,rc'}
+3 ; {'ti': 'trtr|E.', 'te': 'trtr|E.', 'am': 'trtr|E.'}
+3 ; {'te': 'HSb|A.', 'am': "'Tb|A.", 'ti': 'HSb|A.', 'ks': 'hTb|A.'}
+2 ; {'te': 'HSb|A.ps', 'am': "'Tb|A.ps", 'ti': 'HSb|A.ps', 'ks': 'hTb|A.ps'}
+3 ; {'ti': 'byd|B.', 'te': 'byd|B.', 'am': 'byd|B.'}
+0 ; {'ti': 'byd|B.ps', 'te': 'byd|B.ps', 'am': 'byd|B.ps'}
+3 ; {'ti': 'TmTm|E.', 'te': 'TmTm|E.', 'am': 'TmTm|E.'}
+0 ; {'ti': 'TmTm|E.ps', 'te': 'TmTm|E.ps', 'am': 'TmTm|E.ps'}
+3 ; {'te': 'mny|B.ps', 'ks': 'mny|B.ps', 'ti': 'mny|B.ps', 'am': 'mN*|B.ps'}
+3 ; {'ti': 'Smd|A.', 'te': 'Smd|A.', 'am': 'Tmd|A.'}
+2 ; {'am': 'mlkt|E.tr', 'ks': 'mlkt|E.tr', 'ti': 'mlkt|E.tr'}
+2 ; {'te': 'mkH|B.ps', 'ti': 'mkH|B.ps', 'am': "mk'|B.ps"}
+1 ; {'am': "'mm|A.,,imp", 'ti': 'Hmm|A.,,imp', 'te': 'Hmm|A.,,imp'}
+3 ; {'ks': 'kwn|A.', 'ti': 'kwn|A.', 'am': 'hwn|A.'}
+3 ; {'ks': 'dfr|A.cs,it', 'ti': 'dfr|A.tr,it', 'am': 'dfr|A.cs,it'}
+3 ; {'ks': 'nbb|A.tr', 'ti': 'nbb|A.tr', 'am': 'nbb|A.tr'}
+3 ; {'ks': 'zmr|B.', 'ti': 'zmr|B.', 'am': 'zmr|B.'}

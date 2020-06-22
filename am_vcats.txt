@@ -1,0 +1,584 @@
+'Cq|B;{'': 2}
+'Cd|A;{'': 2.5}
+'T'|A;{'cs': 1, '': 3}
+'Tb|A;{'': 3}
+'Tf|A;{'': 1, 'ps': 2.5}
+'Tq|A;{'ps': 3}
+'Tr|A;{'cs': 3}
+'bb|B;{'': 0}
+'dl|B;{'': 1}
+'dm|B;{'cs': 3}
+'dn|B;{'': 3}
+'df|A;{'': 2}
+'dg|A;{'cs': 3, '': 2.5}
+'dr|A;{'': 2.5}
+'fr|A;{'cs': 3, '': 3}
+'fs|A;{'': 3}
+'gs|B;{'ps': 3}
+'jb|B;{'': 3, 'ps': 2}
+'km|B;{'cs': 3, '': 3}
+'lb|A;{'': 3}
+'lf|A;{'cs': 1, 'trit': 3, '': 2.5}
+'lq|A;{'': 0}
+'ms|B;{'': 1}
+'nq|A;{'': 3, 'psit': 3, 'ps': 2.5}
+'ns|A;{'cs': 3, '': 1}
+'qd|B;{'': 3}
+'r'|A;{'': 3}
+'rm|B;{'': 3}
+'rq|B;{'tr': 3, 'ps': 3}
+'rd|A;{'': 3, 'ps': 2.5}
+'rf|A;{'cs': 1, '': 3}
+'rg|A;{'cs': 3}
+'sb|B;{'cs': 3, '': 3}
+'wr|B;{'ps': 3}
+'wq|A;{'': 3, 'cs': 0, 'ps': 0}
+'ws|B;{'tr': 3}
+'x*|A;{'ps': 2}
+'yl|B;{'': 3}
+'zn|A;{'': 2.5}
+'zz|A;{'': 3}
+C'n|A;{'': 2.5}
+C'r|A;{'': 2}
+Cwt|C;{'tr': 3}
+CbCb|E;{'tr': 2.5}
+Cfr|B;{'': 2.5}
+ClT|B;{'': 3}
+Cmr|B;{'': 2.5}
+Cmlq|F;{'ps': 0}
+Cmq|A;{'ps': 0, '': 3}
+Cnq|A;{'cs': 3, '': 1}
+CqCq|E;{'': 3, 'psrc': 0}
+Crs|B;{'': 3, 'cs': 3}
+Cwh|A;{'': 2.5}
+Sd'|A;{'cs': 3, '': 0}
+Sdq|A;{'': 0}
+Sn'|A;{'': 2}
+Swm|A;{'': 2.5}
+T'd|A;{'': 2}
+T'l|A;{'': 3}
+T'r|A;{'psit': 2}
+T's|A;{'': 3}
+TT'|B;{'tr': 3, '': 3}
+TfT|C;{'tr': 3, '': 3}
+Tb'|A;{'tr': 3, '': 3}
+Tbq|B;{'': 3}
+Tbb|A;{'tr': 1, 'ps': 3, 'psrc': 0, '': 3}
+Tbs|A;{'': 3}
+Tf'|A;{'tr': 3, '': 3}
+TfTf|E;{'': 3}
+Tfr|B;{'ps': 2}
+Tg'|A;{'cs': 3, 'ps': 3, 'psit': 2.5}
+Tgb|A;{'tr': 3, '': 3}
+Tl'|A;{'cs': 1, '': 3, 'psrc': 3}
+Tlf|A;{'': 1, 'ps': 2, 'psit': 2}
+Tlq|A;{'tr': 3, '': 3}
+Tm'|A;{'': 1}
+Tmd|A;{'ps': 2, '': 3}
+Tmm|A;{'': 0, 'psrc': 0}
+Tn'|A;{'tr': 3}
+Tnkr|E;{'tr': 1, '': 2.5}
+Tnqq|E;{'cs': 3, 'ps': 2.5}
+Tnss|E;{'': 2}
+Tq'|A;{'tr': 1}
+Tqll|E;{'': 3}
+Tr'|A;{'psrc': 1, '': 3}
+Trb|A;{'': 2}
+Trg|A;{'': 3}
+Tyf|B;{'ps': 3}
+Tyq|B;{'': 3}
+Tlqlq|G;{'ps': 0}
+b's|A;{'trit': 1, '': 3, 'psit': 0}
+bTs|B;{'': 3, 'psit': 0, 'ps': 0}
+bTbT|E;{'': 3, 'ps': 0}
+bWTT|C;{'': 3}
+bWk'|A;{'tr': 2}
+bkn|C;{'tr': 3, '': 0}
+bnn|C;{'': 0}
+brk|C;{'': 3, 'ps': 3}
+bdl|B;{'ps': 2.5}
+bj*|B;{'tr': 3, '': 1}
+bkl|B;{'ps': 2.5}
+bkt|A;{'': 2}
+bl'|A;{'': 3, 'psrc': 0, 'tr': 3}
+blT|A;{'': 2.5, 'ps': 2.5}
+blx*|F;{'tr': 3, 'ps': 0}
+bq'|A;{'tr': 1, '': 3}
+br'|A;{'tr': 2.5, '': 0}
+brbr|E;{'ps': 2}
+brd|A;{'tr': 3, '': 1}
+brt'|E;{'': 3}
+bsbs|E;{'': 3}
+bsl|A;{'tr': 3, '': 0}
+btn|B;{'': 3, 'ps': 2.5}
+bz'|A;{'tr': 3}
+cbcb|E;{'': 3}
+cgr|B;{'': 1, 'ps': 2.5}
+ckWl|B;{'': 2.5}
+cnkr|E;{'ps': 3}
+d'h|A;{'': 2.5}
+d'n|A;{'': 2.5}
+d'r|A;{'': 3, 'ps': 2.5}
+dbs|C;{'': 3}
+dkr|C;{'': 2}
+drg|C;{'ps': 2}
+dss|C;{'': 3}
+db'|A;{'tr': 2}
+dbl|B;{'psrc': 2}
+dbq|B;{'': 3, 'ps': 2.5}
+dbzz|E;{'': 2}
+df'|A;{'': 3, 'ps': 3}
+dfn|A;{'': 3, 'psrc': 0}
+dfr|A;{'': 3, 'psrc': 2.5, 'csit': 3}
+dfrs|E;{'tr': 1, '': 0}
+dgf|B;{'ps': 3}
+dkm|A;{'': 3, 'psrc': 0}
+dl'|A;{'tr': 2}
+dlb|A;{'tr': 2, '': 0}
+dldl|E;{'': 3, 'psrc': 3}
+dm'|A;{'tr': 3, '': 2.5}
+dmT|A;{'tr': 3, 'ps': 0}
+dmr|B;{'': 3}
+dmq|A;{'': 0}
+dngr|F;{'tr': 1}
+dnbr|E;{'psrc': 2}
+dnf'|E;{'': 2}
+dngT|E;{'': 2.5, 'cs': 3}
+dnq|A;{'cs': 1, 'ps': 2}
+dnqWr|E;{'tr': 3}
+drdr|E;{'': 3}
+drq|A;{'': 0}
+drs|A;{'tr': 1, '': 1}
+dst|B;{'cs': 1, 'ps': 2.5}
+f'q|A;{'': 3}
+fC*|A;{'': 3}
+fSm|B;{'': 3}
+fTT|A;{'tr': 2, '': 2}
+fTn|A;{'': 3}
+fTr|A;{'': 3}
+fj*|A;{'cs': 3, 'psrc': 2.5}
+fl'|A;{'tr': 3, '': 3}
+flT|A;{'': 3}
+flg|B;{'cs': 1, '': 3}
+flfl|E;{'': 3}
+fnC*|E;{'': 2}
+fnTq|E;{'': 3}
+fnTz|E;{'': 2}
+fnTT|F;{'ps': 3}
+fnql|E;{'': 3, 'psrc': 0}
+fqr|A;{'psrc': 2.5, 'tr': 3}
+fr'|A;{'csit': 1, '': 3}
+frm|B;{'': 3}
+frd|A;{'': 2.5}
+frs|A;{'tr': 3, 'it': 0, '': 0}
+fss|A;{'tr': 3, '': 0}
+ft'|A;{'cs': 3, '': 3}
+ftx|B;{'': 3}
+ftft|E;{'': 3}
+fyd|B;{'': 3}
+fzz|A;{'': 2}
+g't|A;{'': 3}
+g'z|A;{'tr': 2}
+gC*|A;{'': 3}
+gTm|A;{'': 1}
+gW'gW'|E;{'': 2.5}
+gW'z|A;{'ps': 2.5}
+gWbN*|E;{'': 3}
+gWbdd|E;{'tr': 2}
+gWd'|A;{'': 3, 'ps': 2.5}
+gWdl|A;{'tr': 3, '': 1}
+gWlt|B;{'': 3}
+gWnbs|E;{'tr': 2.5}
+gWrbT|E;{'': 3}
+gWrs|A;{'': 2}
+gWsqWl|E;{'psrc': 2}
+gWtt|B;{'': 3}
+gWtgWt|E;{'': 3}
+gbz|C;{'': 3}
+ggr|C;{'': 3}
+grd|C;{'': 3}
+gb'|A;{'tr': 1, 'cs': 0}
+gbr|B;{'': 2.5}
+gdb|B;{'': 3}
+gdf|A;{'': 3}
+gdl|A;{'': 3}
+gdm|A;{'psrc': 2.5}
+gf'|A;{'': 3, 'ps': 0, 'psrc': 1}
+ggm|B;{'tr': 2}
+glgl|F;{'': 1}
+glbT|E;{'': 3, 'ps': 0, 'psrc': 0}
+glgl|E;{'tr': 3}
+gll|A;{'tr': 3}
+gmt|B;{'': 3}
+gnTl|E;{'': 3}
+gnb'|E;{'': 3, 'ps': 0}
+gr'|A;{'psrc': 3}
+grT'|E;{'': 2}
+grz|B;{'': 3, 'ps': 3}
+grf|A;{'': 3}
+grm|A;{'cs': 1, 'ps': 2.5}
+gsgs|E;{'': 2}
+gtr|B;{'': 3, 'ps': 2}
+gz'|A;{'': 3}
+gzgz|E;{'': 3}
+gdrdr|G;{'ps': 2.5}
+jmr|B;{'': 2.5, 'ps': 0}
+k'n|A;{'ps': 3}
+k's|A;{'trit': 3, 'ps': 2.5, '': 3}
+kW'l|A;{'ps': 2.5}
+kWbkWb|E;{'tr': 2}
+kWbll|E;{'': 2.5}
+kWrf|A;{'tr': 3}
+kWrkWm|E;{'': 1}
+kbd|A;{'tr': 3}
+kbr|A;{'cs': 2.5, 'ps': 0, '': 2.5, 'tr': 3}
+kd'|A;{'': 3}
+kdn|A;{'': 3}
+kfl|A;{'psrc': 2.5, 'ps': 1, '': 3}
+kft|A;{'': 3}
+kmr|B;{'': 3, 'ps': 0}
+kmc*|F;{'tr': 3}
+kry*|F;{'ps': 3}
+krkr|E;{'psrc': 3}
+krm|A;{'': 3}
+krr|A;{'tr': 3}
+ksr|A;{'tr': 3, '': 2.5}
+ktl|B;{'ps': 3}
+l'T|A;{'': 3}
+l'f|A;{'': 2}
+l'k|A;{'': 3, 'ps': 0}
+l'l'|E;{'tr': 3}
+l's|A;{'tr': 3, '': 3}
+lTf|B;{'': 3}
+lC*|C;{'ps': 2.5}
+lbs|A;{'tr': 3, '': 3}
+lf'|A;{'tr': 3, '': 3}
+lflf|E;{'': 3}
+lgm|B;{'': 2}
+lkWs|B;{'': 3}
+lk'|B;{'': 3}
+lm'|A;{'tr': 3, '': 3}
+lmd|A;{'': 3}
+lmlm|E;{'': 0}
+lqm|A;{'': 3, 'it': 3}
+lqq|A;{'': 3, 'psrc': 2}
+lqs|A;{'cs': 1, 'tr': 2.5}
+lsls|E;{'tr': 3}
+lwT|B;{'': 3, 'ps': 0, 'psit': 2.5}
+m'T|A;{'tr': 3}
+m'g|A;{'': 3}
+m'l|A;{'': 2.5}
+m'r|A;{'cs': 3, 'ps': 2.5}
+mN*|B;{'ps': 3}
+mSdq|F;{'ps': 2}
+mT'|A;{'tr': 3, '': 2.5}
+mTT|A;{'': 3}
+mTn|B;{'': 1}
+mWTT|C;{'ps': 0, 'tr': 3}
+mWgs|B;{'tr': 3, 'ps': 0}
+mWgt|B;{'psrc': 3}
+mWkr|B;{'': 2.5, 'ps': 1}
+mll|C;{'tr': 1}
+mrk|C;{'': 3, 'ps': 2.5}
+mgb|B;{'': 3}
+mk'|A;{'ps': 3}
+mkr|A;{'': 3, 'psit': 2.5, 'psrc': 2.5}
+mlT|A;{'tr': 3}
+mls|B;{'ps': 2.5, '': 3}
+mlml|E;{'': 3}
+mnTr|E;{'': 3}
+mnkWs|E;{'': 3}
+mnt'|E;{'tr': 2}
+mr'|A;{'': 3, 'ps': 2.5}
+mrT|A;{'': 3, 'ps': 2.5}
+mrq|B;{'cs': 3, '': 3}
+mrz|B;{'ps': 2.5}
+mrg|A;{'': 3}
+mrkWz|E;{'ps': 3}
+mrmr|E;{'': 3, 'ps': 0}
+mrr|A;{'': 3}
+msgn|E;{'cs': 1, 'tr': 3}
+mskr|E;{'cs': 3, '': 2.5}
+msl|A;{'cs': 3, '': 3}
+mt'|A;{'ps': 2.5, '': 3}
+mwq|A;{'': 2.5, 'psit': 2.5}
+mwt|A;{'': 2.5}
+mx*|A;{'tr': 2.5, '': 0}
+mzn|B;{'': 3}
+n'T|A;{'': 1}
+n'q|A;{'': 3}
+nC*|A;{'': 3}
+nTl|B;{'': 3}
+nTq|A;{'': 3, 'ps': 2}
+nTr|A;{'tr': 3, '': 0}
+nzz|C;{'ps': 2}
+nb'|A;{'tr': 3}
+nbb|B;{'tr': 3}
+nd'|A;{'': 3}
+ndd|A;{'psrc': 2.5}
+ndf|A;{'': 3, 'ps': 0}
+ndl|A;{'': 3}
+nf'|A;{'': 3}
+nfg|A;{'ps': 1}
+ng'|A;{'': 0, 'tr': 2.5}
+ngd|A;{'': 2.5}
+ngr|A;{'': 3, 'psrc': 2.5}
+ngs|A;{'tr': 3, '': 2.5}
+nk'|A;{'cs': 3, '': 3, 'it': 3, 'ps': 2.5}
+nq'|A;{'trit': 3}
+nqf|A;{'': 3}
+nql|A;{'': 3}
+nqnq|E;{'psrc': 2}
+nqs|A;{'': 3}
+ns'|A;{'cs': 3, 'tr': 3, 'ps': 2.5}
+nsns|E;{'': 3, 'ps': 0}
+ntrk|E;{'psrc': 2}
+nznz|E;{'': 3}
+nzr|A;{'': 1}
+nTlTl|G;{'tr': 3, 'ps': 0, 'psrc': 2}
+nTrr'|H;{'ps': 3}
+nZbb|None;{'tr': 1}
+nbrkk|G;{'tr': 3}
+ngll|J;{'ps': 2}
+ngbgb|G;{'tr': 1}
+ngxgx|G;{'tr': 1}
+nkW'kW'|G;{'tr': 2.5}
+nkbll|H;{'tr': 3, 'ps': 2}
+nkbkb|G;{'psrc': 3}
+nkrtt|H;{'ps': 2}
+nqTqT|G;{'ps': 2.5}
+nqWxx|H;{'tr': 3}
+nqsqs|H;{'tr': 3, 'ps': 0}
+nsff|J;{'ps': 2.5}
+q'T'|E;{'': 1}
+q'm|A;{'': 1}
+qCC|B;{'tr': 1, '': 2}
+qT'|A;{'': 3, 'ps': 2.5}
+qTl|B;{'': 2.5}
+qTn|A;{'': 2.5}
+qTqT|E;{'ps': 2}
+qTr|A;{'ps': 2.5, 'psrc': 2.5}
+qWC*|B;{'cs': 1, 'ps': 2.5}
+qWTqWT|E;{'': 3}
+qWTr|A;{'': 3, 'ps': 0}
+qWC*|C;{'': 3}
+qWlf|B;{'': 3, 'psit': 0}
+qWll|B;{'': 3, 'ps': 0}
+qWnTT|E;{'': 1, 'psrc': 2}
+qWrT|A;{'': 0}
+qWrqWr|E;{'': 1, 'ps': 2}
+qWrs|A;{'': 3}
+qWsl|A;{'tr': 3}
+qWsqWs|E;{'': 3}
+qWy*|B;{'tr': 3, '': 2.5}
+qtt|C;{'': 2}
+qb'|B;{'': 3, 'psrc': 2}
+qbl|B;{'ps': 3}
+qbTr|F;{'': 3}
+qbr|A;{'': 3, 'ps': 0}
+qd'|A;{'': 3}
+qds|B;{'cs': 2, '': 3, 'ps': 2.5}
+qdd|A;{'': 3}
+qdm|A;{'': 3}
+qld|B;{'': 3}
+qlql|F;{'ps': 3, '': 3}
+qlbs|E;{'': 2, 'ps': 0}
+qll|A;{'': 1, 'psrc': 0}
+qmT|B;{'cs': 1, 'ps': 2.5}
+qms|A;{'': 3}
+qn'|A;{'': 3, 'psrc': 0}
+qns|B;{'': 3, 'ps': 0}
+qnqn|E;{'tr': 3}
+qql|B;{'ps': 0, '': 3}
+qr*|A;{'cs': 3, '': 3}
+qrb|A;{'tr': 3, '': 0}
+qrqr|E;{'tr': 2}
+qsqs|E;{'': 3, 'ps': 0}
+qwm|A;{'tr': 3, '': 2.5}
+qym|B;{'ps': 2.5}
+qyr|B;{'': 3}
+qzqz|E;{'tr': 1, '': 0}
+r'b|A;{'': 1, 'ps': 2.5}
+r'q|A;{'trit': 1}
+r's|A;{'': 3}
+rC*|A;{'': 3, 'psrc': 0}
+rb'|A;{'tr': 2.5, 'psrc': 2}
+rbrb|E;{'psrc': 2, '': 1}
+rd'|A;{'cs': 3, '': 3}
+rfd|A;{'tr': 2.5, '': 0}
+rg'|A;{'trit': 3, '': 3, 'psit': 2}
+rgT|A;{'': 0, 'psit': 0}
+rgf|A;{'tr': 3, '': 0, 'trrc': 3}
+rj*|A;{'tr': 2.5}
+rkb|A;{'ps': 3}
+rs'|A;{'cs': 1, '': 3}
+rt'|A;{'': 3, 'ps': 2}
+rwT|A;{'': 2.5, 'psit': 0}
+rzm|A;{'': 1}
+s'b|A;{'': 3, 'ps': 2.5}
+s'l|A;{'': 3, 'ps': 3}
+s'm|A;{'': 3}
+s'q|A;{'cs': 3, '': 2.5}
+s's'|E;{'': 3}
+s't|A;{'csit': 3, '': 3, 'psit': 2.5}
+sN*|A;{'cs': 3}
+sT*|A;{'': 3}
+sb'|A;{'': 3}
+sbk|A;{'': 3}
+sbr|A;{'': 3, 'ps': 0}
+sbsb|E;{'ps': 3}
+sdb|A;{'': 3, 'psrc': 2.5}
+sdd|A;{'': 3, 'ps': 2.5}
+sf'|A;{'cs': 1, '': 0}
+skn|B;{'': 0}
+skr|A;{'': 2.5, 'psrc': 2.5}
+slf|B;{'ps': 2.5}
+sll|B;{'': 3}
+slb|A;{'': 3}
+slc*|E;{'': 1, 'psrc': 2}
+slm|A;{'': 3, 'psrc': 3}
+sm'|A;{'cs': 0, 'psit': 2.5, '': 3, 'ps': 1}
+smT|A;{'': 2}
+smr'|F;{'cs': 3}
+snTq|E;{'': 3}
+snd'|F;{'cs': 3, 'ps': 0}
+snbt|E;{'': 2.5, 'psrc': 3}
+snf|A;{'': 2.5}
+snkl|E;{'psrc': 2}
+sqy*|F;{'cs': 3, 'ps': 2.5}
+sql|A;{'': 3}
+sr'|A;{'': 3, 'cs': 3, 'ps': 0}
+srq|A;{'': 3, 'ps': 0}
+syr|A;{'cs': 2}
+tN'|B;{'cs': 3, '': 2.5}
+tll|C;{'tr': 3, 'ps': 2}
+tf'|A;{'': 3}
+tkWs|B;{'': 3}
+tkz|B;{'': 2.5}
+tkl|A;{'csit': 3, 'ps': 0, '': 3}
+tnfs|E;{'': 2.5}
+tnkWs|E;{'': 3}
+trt|B;{'': 2.5}
+trf|A;{'': 1, 'tr': 3}
+trgWm|E;{'': 3}
+tw|A;{'': 3}
+w'T|A;{'': 3}
+w'l|A;{'tr': 3, '': 2.5}
+wT'|A;{'tr': 3, '': 2.5}
+wTn|B;{'': 3}
+wTr|B;{'': 3}
+wN*|C;{'': 2.5}
+wll|C;{'': 3}
+wtt|C;{'': 3}
+wx*|C;{'': 3}
+wdr|B;{'psit': 2.5}
+wds|B;{'tr': 3}
+wdd|A;{'': 3}
+wdq|A;{'': 2.5}
+wfr|B;{'': 2.5}
+wg'|A;{'': 3, 'ps': 2.5, 'psrc': 3}
+wlwl|F;{'tr': 2}
+wld|A;{'ps': 2.5, '': 3}
+wlq|A;{'tr': 3, 'cs': 1, '': 0}
+wlwl|E;{'': 2}
+wnjl|E;{'': 3}
+wqT|A;{'': 3}
+wqs|A;{'': 3}
+wrf|B;{'': 1}
+wrd|A;{'': 2.5}
+wrr|A;{'': 3}
+wrs|A;{'': 3}
+wsd|A;{'': 3}
+wtwt|E;{'': 1}
+wzwz|E;{'psrc': 2.5}
+x'l|A;{'ps': 1}
+xN*|B;{'': 3, 'ps': 2.5}
+xgr|C;{'cs': 1, 'ps': 2.5}
+xbr|B;{'cs': 3, 'ps': 2}
+xfn|B;{'': 3, 'it': 3}
+xgWT|B;{'ps': 2}
+xkm|B;{'cs': 3}
+xlm|B;{'': 3, 'ps': 2.5}
+xmt|B;{'': 2}
+xmgl|E;{'': 3}
+xnf|A;{'ps': 2.5, 'cs': 3}
+xngl|E;{'': 3}
+xwf|A;{'cs': 2.5}
+xx*|A;{'cs': 0, '': 3}
+xxg|B;{'': 3, 'ps': 2}
+xyT|A;{'': 3}
+xmWTT|H;{'tr': 3}
+xqddm|H;{'ps': 3}
+y'z|A;{'': 3, 'psit': 1, 'ps': 0}
+zg'|A;{'': 3, 'ps': 0}
+zgj*|F;{'ps': 2.5, 'cs': 3}
+zgy*|E;{'': 2.5, 'cs': 3}
+zlf|A;{'': 3}
+zll|A;{'': 3}
+zmr|B;{'': 3}
+zng'|E;{'': 3}
+zr'|A;{'': 3}
+zrf|A;{'': 3}
+zrg'|E;{'': 3}
+zrgf|E;{'': 3}
+zrzr|E;{'': 3}
+zwr|B;{'psit': 2.5}
+zwr|A;{'cs': 3}
+b'l|A;{'': 3, 'ps': 2.5, 'psit': 2.5}
+drg|A;{'cs': 3, 'tr': 3}
+'mm|A;{'': 1, 'ps': 3}
+hwn|A;{'': 3}
+c'l|A;{'': 2.5}
+gN*|A;{'tr': 3, 'trit': 3, 'ps': 2.5, 'psit': 2.5}
+hyd|A;{'': 3}
+'y*|A;{'ps': 3, 'cs': 3, '': 3}
+lmn|B;{'': 3}
+S'f|A;{'': 3}
+slTn|E;{'': 2.5}
+brr|A;{'': 2.5}
+ktf|A;{'': 3}
+msrt|E;{'': 3}
+znb|A;{'': 0}
+dgm|A;{'': 2.5}
+mN*|A;{'ps': 2.5}
+kss|A;{'': 3}
+Tqm|A;{'ps': 2.5}
+'mn|A;{'': 2.5}
+nbb|A;{'tr': 3}
+kbb|A;{'': 3}
+ktt|A;{'': 3}
+wsn|B;{'': 2.5}
+glS|A;{'': 2.5}
+nbr|A;{'': 2.5}
+fnd'|E;{'': 0}
+nks|A;{'': 3}
+wrwr|E;{'': 3}
+'sr|A;{'': 3}
+brkt|E;{'': 0}
+Cnq|B;{'cs': 1}
+mk'|B;{'ps': 2.5}
+xwm|A;{'': 3}
+mlkt|E;{'tr': 2.5}
+klkl|E;{'': 3}
+Tbq|A;{'': 0, 'trrc': 3}
+frT|A;{'': 0}
+fqd|A;{'': 3}
+bql|A;{'': 0}
+gnn|A;{'': 2.5}
+rgm|A;{'': 3}
+dnn|A;{'': 0}
+nfs|A;{'': 2}
+fkr|B;{'': 2.5}
+CfCf|E;{'': 3}
+tltl|E;{'': 3}
+'by|A;{'': 2.5}
+'kb|B;{'': 3}
+qlTf|E;{'': 2.5}
+zmt|A;{'': 2.5}
+tmtm|E;{'': 3}
+'rs|A;{'': 3}
+'mT|B;{'': 2.5}
+nz'|A;{'': 3}
+trtr|E;{'': 3}
+byd|B;{'': 3}
+TmTm|E;{'': 3}

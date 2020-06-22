@@ -1,0 +1,120 @@
+## ;prf,3sm,0o,neg,main
+ti:'aydemeQen # dmq|A;ኣይደመቐን
+te:'idemqe # dmq|A;ኢደምቀ
+ks:'aldemeqe # dmq|A;አልደመቀ
+am:'aldem_eqem # dmq|A;አልደመ፟ቀም
+## ;prf,3sm,0o,neg,rel
+ti:zeydemeQe # dmq|A;ዘይደመቐ
+te:le'idemqe # dmq|A;ለኢደምቀ
+ks:yaldemeqe # dmq|A;ያልደመቀ
+am:yaldem_eqe # dmq|A;ያልደመ፟ቀ
+## ;prf,3sm,0o,aff,main
+ti:demeQe # dmq|A;ደመቐ
+te:demqe # dmq|A;ደምቀ
+ks:dem_eqo # dmq|A;ደመ፟ቆ
+am:dem_eqe # dmq|A;ደመ፟ቀ
+## ;prf,3sm,0o,aff,rel
+ti:zdemeQe # dmq|A;ዝደመቐ
+te:ledemqe # dmq|A;ለደምቀ
+ks:yedem_eqe # dmq|A;የደመ፟ቀ
+am:yedem_eqe # dmq|A;የደመ፟ቀ
+## ;imf,3sm,0o,neg,main
+ti:'ay_dem_Qn # dmq|A;ኣይ፟ደም፟ቕን
+te:'ildem_q # dmq|A;ኢልደም፟ቅ
+ks:tidemq # dmq|A;ቲደምቅ
+am:'aydemqm # dmq|A;አይደምቅም
+## ;imf,3sm,0o,neg,rel
+ti:zey_dem_Q # dmq|A;ዘይ፟ደም፟ቕ
+te:le'ildem_q # dmq|A;ለኢልደም፟ቅ
+ks:'aydemq # dmq|A;አይደምቅ
+am:yem_aydemq # dmq|A;የማ፟ይደምቅ
+## ;imf,3sm,0o,aff,main
+ti:ydem_Q # dmq|A;ይደም፟ቕ
+te:ldem_q # dmq|A;ልደም፟ቅ
+ks:ydemqu # dmq|A;ይደምቁ
+am:ydemqal # dmq|A;ይደምቃል
+## ;imf,3sm,0o,aff,rel
+ti:zidem_Q # dmq|A;ዚደም፟ቕ
+te:leldem_q # dmq|A;ለልደም፟ቅ
+ks:ydemq # dmq|A;ይደምቅ
+am:yem_idemq # dmq|A;የሚ፟ደምቅ
+## ;prf,3sm,0o,neg,main
+ti:'aybeselen # bsl|A;ኣይበሰለን
+am:'albes_elem # bsl|A;አልበሰ፟ለም
+ks:'albesele # bsl|A;አልበሰለ
+te:'ibexle # bxl|A;ኢበሽለ
+## ;prf,3sm,0o,neg,rel
+ti:zeybesele # bsl|A;ዘይበሰለ
+am:yalbes_ele # bsl|A;ያልበሰ፟ለ
+ks:yalbesele # bsl|A;ያልበሰለ
+te:le'ibexle # bxl|A;ለኢበሽለ
+## ;prf,3sm,0o,aff,main
+ti:besele # bsl|A;በሰለ
+am:bes_ele # bsl|A;በሰ፟ለ
+ks:bes_elo # bsl|A;በሰ፟ሎ
+te:bexle # bxl|A;በሽለ
+## ;prf,3sm,0o,aff,rel
+ti:zbesele # bsl|A;ዝበሰለ
+am:yebes_ele # bsl|A;የበሰ፟ለ
+ks:yebes_ele # bsl|A;የበሰ፟ለ
+te:lebexle # bxl|A;ለበሽለ
+## ;imf,3sm,0o,neg,main
+ti:'ay_bes_ln # bsl|A;ኣይ፟በስ፟ልን
+am:'aybeslm # bsl|A;አይበስልም
+ks:tibesl # bsl|A;ቲበስል
+te:'ilbex_l # bxl|A;ኢልበሽ፟ል
+## ;imf,3sm,0o,neg,rel
+ti:zey_bes_l # bsl|A;ዘይ፟በስ፟ል
+am:yem_aybesl # bsl|A;የማ፟ይበስል
+ks:'aybesl # bsl|A;አይበስል
+te:le'ilbex_l # bxl|A;ለኢልበሽ፟ል
+## ;imf,3sm,0o,aff,main
+ti:ybes_l # bsl|A;ይበስ፟ል
+am:ybeslal # bsl|A;ይበስላል
+ks:ybeslu # bsl|A;ይበስሉ
+te:lbex_l # bxl|A;ልበሽ፟ል
+## ;imf,3sm,0o,aff,rel
+ti:zibes_l # bsl|A;ዚበስ፟ል
+am:yem_ibesl # bsl|A;የሚ፟በስል
+ks:ybesl # bsl|A;ይበስል
+te:lelbex_l # bxl|A;ለልበሽ፟ል
+## ps;prf,3sm,0o,neg,main
+am:'altelakem # l'k|A;አልተላከም
+te:'itle'eke # l'k|A;ኢትለአከ
+ti:'aytele'aKen # l'k|A;ኣይተለኣኸን
+ks:'altlake # lhk|A;አልትላከ
+## ps;prf,3sm,0o,neg,rel
+am:yaltelake # l'k|A;ያልተላከ
+te:le'itle'eke # l'k|A;ለኢትለአከ
+ti:zeytele'aKe # l'k|A;ዘይተለኣኸ
+ks:yaltlake # lhk|A;ያልትላከ
+## ps;prf,3sm,0o,aff,main
+am:telake # l'k|A;ተላከ
+te:tle'eke # l'k|A;ትለአከ
+ti:tele'aKe # l'k|A;ተለኣኸ
+ks:telako # lhk|A;ተላኮ
+## ps;prf,3sm,0o,aff,rel
+am:yetelake # l'k|A;የተላከ
+te:letle'eke # l'k|A;ለትለአከ
+ti:zt_ele'aKe # l'k|A;ዝተ፟ለኣኸ
+ks:yetlake # lhk|A;የትላከ
+## ps;imf,3sm,0o,neg,main
+am:'ayl_akm # l'k|A;አይላ፟ክም
+te:'iltl'k # l'k|A;ኢልትልእክ
+ti:'ay_l_e'aKn # l'k|A;ኣይ፟ለ፟ኣኽን
+ks:titlek # lhk|A;ቲትለክ
+## ps;imf,3sm,0o,neg,rel
+am:yem_ayl_ak # l'k|A;የማ፟ይላ፟ክ
+te:le'iltl'k # l'k|A;ለኢልትልእክ
+ti:zey_l_e'aK # l'k|A;ዘይ፟ለ፟ኣኽ
+ks:'aytlek # lhk|A;አይትለክ
+## ps;imf,3sm,0o,aff,main
+am:yl_akal # l'k|A;ይላ፟ካል
+te:ltl'k # l'k|A;ልትልእክ
+ti:yl_e'aK # l'k|A;ይለ፟ኣኽ
+ks:ytleku # lhk|A;ይትለኩ
+## ps;imf,3sm,0o,aff,rel
+am:yem_il_ak # l'k|A;የሚ፟ላ፟ክ
+te:leltl'k # l'k|A;ለልትልእክ
+ti:zil_e'aK # l'k|A;ዚለ፟ኣኽ
+ks:ytlek # lhk|A;ይትለክ
